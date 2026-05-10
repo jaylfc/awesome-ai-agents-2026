@@ -6,7 +6,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/Zijian-Ni/awesome-ai-agents-2026?style=social)](https://github.com/Zijian-Ni/awesome-ai-agents-2026)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Audited](https://img.shields.io/badge/Spam_Audited-2026--05--05-success.svg)](#️-ステータス凡例)
+[![Audited](https://img.shields.io/badge/Spam_Audited-2026--05--10-success.svg)](#️-ステータス凡例)
 [![English](https://img.shields.io/badge/Lang-English-informational.svg)](README.md)
 [![中文](https://img.shields.io/badge/Lang-中文-red.svg)](README.zh-CN.md)
 
@@ -553,7 +553,7 @@
 
 - [Claude Computer Use](https://www.anthropic.com/) - 🆕 Anthropic の「Desktop Intelligence」—— Claude が画面を見、マウス / キーボードで任意のソフトウェアを自動化。
 - [OpenAI Operator](https://openai.com/) - 🆕 予約、フォーム入力、ウェブタスク自動化用のブラウザエージェント。
-- [Google Project Mariner](https://deepmind.google/) - 🆕 Gemini 駆動のマルチタスク AI、並列タスクとルーチン学習。
+- [Google Project Mariner](https://deepmind.google/models/project-mariner/) - 📦 **終了**（2026-05-04）。ブラウザエージェント研究プロジェクト。機能は Gemini Agent に統合された。
 - [Microsoft Copilot Agents](https://www.microsoft.com/en-us/microsoft-copilot/) - 🆕 Microsoft 365 スタック上の自律バックグラウンドエージェント。
 - [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter) - コンピュータへの自然言語インターフェース—— LLM にローカルでコードを実行させる。![GitHub stars](https://img.shields.io/github/stars/OpenInterpreter/open-interpreter?style=flat-square)
 - [Manus AI](https://manus.im/) - 🇨🇳 🆕 クラウド・ローカルハイブリッドモデルの自律汎用 AI エージェント。調査・コーディング・複雑なマルチステップタスクを処理。
@@ -887,6 +887,14 @@
 | **2026-05-01** | Anthropic が Claude Security をパブリックベータでリリース — Opus 4.7 駆動のコードベース脆弱性スキャナー | ツール |
 | **2026-05** | Macquarie Bank が 7 か月で Gemini Enterprise を使って 13 万時間を節約したと報告 | 業界 |
 | **2026-05** | Google が対応車両に Gemini をロールアウトし、Google Assistant を置き換える（英語ファースト、米国から） | 業界 |
+| **2026-05-04** | Google が [Project Mariner](https://deepmind.google/models/project-mariner/) を終了、ブラウザエージェント技術は Gemini Agent に統合 | ツール |
+| **2026-05-04** | Anthropic + Goldman Sachs + Blackstone が **15 億ドルの Claude 導入合弁事業** を発表 — ミッドサイズの Wall Street 企業に Anthropic エンジニアを派遣 | 業界 |
+| **2026-05-05** | OpenAI が **GPT-5.5 Instant** を新しい ChatGPT デフォルトモデルとして展開 — 効率重視のアップグレード、ハルシネーション率を約 50% 削減 | モデル |
+| **2026-05-05** | Anthropic が **Claude Finance Agents** を発表 — ピッチブック作成、KYC、月次決算など 10 個の金融サービス専用エージェント。Claude Cowork プラグイン / Claude Code スキル / Managed Agents クックブックとして利用可能 | ツール |
+| **2026-05-05** | OpenAI ↔ PwC が金融サービスエージェント（予測、支払い）で提携 | 業界 |
+| **2026-05-07** | Google が **Flow（Veo ベース AI 映像制作） に Agent Mode を準備** — 動画制作パイプラインの自動化 | ツール |
+| **2026-05-08** | OpenAI が **GPT-Realtime-2 / Realtime-Translate / Realtime-Whisper** をリリース — 音声エージェント、リアルタイム翻訳、リアルタイム文字起こし | モデル |
+| **2026-05-09** | OpenAI が ChatGPT Enterprise で **Workspace Agents** を展開 — 接続されたアプリ間で繰り返し可能なワークフローを自動化 | ツール |
 | **2026-04** | Gartner は 2026 年末までに企業アプリの 40% が AI エージェントを組み込むと予測 | 業界 |
 | **2026-04** | Google が Anthropic へ最大 $40B の投資をコミット（初期 $10B） | 業界 |
 | **2026 進行中** | A2A Protocol のパートナー組織が 150+ に増加 | プロトコル |

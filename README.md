@@ -6,10 +6,10 @@
 [![GitHub stars](https://img.shields.io/github/stars/Zijian-Ni/awesome-ai-agents-2026?style=social)](https://github.com/Zijian-Ni/awesome-ai-agents-2026)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-May%204%2C%202026-blue.svg)](#)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-May%2010%2C%202026-blue.svg)](#)
 [![Resources](https://img.shields.io/badge/Resources-300%2B-orange.svg)](#)
 [![Categories](https://img.shields.io/badge/Categories-25-purple.svg)](#)
-[![Audited](https://img.shields.io/badge/Spam_Audited-2026--05--05-success.svg)](#️-status-legend)
+[![Audited](https://img.shields.io/badge/Spam_Audited-2026--05--10-success.svg)](#️-status-legend)
 [![Chinese](https://img.shields.io/badge/Lang-中文-red.svg)](README.zh-CN.md)
 [![Japanese](https://img.shields.io/badge/Lang-日本語-purple.svg)](README.ja.md)
 
@@ -582,7 +582,7 @@ Entries may carry one or more status tags so readers can judge maturity at a gla
 
 - [Claude Computer Use](https://www.anthropic.com/) - 🆕 Anthropic's "Desktop Intelligence" — Claude sees your screen and uses mouse/keyboard to automate any software.
 - [OpenAI Operator](https://openai.com/) - 🆕 Browser agent for booking, form-filling, and web task automation.
-- [Google Project Mariner](https://deepmind.google/) - 🆕 Gemini-powered multi-tasking AI with parallel task execution and routine learning.
+- [Google Project Mariner](https://deepmind.google/models/project-mariner/) - 📦 **Discontinued** (2026-05-04). Browser-agent research project; capabilities merged into Gemini Agent.
 - [Microsoft Copilot Agents](https://www.microsoft.com/en-us/microsoft-copilot/) - 🆕 Autonomous background agents across the Microsoft 365 stack. Beyond sidebar — executes tasks and surfaces for approvals.
 - [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers — let LLMs run code locally. ![GitHub stars](https://img.shields.io/github/stars/OpenInterpreter/open-interpreter?style=flat-square)
 - [Manus AI](https://manus.im/) - 🆕 🇨🇳 Autonomous general-purpose AI agent with cloud-to-local hybrid model. Handles research, coding, and complex multi-step tasks.
@@ -931,6 +931,14 @@ Entries may carry one or more status tags so readers can judge maturity at a gla
 | **May 1, 2026** | Anthropic launches Claude Security in public beta — Opus 4.7-powered codebase vulnerability scanner with auto-patches | Tools |
 | **May 2026** | Macquarie Bank reports 130,000 hours saved in 7 months using Gemini Enterprise | Industry |
 | **May 2026** | Google starts rolling Gemini into eligible vehicles, replacing Google Assistant (English-first, U.S. rollout) | Industry |
+| **May 4, 2026** | Google retires [Project Mariner](https://deepmind.google/models/project-mariner/); browser-agent tech folded into Gemini Agent | Tools |
+| **May 4, 2026** | Anthropic + Goldman Sachs + Blackstone announce **$1.5B Claude deployment JV** to embed Anthropic engineers in mid-market Wall Street firms | Industry |
+| **May 5, 2026** | OpenAI rolls out **GPT-5.5 Instant** as the new default ChatGPT model — efficiency-first upgrade, hallucination rate down ~50% | Models |
+| **May 5, 2026** | Anthropic launches **Claude Finance Agents** — 10 specialised agents for pitchbooks, KYC, month-end close, available as Claude Cowork plugins / Claude Code skills / Managed-Agents cookbooks | Tools |
+| **May 5, 2026** | OpenAI ↔ PwC partnership announced for financial-services agents (forecasting, payments) | Industry |
+| **May 7, 2026** | Google preparing **Agent Mode for Flow** (Veo-based AI filmmaking) — automated video production pipeline | Tools |
+| **May 8, 2026** | OpenAI launches **GPT-Realtime-2 / Realtime-Translate / Realtime-Whisper** — voice agents, live translation, real-time transcription | Models |
+| **May 9, 2026** | OpenAI rolls out **Workspace Agents** in ChatGPT Enterprise — repeatable workflow automation across connected apps | Tools |
 | **Apr 2026** | Gartner predicts 40% of enterprise apps will embed AI agents by end of 2026 | Industry |
 | **Apr 2026** | Google commits up to $40B investment in Anthropic (initial $10B) | Industry |
 | **2026 (ongoing)** | A2A Protocol grows to 150+ partner organizations | Protocols |
@@ -959,6 +967,6 @@ This list is released under [MIT License](LICENSE).
 
 Made with ❤️ by [Zijian Ni](https://github.com/Zijian-Ni)
 
-*Last updated: May 4, 2026*
+*Last updated: May 10, 2026*
 
 </div>

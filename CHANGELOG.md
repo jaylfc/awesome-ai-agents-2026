@@ -3,6 +3,35 @@
 All notable changes to **Awesome AI Agents 2026** are recorded here.
 Format: `YYYY-MM-DD  +Added  -Removed  ~Changed`.
 
+## 2026-05-10 — Weekly refresh & PR audit
+
+### — Closed (anti-spam policy)
+
+Three open PRs were reviewed against the anti-spam contributor guidelines and **closed without merge**:
+
+- **#13** *Add AI for Database* by `dann26parr69` — fork named `awesome-ai-agents-2027`; submitter account 2026-02-old, 0 followers, **20+ identical PRs across awesome-lists in 3 weeks** with multiple closures upstream; tool is a closed-source marketing site (no public repo).
+- **#14** *feat: add P2PCLAW* by `Agnuxo1` — self-promotion; project description recycles previously-flagged BenchClaw, false claim of being "part of the OpenClaw family" (no relation to the listed [openclaw/openclaw](https://github.com/openclaw/openclaw)), benchmark numbers ("43× faster than PyTorch", "88.7% memory reduction") not independently reproduced.
+- **#15** *Add Awesome AI Startups* by `ununununium` — fork named `awesome-ai-agents-2027`; submitter blast-PRed **20+ awesome lists in <1 hour** for `NotFair` MCP server. The proposed list itself (`nowork-studio/awesome-ai-startups`, CC0, 88 entries) is legitimate, but accepting parallel-blast PRs rewards spam behaviour. Closed per repository policy; the list may be added later by a non-spam contributor.
+
+### + Added (timeline events for 2026-05-04 → 2026-05-09)
+
+- **2026-05-04** — Google retires Project Mariner; tech folded into Gemini Agent.
+- **2026-05-04** — Anthropic + Goldman Sachs + Blackstone announce $1.5B Claude deployment JV.
+- **2026-05-05** — OpenAI rolls out **GPT-5.5 Instant** as the new default ChatGPT model.
+- **2026-05-05** — Anthropic launches **Claude Finance Agents** (10 specialised agents).
+- **2026-05-05** — OpenAI ↔ PwC partnership for financial-services agents.
+- **2026-05-07** — Google preparing **Agent Mode for Flow** (Veo-based AI filmmaking).
+- **2026-05-08** — OpenAI launches **GPT-Realtime-2 / Realtime-Translate / Realtime-Whisper**.
+- **2026-05-09** — OpenAI rolls out **Workspace Agents** in ChatGPT Enterprise.
+
+### ~ Changed
+
+- **Google Project Mariner** moved from 🆕 New → 📦 Discontinued (2026-05-04). Browser-agent capabilities now live in Gemini Agent.
+- Last-Updated and Spam-Audited badges bumped to **2026-05-10**.
+- Same edits applied to all three READMEs (English, 中文, 日本語).
+
+---
+
 ## 2026-05-05 — Spam audit & expansion pass
 
 ### + Added (new sections)

@@ -6,7 +6,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/Zijian-Ni/awesome-ai-agents-2026?style=social)](https://github.com/Zijian-Ni/awesome-ai-agents-2026)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Audited](https://img.shields.io/badge/Spam_Audited-2026--05--05-success.svg)](#️-状态图例)
+[![Audited](https://img.shields.io/badge/Spam_Audited-2026--05--10-success.svg)](#️-状态图例)
 [![English](https://img.shields.io/badge/Lang-English-informational.svg)](README.md)
 [![日本語](https://img.shields.io/badge/Lang-日本語-red.svg)](README.ja.md)
 
@@ -553,7 +553,7 @@
 
 - [Claude Computer Use](https://www.anthropic.com/) - 🆕 Anthropic "Desktop Intelligence"，看屏幕 + 用鼠标键盘。
 - [OpenAI Operator](https://openai.com/) - 🆕 浏览器 Agent，订票、填表、网页任务。
-- [Google Project Mariner](https://deepmind.google/) - 🆕 Gemini 驱动的多任务 AI，支持并行任务和习惯学习。
+- [Google Project Mariner](https://deepmind.google/models/project-mariner/) - 📦 **已关闭**（2026-05-04）。浏览器 Agent 研究项目，能力已合入 Gemini Agent。
 - [Microsoft Copilot Agents](https://www.microsoft.com/en-us/microsoft-copilot/) - 🆕 Microsoft 365 上的自主后台 Agent。
 - [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter) - 让 LLM 在本地跑代码的自然语言接口。![GitHub stars](https://img.shields.io/github/stars/OpenInterpreter/open-interpreter?style=flat-square)
 - [Manus AI](https://manus.im/) - 🇨🇳 🆕 通用自主 Agent，云本地混合，研究 / 编程 / 复杂任务。
@@ -883,8 +883,16 @@
 | **2026-04-30** | OpenAI GPT-5.5-Cyber 通过 TAC 计划扣发 | 模型 |
 | **2026-04-30** | OpenAI 发布 [《构建 Agent 实战指南》](https://openai.com/business/guides-and-resources/a-practical-guide-to-building-ai-agents/) | 资源 |
 | **2026-05-01** | Anthropic Claude Security 公测 —— Opus 4.7 驱动代码库漏洞扫描 | 工具 |
-| **2026-05** | 麦子銀行报告 7 个月使用 Gemini Enterprise 节约 13 万小时 | 产业 |
+| **2026-05** | 麦格理银行（Macquarie Bank）报告 7 个月使用 Gemini Enterprise 节约 13 万小时 | 产业 |
 | **2026-05** | Google 开始为启用车辆推送 Gemini，替代 Google Assistant（英语优先，美国首发） | 产业 |
+| **2026-05-04** | Google 关闭 [Project Mariner](https://deepmind.google/models/project-mariner/)，浏览器 Agent 技术并入 Gemini Agent | 工具 |
+| **2026-05-04** | Anthropic + Goldman Sachs + Blackstone 宣布 **$1.5B Claude 部署合资公司**，向中型华尔街公司派驻 Anthropic 工程师 | 产业 |
+| **2026-05-05** | OpenAI 把 **GPT-5.5 Instant** 作为 ChatGPT 新默认模型推出 —— 主打效率，幻觉率降低约 50% | 模型 |
+| **2026-05-05** | Anthropic 发布 **Claude Finance Agents** —— 10 个金融服务专用 Agent（路演簿生成、KYC、月末结账），可作为 Claude Cowork 插件 / Claude Code skill / Managed Agents cookbook | 工具 |
+| **2026-05-05** | OpenAI ↔ 普华永道（PwC）合作 —— 金融服务 Agent（预测、支付） | 产业 |
+| **2026-05-07** | Google 为 **Flow（Veo 视频）准备 Agent Mode** —— 视频制作流程自动化 | 工具 |
+| **2026-05-08** | OpenAI 发布 **GPT-Realtime-2 / Realtime-Translate / Realtime-Whisper** —— 语音 Agent、实时翻译、实时转录 | 模型 |
+| **2026-05-09** | OpenAI 在 ChatGPT Enterprise 推出 **Workspace Agents** —— 跨连接应用的可重复工作流自动化 | 工具 |
 | **2026-04** | Gartner 预计 2026 年底 40% 企业应用嵌入 AI Agent | 产业 |
 | **2026-04** | Google 承诺对 Anthropic 跟进最高 $40B 投资（首期 $10B） | 产业 |
 | **2026 持续** | A2A Protocol 合作伙伴增至 150+ | 协议 |
