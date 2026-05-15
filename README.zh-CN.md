@@ -324,7 +324,7 @@
 - [Semantic Kernel](https://github.com/microsoft/semantic-kernel) - 把 LLM 嵌入应用。C# / Python / Java。![GitHub stars](https://img.shields.io/github/stars/microsoft/semantic-kernel?style=flat-square)
 - [Phidata (Agno)](https://github.com/phidatahq/phidata) - 多模态 Agent + 记忆 + 知识 + 工具 + 推理。![GitHub stars](https://img.shields.io/github/stars/phidatahq/phidata?style=flat-square)
 - [DSPy](https://github.com/stanfordnlp/dspy) - "编程而不是写 prompt" 的语言模型框架。![GitHub stars](https://img.shields.io/github/stars/stanfordnlp/dspy?style=flat-square)
-- [OpenClaw](https://github.com/openclaw/openclaw) - 🆕 个人 AI Agent 平台：技能、记忆、多渠道消息、Dreaming（三阶段记忆巩固）、Canvas / A2UI、ACP 编程 harness 集成、Standing Orders。v2026.4.21 支持 Opus 4.7、Kimi K2.6、`/think xhigh`。据称 2026-04 GitHub star 数超过 Linux。![GitHub stars](https://img.shields.io/github/stars/openclaw/openclaw?style=flat-square)
+- [OpenClaw](https://github.com/openclaw/openclaw) - 🆕 个人 AI Agent 平台：技能、记忆、多渠道消息、Dreaming（三阶段记忆巩固）、Canvas / A2UI、ACP 编程 harness 集成、Standing Orders。**v2026.5.12**（2026-05-14）支持 Opus 4.7、Kimi K2.6、`/think xhigh`，新增 native model identity 注入、隔离 Telegram polling worker、MEMORY.md 自动压缩、protected config paths。![GitHub stars](https://img.shields.io/github/stars/openclaw/openclaw?style=flat-square)
 - [Dify](https://github.com/langgenius/dify) - 🇨🇳 开源 LLM 应用开发平台 + 可视化 Agent 构建。![GitHub stars](https://img.shields.io/github/stars/langgenius/dify?style=flat-square)
 - [Haystack Agents](https://github.com/deepset-ai/haystack) - 端到端 LLM 框架，Agent 流水线。![GitHub stars](https://img.shields.io/github/stars/deepset-ai/haystack?style=flat-square)
 - [Vellum AI](https://www.vellum.ai/) - 🆕 闭源 SaaS 生产级 Agent 框架：Prompt 构建 / 评测 / 版本 / 可观测性一体。
@@ -592,6 +592,7 @@
 - [Cartesia](https://www.cartesia.ai/) - 🆕 实时低延迟语音 AI。
 - [Meta Voice AI](https://ai.meta.com/) - 🆕 收购 PlayHT/Play.ai 后的 Meta 语音技术。原 Play.ai 平台 2025-12-31 关停。
 - [Sesame](https://www.sesame.com/) - 🆕 情绪感知 + 自然对话的语音 AI 伙伴。
+- [OpenYabby](https://github.com/OpenYabby/OpenYabby) - 🆕 开源 macOS 语音驱动多 Agent 编排器 — Realtime API + CLI 子进程 + 多通道协调。主 Agent 规划任务并委派给子 Agent 进行评审和 QA。MIT。![GitHub stars](https://img.shields.io/github/stars/OpenYabby/OpenYabby?style=flat-square)
 
 ---
 

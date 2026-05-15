@@ -324,7 +324,7 @@
 - [Semantic Kernel](https://github.com/microsoft/semantic-kernel) - LLM 技術をアプリに統合。C# / Python / Java。![GitHub stars](https://img.shields.io/github/stars/microsoft/semantic-kernel?style=flat-square)
 - [Phidata (Agno)](https://github.com/phidatahq/phidata) - メモリ・知識・ツール・推論つきマルチモーダルエージェント。![GitHub stars](https://img.shields.io/github/stars/phidatahq/phidata?style=flat-square)
 - [DSPy](https://github.com/stanfordnlp/dspy) - "プロンプトを書くのではなくプログラミングする" 言語モデルフレームワーク。![GitHub stars](https://img.shields.io/github/stars/stanfordnlp/dspy?style=flat-square)
-- [OpenClaw](https://github.com/openclaw/openclaw) - 🆕 スキル・メモリ・マルチチャネルメッセージング・Dreaming（3 段階メモリ統合）・Canvas/A2UI・ACP コーディング harness 統合・Standing Orders を備えた個人向け AI エージェントプラットフォーム。v2026.4.21 で Opus 4.7・Kimi K2.6・`/think xhigh` をサポート。2026-04 に GitHub star で Linux を超えたとされる。![GitHub stars](https://img.shields.io/github/stars/openclaw/openclaw?style=flat-square)
+- [OpenClaw](https://github.com/openclaw/openclaw) - 🆕 スキル・メモリ・マルチチャネルメッセージング・Dreaming（3 段階メモリ統合）・Canvas/A2UI・ACP コーディング harness 統合・Standing Orders を備えた個人向け AI エージェントプラットフォーム。**v2026.5.12**（2026-05-14）で Opus 4.7・Kimi K2.6・`/think xhigh`に加え、ネイティブモデルアイデンティティ注入、隔離 Telegram polling worker、MEMORY.md 自動コンパクション、Protected Config Paths に対応。![GitHub stars](https://img.shields.io/github/stars/openclaw/openclaw?style=flat-square)
 - [Dify](https://github.com/langgenius/dify) - 🇨🇳 ビジュアルエージェントビルダー付きオープンソース LLM アプリ開発プラットフォーム。![GitHub stars](https://img.shields.io/github/stars/langgenius/dify?style=flat-square)
 - [Haystack Agents](https://github.com/deepset-ai/haystack) - エージェント型パイプラインのエンドツーエンド LLM フレームワーク。![GitHub stars](https://img.shields.io/github/stars/deepset-ai/haystack?style=flat-square)
 - [Vellum AI](https://www.vellum.ai/) - 🆕 プロダクション級プロプライエタリ SaaS：プロンプト構築・評価・バージョニング・オブザーバビリティ。
@@ -594,6 +594,7 @@
 - [Cartesia](https://www.cartesia.ai/) - 🆕 超低遅延のリアルタイム会話型音声 AI。
 - [Meta Voice AI](https://ai.meta.com/) - 🆕 旧 PlayHT/Play.ai チームの技術を Meta AI ・ AI キャラクター、ウェアラブルに統合。Play.ai は 2025-12-31 にサービス終了。
 - [Sesame](https://www.sesame.com/) - 🆕 感情理解と自然会話を備えた音声 AI コンパニオン。
+- [OpenYabby](https://github.com/OpenYabby/OpenYabby) - 🆕 macOS 向けオープンソースの音声驅動型マルチエージェントオーケストレーター — Realtime API + CLI ランナー + マルチチャネル連携。リードエージェントが計画を立て、レビューと QA をサブエージェントに委任します。MIT。![GitHub stars](https://img.shields.io/github/stars/OpenYabby/OpenYabby?style=flat-square)
 
 ---
 
