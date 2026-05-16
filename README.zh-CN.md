@@ -6,7 +6,8 @@
 [![GitHub stars](https://img.shields.io/github/stars/Zijian-Ni/awesome-ai-agents-2026?style=social)](https://github.com/Zijian-Ni/awesome-ai-agents-2026)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Audited](https://img.shields.io/badge/Spam_Audited-2026--05--10-success.svg)](#️-状态图例)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-May%2016%2C%202026-blue.svg)](#)
+[![Audited](https://img.shields.io/badge/Spam_Audited-2026--05--16-success.svg)](#️-状态图例)
 [![English](https://img.shields.io/badge/Lang-English-informational.svg)](README.md)
 [![日本語](https://img.shields.io/badge/Lang-日本語-red.svg)](README.ja.md)
 
@@ -79,6 +80,9 @@
 - [GPT-4o](https://openai.com/index/hello-gpt-4o/) - Omni 模型，原生支持文本/视觉/音频。2026-02 从 ChatGPT 下线，API 仍可用。
 - [o3 / o4-mini](https://openai.com/index/introducing-o3-and-o4-mini/) - 思维链推理模型。2025-04 发布。
 - [Codex CLI](https://github.com/openai/codex) - OpenAI 出品的开源终端编程 Agent。![GitHub stars](https://img.shields.io/github/stars/openai/codex?style=flat-square)
+- [OpenAI Deployment Company (DeployCo)](https://openai.com/index/openai-launches-the-deployment-company/) - 🆕 **2026-05-11**。OpenAI 控股的企业 AI 落地服务公司，$4B+ 启动资金，TPG / Advent / Bain Capital / Brookfield / Goldman Sachs / SoftBank 与 Bain & Company / Capgemini / McKinsey 等共投。围绕 Forward Deployed Engineers 体系，并吸收 Tomoro 咨询团队（~150 人）。
+- [Codex on Mobile](https://9to5mac.com/2026/05/14/openai-brings-codex-control-to-chatgpt-for-iphone-and-android/) - 🆕 **2026-05-14**。ChatGPT iOS / Android 远程操控 Mac 上的 Codex 桌面 App —— 查看输出、批准操作、切换模型、启动新任务，文件 / 凭据 / 权限仍留在本机。Free / Plus / Go 预览。
+- [OpenAI ↔ Malta 合作](https://openai.com/index/malta-chatgpt-plus-partnership/) - 🆕 **2026-05-16**。首次国家级合作：完成马耳他大学开发的 2 小时 AI 素养课程后，所有 14 岁以上马耳他公民 / 居民可免费获得 1 年 ChatGPT Plus。"OpenAI for Countries" 计划的首站。
 
 ### Anthropic
 
@@ -90,11 +94,17 @@
 - [Claude Sonnet 4](https://www.anthropic.com/news/claude-4) - 2025-05 发布。
 - [Claude Code](https://docs.anthropic.com/en/docs/claude-code) - Anthropic 出品、运行在终端里的 Agent 化编程工具。Opus 4.7 + `/think xhigh`。
 - [Claude Security](https://www.anthropic.com/) - 🆕 **2026-05-01** 公测。Opus 4.7 驱动的企业级代码漏洞扫描器：扫整个代码库，生成有置信度评分、严重程度、复现步骤、修复建议的补丁。Enterprise 用户在 [claude.ai/security](https://claude.ai/security) 使用。
+- [Anthropic ↔ SpaceX Colossus 1](https://www.siliconrepublic.com/business/anthropic-joins-forces-with-spacex-for-colossus-capacity) - 🆕 **2026-05-06**。Anthropic 拿下 SpaceX Memphis 数据中心 Colossus 1 全部算力（22 万+ NVIDIA H100 / H200 / GB200，300+ MW）用于 Claude Opus 推理；Claude Code 5 小时速率上限翻倍，Pro / Max 取消高峰期限流。
+- [Claude for Legal](https://www.anthropic.com/news/claude-for-legal) - 🆕 **2026-05-12**。Claude Cowork 之上的法律垂直栈：**20+ 个 MCP 连接器**（iManage、NetDocuments、DocuSign、Ironclad、LexisNexis、Westlaw、Harvey、Everlaw、Relativity、CourtListener 等）+ **12 个执业领域 plugin**（商事、雇佣、隐私、产品、公司、AI 治理、诉讼助理、备考律考）。原生集成 Word / Outlook / Excel / PowerPoint。
+- [Claude for Small Business](https://www.anthropic.com/news/claude-for-small-business) - 🆕 **2026-05-13**。Claude Cowork 中的中小企业开关 —— 15 个预置 Agent 工作流，覆盖财务 / 运营 / 销售 / 营销 / HR / 客服；原生连 QuickBooks、PayPal、HubSpot、Canva、DocuSign、Google Workspace、Microsoft 365。配套免费课程 + 美国 10 城线下工作坊巡讲。
+- [Anthropic ↔ Gates Foundation $200M](https://www.anthropic.com/news/gates-foundation-partnership) - 🆕 **2026-05-14**。4 年 $200M 合作：资助 + Claude 使用额度 + Anthropic 工程师投入到全球健康、生命科学、教育、农业，所有产出工具公开免费；首批方向包括小儿麻痹 / HPV / 子痫前期疫苗研发与农业版 Claude。
+- [Anthropic ↔ PwC 战略扩张](https://www.pwc.com/us/en/about-us/newsroom/press-releases/anthropic-pwc-expand-alliance-agentic-enterprise.html) - 🆕 **2026-05-14**。PwC 全球铺开 Claude Code + Claude Cowork，认证 30,000 名员工，共建 "Agentic Enterprise" 卓越中心；聚焦 Agent 构建、AI 原生并购，以及财务 / 供应链 / HR 重塑。
 
 ### Google DeepMind
 
 - [Gemini 3.1 Pro](https://deepmind.google/technologies/gemini/) - 2026-02 发布。BenchLM 94，GPQA Diamond 94.3%（世界纪录），ARC-AGI 2 77.1%。Google 最强模型，旗舰定价 `$2/1M tokens`。
 - [Gemini 3.1 Flash Live](https://deepmind.google/technologies/gemini/) - 🆕 2026-04。语音助手与交互式 Agent 的实时多模态流式接口，低延迟长上下文。
+- [Gemini 3.1 Flash-Lite (GA)](https://cloud.google.com/blog/products/ai-machine-learning/gemini-3-1-flash-lite-is-now-generally-available) - 🆕 **2026-05-08**。Gemini API / AI Studio / Vertex AI 全面 GA。Gemini 3 家族中最快、最省的型号，面向超低延迟代码补全、实时 UX、Agent 开发工具；质量持平 Gemini 2.5 Flash，成本明显更低。
 - [Gemini 3.1 Flash / Flash Lite](https://deepmind.google/technologies/gemini/) - 高吞吐应用的高性价比选择。
 - [Gemini 4 (Open)](https://deepmind.google/technologies/gemini/) - 🆕 2026-04 发布。开源家族：2B / 4B / 26B / 31B 变体。科学推理与文档理解强，本地部署友好。
 - [Gemini 2.5 Pro / Flash](https://deepmind.google/technologies/gemini/) - 2025-06 GA。Thinking 模型，1M 上下文。
@@ -109,6 +119,16 @@
 - [Llama 4 Maverick](https://llama.meta.com/) - 400B 总参（17B 激活），128 专家，1M 上下文。多模态超过 GPT-4o。
 - [Llama 4 Behemoth](https://llama.meta.com/) - 2T 总参（288B 激活）。Meta 最强模型，对标顶级闭源。
 - [Llama 3.3 70B](https://llama.meta.com/) - 强指令跟随，Llama Community License。
+
+### Sakana AI
+
+- [Sakana RL Conductor](https://venturebeat.com/orchestration/how-sakana-trained-a-7b-model-to-orchestrate-gpt-5-claude-sonnet-4-and-gemini-2-5-pro) - 🆕 **论文 2026-04-27 / Fugu beta 2026-04 末至 2026-05 初**。基于 Qwen2.5-7B 的 RL 训练编排模型，用强化学习把子任务分发给 GPT-5、Claude Sonnet 4、Gemini 2.5 Pro 等。LiveCodeBench 83.9%、GPQA-Diamond 87.5% SOTA，每次查询约 1.8K token，远低于其他多 Agent 合奏。
+- [Sakana Fugu](https://sakana.ai/fugu-beta/) - 🆕 **2026-04-24 / 25 公测**。把 RL Conductor 研究产品化的多 Agent 编排商用服务，兼容 OpenAI 接口，分 **Fugu Mini**（低延迟）和 **Fugu Ultra**（最大性能）两档；在 SWE-Pro、GPQA-D、ALE-Bench 表现亮眼。
+
+### Zyphra
+
+- [ZAYA1-8B](https://www.zyphra.com/post/zaya1-8b) - 🆕 **2026-05-06**。MoE 推理模型（激活参数 <1B），完全在 AMD Instinct MI300X 集群上训练。Apache 2.0 权重已在 Hugging Face，并在 Zyphra Cloud 提供 serverless 端点；强调每激活参数的智能密度。
+- [ZAYA1-8B-Diffusion-Preview](https://www.zyphra.com/post/zaya1-8b-diffusion-preview) - 🆕 **2026-05-14**。首个从自回归 LLM 转换得来的 MoE 扩散语言模型，也是首个在 AMD GPU 上训练的扩散 LM。每步生成 16 个 token，相比自回归基线最多 **7.7× 推理加速**；采用 Zyphra 的 TiDAR 训练配方 + CCA 注意力。
 
 ### Mistral AI
 
@@ -333,6 +353,8 @@
 - [Lindy](https://www.lindy.ai/) - 🆕 商务用户向无代码 Agent，可视化工作流。
 - [Octomind](https://github.com/muvon/octomind) - 🆕 Rust 开源 AI Agent 运行时。多模型（13+），社区贡献的领域 Agent（开发 / 医疗 / 法律 / DevOps），支持 MCP 运行时自扩展。Apache 2.0。![GitHub stars](https://img.shields.io/github/stars/muvon/octomind?style=flat-square)
 - [Microsoft AI Agent Governance Toolkit](https://www.helpnetsecurity.com/2026/04/03/microsoft-ai-agent-governance-toolkit/) - 🆕 **2026-04-03**。开源治理工具包，把运行时安全策略以策略即代码方式应用到 LangChain / AutoGen 等框架。
+- [Bernstein](https://github.com/sipyourdrink-ltd/bernstein) - 🆕 Python 编排器，统一管理 40+ 个 CLI 编程 Agent（Claude Code、Codex、Gemini CLI、Cursor、Aider 等）。一次 LLM 计划调用后，调度、git worktree 隔离、质量闸门、HMAC 链式审计都是确定性的。Apache 2.0。![GitHub stars](https://img.shields.io/github/stars/sipyourdrink-ltd/bernstein?style=flat-square)
+- [Genkit Middleware](https://developers.googleblog.com/announcing-genkit-middleware-intercept-extend-and-harden-your-agentic-apps/) - 🆕 **2026-05-14**。Google 为开源 Genkit 框架增加中间件体系 —— 在 generate / model / tool 三层给出可组合 hooks：重试、模型降级、工具人工审批、SKILL.md 技能注入、限定范围的文件访问。先支持 TS / Go / Dart，Python 跟进中。
 
 ---
 
@@ -467,9 +489,11 @@
 - [GitHub Copilot](https://github.com/features/copilot) - 2026 初支持 Agent 模式，`gh copilot` 终端集成。
 - [Kiro](https://kiro.dev/) - AWS 自主 Agent。Spec-driven，最多 10 个并发任务。
 - [Amazon Q Developer](https://aws.amazon.com/q/developer/) - AWS 生态深度集成。
+- [Visual Studio 2026 Agent Mode + Skills](https://devblogs.microsoft.com/visualstudio/agent-skills-in-visual-studio/) - 🆕 **VS 2026 Insiders 2026-05-12 – 15**。Copilot Chat "Agent Mode" 现在能在 Visual Studio 2026 里发现、管理、创建可复用的 Copilot Skill，能看到整个解决方案的上下文，还能执行终端命令与调用外部工具。
 
 ### 自主软件工程师
 
+- [Cursor 3.4 云 Agent 环境](https://cursor.com/changelog) - 🆕 **2026-05-13**。为云上 Agent / 自动化提供多仓库环境、带 build secrets 的 Dockerfile 配置、快 70% 的镜像层缓存、每个环境独立的版本历史 + 回滚、审计日志、限定范围的出网 / secrets。
 - [Devin 3.0](https://www.cognition.ai/) - 🆕 Cognition。动态重新规划、自愈代码、遗留代码迁移。多模态输入（UI 截图、视频）。
 - [OpenHands](https://github.com/All-Hands-AI/OpenHands) - 自托管的开源 Agent 软件开发平台。![GitHub stars](https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=flat-square)
 - [SWE-agent](https://github.com/SWE-agent/SWE-agent) - 把 LLM 变成能修复 GitHub issue 的工程师。![GitHub stars](https://img.shields.io/github/stars/SWE-agent/SWE-agent?style=flat-square)
@@ -494,6 +518,8 @@
 ### 人形机器人
 
 - [Tesla Optimus Gen3](https://www.tesla.com/) - 🆕 2026 夏季量产。
+- [Figure 04](https://autonews.gasgoo.com/articles/news/figure-founder-f04-robot-initiates-component-delivery-process-2054560059634376705) - 🆕 **2026-05-13**。Brett Adcock 宕告 Figure 04 设计定型，零部件已开始交付，使用 Helix VLA 型号。
+- [Helix 02 包裹分拧 72h 运行](https://www.businessinsider.com/figure-ai-turned-a-humanoid-sorting-packages-must-see-tv-2026-5) - 🆕 **2026-05-13 – 16**。Figure F.03 机器人队靠 Helix 02 完全自主在包裹分拧线上运行：首天 8 小时 ~22K 包裹，24 小时 ↑到 ~30K，压力测试下约 72 小时 ~88K 包裹后出现机械故障。首份公开的家用型人形机器人连续作业证据。
 - [Honour (荣耀) Humanoid](https://www.honor.com/) - 🇨🇳 🆕 2026 年人形半马世界纪录。
 - [Zhiyuan (智元) AGIBOT](https://www.agibot.com/) - 🇨🇳 🆕 2026-04 新本体 + 基模 + 解决方案。把 2026 称为 "Deployment Year Zero"。
 - [Unitree H 系列](https://www.unitree.com/) - 🇨🇳 国产 Boston Dynamics 对手，2026 持续迭代。
@@ -560,6 +586,7 @@
 - [Genspark](https://www.genspark.ai/) - 🆕 mixture-of-agents 全能工作 Agent，能打电话。
 - [Perplexity Computer](https://www.perplexity.ai/) - 🆕 多模型编排 + 本地文件访问，研究向。
 - [Beam AI](https://beam.ai/) - 🆕 自学习桌面 Agent。
+- [ChatGPT Workspace Agents](https://venturebeat.com/orchestration/openai-unveils-workspace-agents-a-successor-to-custom-gpts-for-enterprises-that-can-plug-directly-into-slack-salesforce-and-more) - 🆕 **研究预览 2026-04-22，2026-05-06 走积分计费，2026-05-07 支持 EKM**。OpenAI 为企业推出的 Custom GPTs 后继 —— 云端 Agent，能访问文件、执行代码、原生接 Slack / Google Drive / Salesforce，可调度周期任务；Business / Enterprise / Edu / Teachers 可用，底层走 Codex。
 
 ---
 
@@ -640,6 +667,8 @@
 - [AgentX](https://www.agentx.so/) - 🆕 即插即用的企业 Agent 自动化。
 - [OutSystems](https://www.outsystems.com/) - 🆕 关键应用快速构建 + Agent 治理。
 - [Sema4.ai](https://sema4.ai/) - 🆕 Python 优先 + 内置治理的企业 Agent 平台。
+- [SAP Business AI Platform + Joule Studio 2.0](https://news.sap.com/2026/05/sap-sapphire-sap-unveils-autonomous-enterprise/) - 🆕 **SAP Sapphire 2026（2026-05-11 – 13）**。SAP 把 BTP + Business Data Cloud + Business AI 合并为一个平台，重新定位 Joule 为 Agent 操作层。**Joule Studio 2.0**（2026-06 起陆续到达客户）可以用 LangGraph / AutoGen 类框架底座着 SAP 的实时业务数据构建 Agent；**Autonomous Suite** 带来 50+ 领域 Joule Assistant 与 200+ Agent。
+- [Microsoft Agent 365 + Microsoft 365 E7](https://techcommunity.microsoft.com/blog/agent-365-blog/microsoft-365-e7--agent365-from-where-you-are-to-enterprise-ai-at-scale/4519969) - 🆕 **2026-05-01 GA**，5 月持续补充。以身份为中心的 AI Agent 控制面：独立 $15/用户/月，或 $99/用户/月随新推的 Microsoft 365 E7 "Frontier" 套套；5 月补丁加上了 AWS Bedrock + Google Cloud 注册表同步、Intune / Defender 预览策略，以及 Agent 专用 SASE。
 
 ---
 
@@ -836,6 +865,10 @@
 - [Cohere + Aleph Alpha 合并](https://siliconangle.com/2026/04/24/ai-startups-cohere-aleph-alpha-merge-600m-new-funding/) - 🆕 **2026-04-24**。东西合作 “主权 AI”，多伦多 + 德国双总部，$20B 估值 + $600M 资金。
 - [ScienceOne 100 / 磐石100](https://english.cas.cn/newsroom/cas-in-media/202604/t20260429_1158251.shtml) - 🇨🇳 🆕 **2026-04-28~29**。中科院专业科研 AI 系统。
 - [Google 投资 Anthropic $40B](https://aibusiness.com/generative-ai/google-could-invest-another-40-billion-anthropic) - 🆕 **2026-04**。$10B 初始 + 最高 $30B，含 5GW 算力。
+- [OpenAI Deployment Company (DeployCo)](https://openai.com/index/openai-launches-the-deployment-company/) - 🆕 **2026-05-11**。OpenAI 拆出 $4B+ 企业部署服务公司（TPG / Bain Capital / Brookfield / Advent / Goldman Sachs / SoftBank + Bain & Company / Capgemini / McKinsey）并吸收 Tomoro 咨询，标志着 AI 厂商竞争向服务 + Forward Deployed Engineers 转向。
+- [Anthropic ↔ SpaceX Colossus 1](https://www.siliconrepublic.com/business/anthropic-joins-forces-with-spacex-for-colossus-capacity) - 🆕 **2026-05-06**。Anthropic 拿下 SpaceX 300+ MW / 22 万 GPU 的 Colossus 1 所有可用算力；SpaceX 在收购 xAI 后重新定位为 AI 基础设施提供商，Anthropic 则翻倍付费计划下 Claude Code 的限流。
+- [DeepSeek $4B 国家背景轮次](https://www.techtimes.com/articles/316717/20260516/chinas-state-ai-fund-backs-deepseek-4-billion-round-efficiency-challenge-nvidia-dependent.htm) - 🆕 **2026-05-16**。中国国家人工智能产业投资基金 + 大基金三期 + 腾讯 接近完成对 DeepSeek 首次外部轮次，~$4B 金额在 ~$50B 估值上，也是大基金三期已知首次 LLM 投资。
+- [教宗利奥 14 世 → 梵蒂冈 AI 委员会](https://www.americamagazine.org/vatican-dispatch/2026/05/16/pope-leo-establishes-new-vatican-commission-on-artificial-intelligence/) - 🆕 **2026-05-16**。教宗利奥 14 世发布 rescriptum 设立梵蒂冈跨部门 AI 委员会（人类整体发展部统筹，叠加信仰部、文化与教育部、传信部、宿呀领生命 / 科学 / 社会科学馆），任期 1 年可续；首份 AI 为题的通谕即将发布。
 
 ---
 
@@ -894,6 +927,20 @@
 | **2026-05-07** | Google 为 **Flow（Veo 视频）准备 Agent Mode** —— 视频制作流程自动化 | 工具 |
 | **2026-05-08** | OpenAI 发布 **GPT-Realtime-2 / Realtime-Translate / Realtime-Whisper** —— 语音 Agent、实时翻译、实时转录 | 模型 |
 | **2026-05-09** | OpenAI 在 ChatGPT Enterprise 推出 **Workspace Agents** —— 跨连接应用的可重复工作流自动化 | 工具 |
+| **2026-05-11** | [OpenAI Deployment Company](https://openai.com/index/openai-launches-the-deployment-company/) 成立 —— $4B+ 企业服务子公司，TPG / Bain Capital / Brookfield + Bain & Company / Capgemini / McKinsey 共投；合并 Tomoro 咨询 | 产业 |
+| **2026-05-11 – 13** | [SAP Sapphire 2026 Orlando](https://news.sap.com/2026/05/sap-sapphire-sap-unveils-autonomous-enterprise/) — SAP Business AI Platform、**Joule Studio 2.0**、Autonomous Suite（50+ 领域 Assistant + 200+ Agent）；Joule Studio 2.0 从 2026-06 起 GA | 产业 |
+| **2026-05-12** | [Claude for Legal](https://www.anthropic.com/news/claude-for-legal) — Claude Cowork 上 20+ 个 MCP 连接器（iManage、NetDocuments、DocuSign、LexisNexis、Westlaw、Harvey、Everlaw、Relativity 等）+ 12 个执业领域 plugin | 工具 |
+| **2026-05-12 – 15** | [Visual Studio 2026 Insiders](https://devblogs.microsoft.com/visualstudio/agent-skills-in-visual-studio/) — Copilot Chat "Agent Mode" 在 IDE 里引入引导式 Agent Skills 创作 | 工具 |
+| **2026-05-13** | [Claude for Small Business](https://www.anthropic.com/news/claude-for-small-business) — 15 个预置 Agent 工作流 + QuickBooks / PayPal / HubSpot / Canva / DocuSign / Google Workspace / Microsoft 365 连接器；美国 10 城巡讲 | 工具 |
+| **2026-05-13** | [Cursor 3.4 云 Agent 环境](https://cursor.com/changelog) — 多仓库，带 build secrets 的 Dockerfile 配置，快 70% 镜像缓存，环境版本历史，审计日志，限定出网 / secrets | 工具 |
+| **2026-05-13 – 16** | [Figure Helix 02 直播](https://www.businessinsider.com/figure-ai-turned-a-humanoid-sorting-packages-must-see-tv-2026-5) — F.03 + Helix 02 在包裹分拧线压力测试，8 小时 ~22K，24 小时 ~30K，~72 小时 ~88K 包裹 | 机器人 |
+| **2026-05-14** | [Anthropic ↔ Gates Foundation $200M 合作](https://www.anthropic.com/news/gates-foundation-partnership) — 4 年资助 + Claude 额度 + Anthropic 工程，面向全球健康 / 生命科学 / 教育 / 农业 | 产业 |
+| **2026-05-14** | [Anthropic ↔ PwC 联盟扩张](https://www.pwc.com/us/en/about-us/newsroom/press-releases/anthropic-pwc-expand-alliance-agentic-enterprise.html) — 全球 Claude Code + Cowork 铺开，认证 30,000 名 PwC 员工，共建 Agentic Enterprise 卓越中心 | 产业 |
+| **2026-05-14** | [Genkit Middleware](https://developers.googleblog.com/announcing-genkit-middleware-intercept-extend-and-harden-your-agentic-apps/) — Google 为开源 Genkit 加上可组合中间件（TS / Go / Dart）| 框架 |
+| **2026-05-14** | [Zyphra ZAYA1-8B-Diffusion-Preview](https://www.zyphra.com/post/zaya1-8b-diffusion-preview) — 首个从自回归 LLM 转换得来的 MoE 扩散语言模型；首个在 AMD GPU 上训练的扩散 LM；最多 7.7× 推理加速 | 模型 |
+| **2026-05-16** | [教宗利奥 14 世设立梵蒂冈 AI 委员会](https://www.americamagazine.org/vatican-dispatch/2026/05/16/pope-leo-establishes-new-vatican-commission-on-artificial-intelligence/) — 跨部门机构，首份 AI 通谕即将发布 | 产业 |
+| **2026-05-16** | [OpenAI ↔ Malta 合作](https://openai.com/index/malta-chatgpt-plus-partnership/) — 所有 14 岁以上马耳他居民在完成 2 小时 AI 素养课后获得一年免费 ChatGPT Plus（"OpenAI for Countries"）| 产业 |
+| **2026-05-16** | [DeepSeek 国家背景 $4B 轮次](https://www.techtimes.com/articles/316717/20260516/chinas-state-ai-fund-backs-deepseek-4-billion-round-efficiency-challenge-nvidia-dependent.htm) — 国家 AI 产业基金 + 大基金三期 + 腾讯 主导，~$50B 估值首次外部轮 | 产业 |
 | **2026-04** | Gartner 预计 2026 年底 40% 企业应用嵌入 AI Agent | 产业 |
 | **2026-04** | Google 承诺对 Anthropic 跟进最高 $40B 投资（首期 $10B） | 产业 |
 | **2026 持续** | A2A Protocol 合作伙伴增至 150+ | 协议 |

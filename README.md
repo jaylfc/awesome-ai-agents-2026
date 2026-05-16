@@ -6,10 +6,10 @@
 [![GitHub stars](https://img.shields.io/github/stars/Zijian-Ni/awesome-ai-agents-2026?style=social)](https://github.com/Zijian-Ni/awesome-ai-agents-2026)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-May%2010%2C%202026-blue.svg)](#)
-[![Resources](https://img.shields.io/badge/Resources-340%2B-orange.svg)](#)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-May%2016%2C%202026-blue.svg)](#)
+[![Resources](https://img.shields.io/badge/Resources-360%2B-orange.svg)](#)
 [![Categories](https://img.shields.io/badge/Categories-25-purple.svg)](#)
-[![Audited](https://img.shields.io/badge/Spam_Audited-2026--05--10-success.svg)](#️-status-legend)
+[![Audited](https://img.shields.io/badge/Spam_Audited-2026--05--16-success.svg)](#️-status-legend)
 [![Chinese](https://img.shields.io/badge/Lang-中文-red.svg)](README.zh-CN.md)
 [![Japanese](https://img.shields.io/badge/Lang-日本語-purple.svg)](README.ja.md)
 
@@ -37,26 +37,26 @@ Entries may carry one or more status tags so readers can judge maturity at a gla
 
 | Category | Description | Count |
 |----------|-------------|-------|
-| [🧠 Foundation Models](#-foundation-models-2026) | Latest LLMs from OpenAI, Anthropic, Google, Meta, and 20+ providers | 65+ |
+| [🧠 Foundation Models](#-foundation-models-2026) | Latest LLMs from OpenAI, Anthropic, Google, Meta, and 22+ providers | 75+ |
 | [🎨 Multimodal & Generative AI](#-multimodal--generative-ai) | Image, video, audio, and music generation | 20+ |
 | [🔗 Agent Protocols](#-agent-protocols--standards) | MCP, A2A, and interoperability standards | 10+ |
-| [🏗️ Agent Frameworks](#️-agent-frameworks) | Libraries for building autonomous AI agents | 22+ |
+| [🏗️ Agent Frameworks](#️-agent-frameworks) | Libraries for building autonomous AI agents | 23+ |
 | [🛠️ Agent IDEs & Visual Builders](#️-agent-ides--visual-builders) | Visual / low-code environments for designing agent flows | 8+ |
 | [🧠 Agent Memory](#-agent-memory) | Persistent memory and context management | 10+ |
 | [🔌 Tool & API Integration](#-tool--api-integration) | Connecting agents to external services | 15+ |
 | [🧪 Sandboxing & Compute Isolation](#-agent-sandboxing--compute-isolation) | Secure runtimes for agent-generated code | 7+ |
 | [🛡️ Agent Security](#️-agent-security) | Prompt injection defense and guardrails | 14+ |
 | [🔍 RAG & Knowledge](#-rag--knowledge) | Retrieval-augmented generation systems | 12+ |
-| [💻 Coding Agents](#-coding-agents) | AI-powered software engineering | 22+ |
-| [🤖 Physical AI](#-physical-ai--embodied-agents) | Humanoid robots, embodied AI, industrial automation | 18+ |
+| [💻 Coding Agents](#-coding-agents) | AI-powered software engineering | 24+ |
+| [🤖 Physical AI](#-physical-ai--embodied-agents) | Humanoid robots, embodied AI, industrial automation | 19+ |
 | [🎮 Simulation & World Models](#-agent-simulation--world-models) | Sim environments for training and stress-testing agents | 7+ |
 | [📊 Benchmarks](#-benchmarks--leaderboards) | Leaderboards tracking frontier capability | 11+ |
-| [🖥️ Computer Use](#️-computer-use--desktop-agents) | Desktop automation and OS-level control | 9+ |
+| [🖥️ Computer Use](#️-computer-use--desktop-agents) | Desktop automation and OS-level control | 10+ |
 | [🌐 Browser & Web Agents](#-browser--web-agents) | Agents that drive real browsers | 9+ |
 | [🗣️ Voice & Multimodal Agents](#️-voice--multimodal-agents) | Voice-enabled conversational AI | 10+ |
 | [📱 Personal AI Agents](#-personal-ai-agents) | Productivity and daily life assistants | 10+ |
 | [📱 Mobile Agents](#-mobile-agents) | Phone-control agents (Android / iOS) | 6+ |
-| [🏢 Enterprise Platforms](#-enterprise-agent-platforms) | Enterprise-grade agent deployment | 12+ |
+| [🏢 Enterprise Platforms](#-enterprise-agent-platforms) | Enterprise-grade agent deployment | 14+ |
 | [📊 Evaluation & Observability](#-agent-evaluation--observability) | Testing, monitoring, and benchmarking | 17+ |
 | [🔬 AI Research Tools](#-ai-research-tools) | Tools for AI/ML research and experimentation | 10+ |
 | [📚 Learning Resources](#-learning-resources) | Papers, courses, and tutorials | 20+ |
@@ -111,6 +111,9 @@ Entries may carry one or more status tags so readers can judge maturity at a gla
 - [GPT-Realtime-2](https://openai.com/) - 🆕 **May 8, 2026**. GPT-5-class reasoning brought to the Realtime API, 128K context, parallel tool calls with audio feedback, adjustable reasoning effort.
 - [GPT-Realtime-Translate](https://openai.com/) - 🆕 **May 8, 2026**. Live speech-to-speech translation across 70+ input languages and 13 output languages.
 - [GPT-Realtime-Whisper](https://openai.com/) - 🆕 **May 8, 2026**. Streaming low-latency speech-to-text companion to GPT-Realtime-2.
+- [OpenAI Deployment Company (DeployCo)](https://openai.com/index/openai-launches-the-deployment-company/) - 🆕 **May 11, 2026**. New OpenAI-majority-owned services entity for enterprise AI rollout. Backed by **$4B+** from TPG / Advent / Bain Capital / Brookfield / Goldman Sachs / SoftBank and consulting partners Bain & Company, Capgemini, McKinsey. Built around Forward Deployed Engineers; absorbs the Tomoro AI consulting acquisition (~150 engineers).
+- [Codex on Mobile](https://9to5mac.com/2026/05/14/openai-brings-codex-control-to-chatgpt-for-iphone-and-android/) - 🆕 **May 14, 2026**. ChatGPT iOS/Android can now remote-control the Codex desktop app — review outputs, approve actions, switch models, and kick off new tasks from the phone while the live session runs on Mac (Windows next). Rolling out as preview to Free, Plus and Go users.
+- [OpenAI ↔ Malta partnership](https://openai.com/index/malta-chatgpt-plus-partnership/) - 🆕 **May 16, 2026**. First country-wide deal: every Maltese citizen / resident aged 14+ gets a free 1-year ChatGPT Plus subscription after completing a 2-hour AI literacy course built by the University of Malta. Part of the "OpenAI for Countries" initiative; phased rollout starting May 2026.
 - [GPT-5.4](https://openai.com/) - Released March 2026. Frontier model with 1M-token context, advanced coding, computer use, tool search. BenchLM 94, SWE-bench Verified 77.2%, OSWorld 75% (beats human).
 - [GPT-5.4 Pro](https://openai.com/) - Higher-accuracy variant of GPT-5.4. BenchLM 92.
 - [GPT-5.3](https://openai.com/) - Early 2026. Includes GPT-5.3 Instant (conversations) and GPT-5.3-Codex (coding).
@@ -133,11 +136,17 @@ Entries may carry one or more status tags so readers can judge maturity at a gla
 - [Claude Finance Agents](https://www.anthropic.com/news/finance-agents) - 🆕 **May 5, 2026**. Ten Opus-4.7-powered specialised agents for pitchbook authoring, KYC, month-end close, deal screening, etc. Deployable as Claude Cowork plugins, Claude Code skills, or Managed-Agents cookbooks.
 - [Claude Finance JV](https://www.anthropic.com/) - 🆕 **May 4, 2026**. $1.5B Claude deployment joint venture with Goldman Sachs and Blackstone embedding Anthropic engineers in mid-market Wall Street firms.
 - [Claude Add-ins / Dreaming / Outcomes / Multi-agent orchestration](https://www.anthropic.com/news/code-with-claude-2026) - 🆕 **May 8, 2026 (Code with Claude 2026)**. Anthropic introduces Add-ins, scheduled memory review between sessions ("Dreaming"), rubric-driven "Outcomes", and a lead-agent + sub-agent orchestration model with shared filesystem and auditable trace.
+- [Anthropic ↔ SpaceX Colossus 1](https://www.siliconrepublic.com/business/anthropic-joins-forces-with-spacex-for-colossus-capacity) - 🆕 **May 6, 2026**. Anthropic takes all available capacity at SpaceX's Colossus 1 Memphis datacenter (>220K NVIDIA H100/H200/GB200 GPUs, 300+ MW) for Claude Opus inference. Doubles Claude Code 5-hour rate limits on Pro/Max/Team/Enterprise; also lifts peak-hour limits.
+- [Claude for Legal](https://www.anthropic.com/news/claude-for-legal) - 🆕 **May 12, 2026**. New legal stack on top of Claude Cowork: **20+ MCP connectors** (iManage, NetDocuments, DocuSign, Ironclad, LexisNexis, Westlaw, Harvey, Everlaw, Relativity, CourtListener…) + **12 practice-area plugins** (commercial, employment, privacy, product, corporate, AI governance, litigation associate, law-student bar-exam). Microsoft Word / Outlook / Excel / PowerPoint orchestration built in.
+- [Claude for Small Business](https://www.anthropic.com/news/claude-for-small-business) - 🆕 **May 13, 2026**. Small-business toggle inside Claude Cowork — 15 pre-built agentic workflows across finance / ops / sales / marketing / HR / customer service, native connectors for QuickBooks, PayPal, HubSpot, Canva, DocuSign, Google Workspace, Microsoft 365. Bundled with a free PayPal-backed "AI Fluency for Small Business" course and a 10-city US workshop tour kicking off in Chicago.
+- [Anthropic ↔ Gates Foundation $200M](https://www.anthropic.com/news/gates-foundation-partnership) - 🆕 **May 14, 2026**. 4-year, $200M partnership pairing grants + Claude usage credits + Anthropic engineers on global-health, life-sciences, education, and agriculture programs. All tools produced under the program will be freely available; first focus areas include vaccine R&D for polio / HPV / preeclampsia and agriculture-specific Claude extensions.
+- [Anthropic ↔ PwC strategic alliance expansion](https://www.pwc.com/us/en/about-us/newsroom/press-releases/anthropic-pwc-expand-alliance-agentic-enterprise.html) - 🆕 **May 14, 2026**. PwC commits to global rollout of Claude Code + Claude Cowork, certifies 30,000 PwC professionals, and stands up a joint "Agentic Enterprise" Center of Excellence — focused on agentic build, AI-native deals, and finance / supply-chain / HR reinvention.
 
 ### Google DeepMind
 
 - [Gemini 3.1 Pro](https://deepmind.google/technologies/gemini/) - Released Feb 2026. BenchLM 94, GPQA Diamond 94.3% (world-record), ARC AGI2 77.1%. Most capable Google model, `$2/1M tokens` flagship.
 - [Gemini 3.1 Flash Live](https://deepmind.google/technologies/gemini/) - 🆕 April 2026. Real-time multimodal streaming for voice assistants and interactive agents. Low latency, long context.
+- [Gemini 3.1 Flash-Lite (GA)](https://cloud.google.com/blog/products/ai-machine-learning/gemini-3-1-flash-lite-is-now-generally-available) - 🆕 **May 8, 2026**. Generally available on Gemini API / AI Studio / Vertex AI. Fastest and most cost-efficient model in the Gemini 3 family — built for low-latency code completion, real-time UX, and agentic developer tools; matches Gemini 2.5 Flash quality at significantly lower cost.
 - [Gemini 3.1 Flash / Flash Lite](https://deepmind.google/technologies/gemini/) - Fast, cost-efficient models for high-throughput applications.
 - [Gemini 4 (Open)](https://deepmind.google/technologies/gemini/) - 🆕 Released April 2026. Open model family: 2B / 4B / 26B / 31B variants. Strong science reasoning and document understanding, local deployment ready.
 - [Gemini 2.5 Pro / Flash](https://deepmind.google/technologies/gemini/) - GA June 2025. Thinking model with 1M context.
@@ -152,6 +161,16 @@ Entries may carry one or more status tags so readers can judge maturity at a gla
 - [Llama 4 Maverick](https://llama.meta.com/) - 400B total params (17B active), 128 experts, 1M context. Outperforms GPT-4o on multimodal benchmarks.
 - [Llama 4 Behemoth](https://llama.meta.com/) - 2T parameters (288B active). In training — Meta's frontier model rivaling top closed-source models.
 - [Llama 3.3 70B](https://llama.meta.com/) - Strong instruction following and reasoning, open-weight under Llama Community License.
+
+### Sakana AI
+
+- [Sakana RL Conductor](https://venturebeat.com/orchestration/how-sakana-trained-a-7b-model-to-orchestrate-gpt-5-claude-sonnet-4-and-gemini-2-5-pro) - 🆕 **Paper April 27, 2026; Fugu beta late-April / early-May 2026**. 7B RL-trained orchestrator (built on Qwen2.5-7B) that routes subtasks between GPT-5, Claude Sonnet 4, Gemini 2.5 Pro, etc. SOTA on LiveCodeBench (83.9%) and GPQA-Diamond (87.5%) at ~1.8K tokens/query — roughly 6× cheaper than other multi-agent ensembles.
+- [Sakana Fugu](https://sakana.ai/fugu-beta/) - 🆕 **Beta April 24-25, 2026**. Commercial multi-agent orchestration service productising the RL Conductor research. OpenAI-compatible API with two tiers: **Fugu Mini** (low-latency) and **Fugu Ultra** (max performance); strong reported results on SWE-Pro, GPQA-D and ALE-Bench.
+
+### Zyphra
+
+- [ZAYA1-8B](https://www.zyphra.com/post/zaya1-8b) - 🆕 **May 6, 2026**. MoE reasoning model (<1B active) trained end-to-end on AMD Instinct MI300X clusters. Apache 2.0 weights on Hugging Face + serverless endpoint on Zyphra Cloud; aimed at math, code, and dense reasoning per active parameter.
+- [ZAYA1-8B-Diffusion-Preview](https://www.zyphra.com/post/zaya1-8b-diffusion-preview) - 🆕 **May 14, 2026**. First MoE diffusion language model converted from an autoregressive LLM and the first diffusion LM trained on AMD GPUs. Generates 16 tokens per step, achieving up to **7.7× inference speedup** vs the autoregressive base. Built with Zyphra's TiDAR recipe + CCA attention.
 
 ### Mistral AI
 
@@ -417,6 +436,7 @@ Entries may carry one or more status tags so readers can judge maturity at a gla
 - [Octomind](https://github.com/muvon/octomind) - 🆕 Rust-based open-source AI agent runtime. Model-agnostic (13+ providers), community-built specialist agents (developer, medical, legal, DevOps), MCP support with runtime self-extension, zero-config setup. Apache 2.0. ![GitHub stars](https://img.shields.io/github/stars/muvon/octomind?style=flat-square)
 - [Microsoft AI Agent Governance Toolkit](https://www.helpnetsecurity.com/2026/04/03/microsoft-ai-agent-governance-toolkit/) - 🆕 **April 3, 2026**. Open-source toolkit for enforcing runtime security policies across agent frameworks including LangChain and AutoGen. Policy-as-code approach for enterprise AI governance.
 - [Bernstein](https://github.com/sipyourdrink-ltd/bernstein) - 🆕 Python orchestrator for 40+ CLI coding agents (Claude Code, Codex, Gemini CLI, Cursor, Aider). One LLM plan call up front; scheduling, git worktree isolation, quality gates, and HMAC-chained audit are deterministic. Apache-2.0. ![GitHub stars](https://img.shields.io/github/stars/sipyourdrink-ltd/bernstein?style=flat-square)
+- [Genkit Middleware](https://developers.googleblog.com/announcing-genkit-middleware-intercept-extend-and-harden-your-agentic-apps/) - 🆕 **May 14, 2026**. New middleware system for Google's open-source Genkit framework. Composable hooks at the generate / model / tool layers — retries with exponential backoff, model fallbacks, tool approval gates, scoped filesystem access, skill injection from `SKILL.md`. TypeScript / Go / Dart; Python next.
 
 ---
 
@@ -559,9 +579,11 @@ Entries may carry one or more status tags so readers can judge maturity at a gla
 - [Cursor 3.4 (Teams + PR review)](https://cursor.com/changelog) - 🆕 **May 11–13, 2026**. Microsoft Teams integration (`@Cursor` in Teams delegates to cloud agents), faster parallel-agent plan execution, multi-repo / Dockerfile-based dev-environment configs for agents, `/multitask` async sub-agents, Vulnerability Scanner, granular per-model access controls.
 - [Kiro](https://kiro.dev/) - AWS autonomous agent. Spec-driven development, manages up to 10 simultaneous tasks.
 - [Amazon Q Developer](https://aws.amazon.com/q/developer/) - AI coding companion deeply integrated with AWS ecosystem.
+- [Visual Studio 2026 Agent Mode + Skills](https://devblogs.microsoft.com/visualstudio/agent-skills-in-visual-studio/) - 🆕 **VS 2026 Insiders May 12-15, 2026**. Copilot Chat "Agent Mode" now ships a guided Skills workflow inside Visual Studio 2026: discover, manage, and author reusable Copilot Skills with whole-solution context, plus terminal command execution and tool invocation.
 
 ### Autonomous Software Engineers
 
+- [Cursor 3.4 Cloud Agent Environments](https://cursor.com/changelog) - 🆕 **May 13, 2026**. New dev environments for cloud agents: multi-repo workspaces, Dockerfile-based config with build secrets, 70% faster cached image layers, per-environment version history with rollback, audit logs, scoped egress and secrets. Companion to the Cursor 3.4 release.
 - [Devin 3.0](https://www.cognition.ai/) - 🆕 By Cognition. Dynamic re-planning, self-healing code, legacy codebase migration, multi-modal input (UI mockups, video recordings).
 - [Devin 2.2](https://cognition.ai/blog/introducing-devin-2-2) - 🆕 **February 2026**. Sandboxed terminal + editor + browser; commercial product (Core $20/mo, Team $500/mo).
 - [OpenHands](https://github.com/All-Hands-AI/OpenHands) - Open-source platform for AI software developers as autonomous agents. ![GitHub stars](https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=flat-square)
@@ -588,7 +610,8 @@ Entries may carry one or more status tags so readers can judge maturity at a gla
 
 - [Tesla Optimus Gen3 (V3)](https://www.teslarati.com/tesla-optimus-awe-2026-shanghai/) - 🆕 **AWE 2026 Shanghai debut**. First mass-produced Optimus; Fremont line started January 2026, 50K-100K units/year initial target, ~$30K USD initial price, late-2026 limited external sales. 37 joints, 1.2 m/s walking, 22-DoF hands.
 - [Figure 03 (Helix AI)](https://blog.robozaps.com/b/figure-03-review) - 🆕 **Late 2025 announcement, ramping in 2026**. First Figure model designed for the home: soft textile coverings, wireless charging, tactile sensors. May 2026 demo: two F.03 robots autonomously cleaning a room and making a bed in <2 minutes via visual coordination only.
-- [Figure 04](https://autonews.gasgoo.com/articles/news/figure-founder-f04-robot-initiates-component-delivery-process-2054560059634376705) - 🆕 **May 13, 2026**. Founder Brett Adcock announces Figure 04 design finalized; component deliveries underway. Successor to F.03 with the Helix VLA model and a separate package-sorting demo (8-hour autonomous shift, ~22K packages).
+- [Figure 04](https://autonews.gasgoo.com/articles/news/figure-founder-f04-robot-initiates-component-delivery-process-2054560059634376705) - 🆕 **May 13, 2026**. Founder Brett Adcock announces Figure 04 design finalized; component deliveries underway. Successor to F.03 with the Helix VLA model.
+- [Helix 02 package-sort 72h run](https://www.businessinsider.com/figure-ai-turned-a-humanoid-sorting-packages-must-see-tv-2026-5) - 🆕 **May 13-16, 2026**. Live-streamed Figure F.03 fleet runs Helix 02 fully autonomously on a package-sort line — 8-hour shift on day one (~22K packages), then ~30K in the first 24 hours, ending in a stress test that hit **~88K packages over ~72 hours** before mechanical failure. First public continuous-run evidence for a home-form-factor humanoid stack.
 - [Figure 02 + Helix 02](https://en.wikipedia.org/wiki/Figure_AI) - 🆕 **January 2026**. Helix 02 expands whole-body autonomy (load/unload dishwashers, fold laundry); BotQ facility rated for 12K units/year.
 - [Unitree G1 + H1-2](https://community.robotshop.com/blog/show/unitree-robotics-at-ces-2026-a-clear-signal-of-whats-coming-next) - 🆕 **CES 2026**. G1 dance/boxing/skating demos, autonomous kung fu (February), 5'8" H1-2 industrial unit at 7.4 mph. 20K humanoid shipments targeted in 2026.
 - [Unitree R1 Air](https://www.eweek.com/news/chinese-unitree-g1-humanoid-robot-skates-spins-flips-apac/) - 🆕 Consumer humanoid at **$4,900** — runs, flips, walks on hands.
@@ -665,6 +688,7 @@ Entries may carry one or more status tags so readers can judge maturity at a gla
 - [Genspark](https://www.genspark.ai/) - 🆕 All-in-one autonomous work agent with mixture-of-agents architecture. Can make phone calls.
 - [Perplexity Computer](https://www.perplexity.ai/) - 🆕 Research-focused desktop agent with multi-model orchestration and local file access.
 - [Beam AI](https://beam.ai/) - 🆕 Self-learning desktop agents that refine logic based on successful outcomes.
+- [ChatGPT Workspace Agents](https://venturebeat.com/orchestration/openai-unveils-workspace-agents-a-successor-to-custom-gpts-for-enterprises-that-can-plug-directly-into-slack-salesforce-and-more) - 🆕 **Research preview April 22, 2026; credit-based pricing May 6, 2026; EKM support May 7, 2026**. OpenAI's successor to Custom GPTs for enterprises — cloud-side agents with file access, code execution, scheduled runs and built-in connectors for Slack, Google Drive, Salesforce. Available on Business / Enterprise / Edu / Teachers; powered by Codex.
 
 ---
 
@@ -755,6 +779,8 @@ Entries may carry one or more status tags so readers can judge maturity at a gla
 - [AgentX](https://www.agentx.so/) - 🆕 Agentic enterprise solution for scalable AI automation with plug-and-play chatbots.
 - [OutSystems](https://www.outsystems.com/) - 🆕 AI development platform for rapidly building mission-critical apps and agent governance.
 - [Sema4.ai](https://sema4.ai/) - 🆕 Enterprise AI agent platform with Python-first approach and built-in governance.
+- [SAP Business AI Platform + Joule Studio 2.0](https://news.sap.com/2026/05/sap-sapphire-sap-unveils-autonomous-enterprise/) - 🆕 **SAP Sapphire 2026 (May 11-13)**. SAP unifies BTP + Business Data Cloud + Business AI into one platform and reframes Joule as an agentic operating layer. **Joule Studio 2.0** (rolling out June 2026) lets enterprises build with LangGraph / AutoGen-style frameworks against live SAP business data; the new **Autonomous Suite** ships 50+ domain Joule Assistants and 200+ specialised agents across finance, supply chain, procurement, HCM, and CX.
+- [Microsoft Agent 365 + Microsoft 365 E7](https://techcommunity.microsoft.com/blog/agent-365-blog/microsoft-365-e7--agent365-from-where-you-are-to-enterprise-ai-at-scale/4519969) - 🆕 **May 1, 2026 GA** with extended May rollouts. Identity-first control plane for governing and securing AI agents across enterprise environments; $15/user/month standalone, $99/user/month inside the new Microsoft 365 E7 "Frontier" suite. May 2026 update adds AWS Bedrock + Google Cloud registry sync, Intune/Defender preview policies, and SASE for agents.
 
 ## 📊 Agent Evaluation & Observability
 
@@ -964,6 +990,10 @@ Entries may carry one or more status tags so readers can judge maturity at a gla
 - [Cohere + Aleph Alpha Merger](https://siliconangle.com/2026/04/24/ai-startups-cohere-aleph-alpha-merge-600m-new-funding/) - 🆕 **April 24, 2026**. Canadian AI firm Cohere merged with Germany's Aleph Alpha at ~$20B valuation. $600M Series E from Schwarz Group. Creates transatlantic "sovereign AI" powerhouse with dual HQ in Toronto and Germany.
 - [ScienceOne 100 / 磐石100](https://english.cas.cn/newsroom/cas-in-media/202604/t20260429_1158251.shtml) - 🆕 **April 28-29, 2026**. Chinese Academy of Sciences launches specialized scientific AI system. 2,000+ research tools, 50+ CAS institutes. Flagship-level scientific reasoning and agent capabilities.
 - [Google Invests $40B in Anthropic](https://aibusiness.com/generative-ai/google-could-invest-another-40-billion-anthropic) - 🆕 **April 2026**. $10B initial + up to $30B contingent on performance milestones. Includes 5GW compute capacity over 5 years. Largest AI partnership investment to date.
+- [OpenAI Deployment Company (DeployCo)](https://openai.com/index/openai-launches-the-deployment-company/) - 🆕 **May 11, 2026**. OpenAI spins out a $4B+ enterprise-deployment services unit (TPG / Bain Capital / Brookfield / Advent / Goldman Sachs / SoftBank + Bain & Company / Capgemini / McKinsey) and absorbs the Tomoro consulting acquisition. Signals the AI vendor race shifting toward services + Forward Deployed Engineers.
+- [Anthropic ↔ SpaceX Colossus 1](https://www.siliconrepublic.com/business/anthropic-joins-forces-with-spacex-for-colossus-capacity) - 🆕 **May 6, 2026**. Anthropic takes all available capacity on the 300+ MW / 220K-GPU Colossus 1 Memphis cluster. SpaceX repositions itself as an AI infrastructure provider after its xAI acquisition; Anthropic doubles Claude Code rate limits for paid plans.
+- [DeepSeek $4B state-backed round](https://www.techtimes.com/articles/316717/20260516/chinas-state-ai-fund-backs-deepseek-4-billion-round-efficiency-challenge-nvidia-dependent.htm) - 🆕 **May 16, 2026**. China's National AI Industry Investment Fund + Big Fund III + Tencent close in on a ~$4B first external round for DeepSeek at a ~$50B valuation — first known LLM investment from Big Fund III, signalling Beijing's bet on efficient open-weight frontier models and domestic silicon.
+- [Pope Leo XIV → Vatican AI Commission](https://www.americamagazine.org/vatican-dispatch/2026/05/16/pope-leo-establishes-new-vatican-commission-on-artificial-intelligence/) - 🆕 **May 16, 2026**. Pope Leo XIV publishes the rescriptum establishing an inter-dicasterial Vatican commission on artificial intelligence (Dicastery for Integral Human Development coordinating, with Doctrine of the Faith, Culture & Education, Communication, Pontifical Academies for Life / Sciences / Social Sciences). One-year renewable mandate. First AI-focused encyclical expected to follow.
 
 ---
 
@@ -1031,6 +1061,20 @@ Entries may carry one or more status tags so readers can judge maturity at a gla
 | **May 14, 2026** | [Codex on Mobile (preview)](https://9to5mac.com/2026/05/14/openai-brings-codex-control-to-chatgpt-for-iphone-and-android/) — ChatGPT iOS/Android can remote-control the macOS Codex app; OpenAI also issues TanStack supply-chain security patch | Tools |
 | **May 14, 2026** | [Gemini Spark](https://9to5google.com/2026/05/14/gemini-spark-insight/) pre-I/O leak — upcoming branded agent capability inside the Gemini app for autonomous multi-step processes | Tools |
 | **May 14, 2026** | [OpenClaw v2026.5.12](https://github.com/openclaw/openclaw/releases) shipped — native model identity injected into system prompt, isolated Telegram polling worker, MEMORY.md auto-compaction, protected config paths for owner/exec approvals | Tools |
+| **May 11, 2026** | [OpenAI Deployment Company](https://openai.com/index/openai-launches-the-deployment-company/) launched — $4B+ enterprise services unit with TPG / Bain Capital / Brookfield + Bain & Company / Capgemini / McKinsey; Tomoro consulting acquisition folded in | Industry |
+| **May 11-13, 2026** | [SAP Sapphire 2026 Orlando](https://news.sap.com/2026/05/sap-sapphire-sap-unveils-autonomous-enterprise/) — SAP Business AI Platform, **Joule Studio 2.0**, Autonomous Suite with 50+ Joule Assistants and 200+ agents; Joule Studio 2.0 GA from June 2026 | Industry |
+| **May 12, 2026** | [Claude for Legal](https://www.anthropic.com/news/claude-for-legal) — 20+ MCP connectors (iManage, NetDocuments, DocuSign, LexisNexis, Westlaw, Harvey, Everlaw, Relativity…) + 12 practice-area plugins on Claude Cowork | Tools |
+| **May 12-15, 2026** | [Visual Studio 2026 Insiders](https://devblogs.microsoft.com/visualstudio/agent-skills-in-visual-studio/) — Copilot Chat "Agent Mode" with guided Agent Skills authoring inside the IDE | Tools |
+| **May 13, 2026** | [Claude for Small Business](https://www.anthropic.com/news/claude-for-small-business) — 15 pre-built agentic workflows + connectors for QuickBooks / PayPal / HubSpot / Canva / DocuSign / Google Workspace / Microsoft 365; 10-city US workshop tour | Tools |
+| **May 13, 2026** | [Cursor 3.4 cloud agent environments](https://cursor.com/changelog) — multi-repo, Dockerfile-based config with build secrets, 70% faster cached layers, env version history, audit logs, scoped egress / secrets | Tools |
+| **May 13-16, 2026** | [Figure Helix 02 live-stream](https://www.businessinsider.com/figure-ai-turned-a-humanoid-sorting-packages-must-see-tv-2026-5) — F.03 + Helix 02 stress-test on a package-sort line, ~22K in 8h, ~30K in 24h, ~88K over ~72h until mechanical failure | Robotics |
+| **May 14, 2026** | [Anthropic ↔ Gates Foundation $200M partnership](https://www.anthropic.com/news/gates-foundation-partnership) — 4-year grants + Claude credits + Anthropic engineering on global health, life sciences, education, agriculture | Industry |
+| **May 14, 2026** | [Anthropic ↔ PwC alliance expansion](https://www.pwc.com/us/en/about-us/newsroom/press-releases/anthropic-pwc-expand-alliance-agentic-enterprise.html) — global Claude Code + Cowork rollout, 30,000 PwC professionals certified, joint Agentic Enterprise Center of Excellence | Industry |
+| **May 14, 2026** | [Genkit Middleware](https://developers.googleblog.com/announcing-genkit-middleware-intercept-extend-and-harden-your-agentic-apps/) — Google releases composable middleware for the open-source Genkit agent framework (TS / Go / Dart) | Frameworks |
+| **May 14, 2026** | [Zyphra ZAYA1-8B-Diffusion-Preview](https://www.zyphra.com/post/zaya1-8b-diffusion-preview) — first MoE diffusion LM converted from an autoregressive LLM; first diffusion LM trained on AMD GPUs; up to 7.7× inference speedup | Models |
+| **May 16, 2026** | [Pope Leo XIV establishes Vatican AI Commission](https://www.americamagazine.org/vatican-dispatch/2026/05/16/pope-leo-establishes-new-vatican-commission-on-artificial-intelligence/) — inter-dicasterial body to coordinate the Church's response to AI; first AI-focused encyclical expected next | Industry |
+| **May 16, 2026** | [OpenAI ↔ Malta partnership](https://openai.com/index/malta-chatgpt-plus-partnership/) — every Maltese resident 14+ gets free 1-year ChatGPT Plus after a 2-hour AI literacy course ("OpenAI for Countries") | Industry |
+| **May 16, 2026** | [DeepSeek state-backed $4B raise](https://www.techtimes.com/articles/316717/20260516/chinas-state-ai-fund-backs-deepseek-4-billion-round-efficiency-challenge-nvidia-dependent.htm) at ~$50B valuation — National AI Industry Investment Fund + Big Fund III + Tencent close in on first external round | Industry |
 | **May 2026** | [LangGraph v1.2](https://docs.langchain.com/oss/python/releases/changelog) — per-node timeouts/error-recovery/graceful shutdown, `DeltaChannel` checkpoint optimisation, content-block streaming API v3 | Frameworks |
 | **May 2026** | [Grok 4.3 GA](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-grok-4-3-on-microsoft-foundry-latest-generation-agentic-capabilities/4517096) on Microsoft Foundry + Oracle OCI Generative AI; xAI flagship for agentic workloads | Models |
 | **May 1, 2026** | [Microsoft Agent 365 GA](https://www.microsoft.com/en-us/security/blog/2026/05/01/microsoft-agent-365-now-generally-available-expands-capabilities-and-integrations/) — enterprise observability + governance + security for AI agents across environments; May adds SASE for agents + threat detection | Industry |
@@ -1060,10 +1104,10 @@ This list is released under [MIT License](LICENSE).
 
 **⭐ If you find this list useful, please give it a star! ⭐**
 
-*300+ resources across 19 categories — from foundation models to agent protocols to generative AI.*
+*360+ resources across 25 categories — from foundation models to agent protocols to generative AI.*
 
 Made with ❤️ by [Zijian Ni](https://github.com/Zijian-Ni)
 
-*Last updated: May 10, 2026*
+*Last updated: May 16, 2026*
 
 </div>

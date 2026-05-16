@@ -3,6 +3,50 @@
 All notable changes to **Awesome AI Agents 2026** are recorded here.
 Format: `YYYY-MM-DD  +Added  -Removed  ~Changed`.
 
+## 2026-05-16 — Weekly refresh: May 11–16 expansion + zh-CN / ja sync
+
+### + Added (≈24 new entries across 6 sections)
+
+**Foundation Models** —
+- [OpenAI Deployment Company / DeployCo](https://openai.com/index/openai-launches-the-deployment-company/) (May 11, $4B+ enterprise services unit + Tomoro acquisition).
+- [Codex on Mobile](https://9to5mac.com/2026/05/14/openai-brings-codex-control-to-chatgpt-for-iphone-and-android/) (May 14, ChatGPT iOS/Android remote-control for the macOS Codex app; preview to Free / Plus / Go).
+- [OpenAI ↔ Malta ChatGPT Plus partnership](https://openai.com/index/malta-chatgpt-plus-partnership/) (May 16, first country-wide deal under "OpenAI for Countries").
+- [Anthropic ↔ SpaceX Colossus 1](https://www.siliconrepublic.com/business/anthropic-joins-forces-with-spacex-for-colossus-capacity) (May 6, 300+ MW / 220K GPU inference capacity, doubles Claude Code rate limits).
+- [Claude for Legal](https://www.anthropic.com/news/claude-for-legal) (May 12, 20+ MCP connectors + 12 practice-area plugins; iManage, NetDocuments, DocuSign, LexisNexis, Westlaw, Harvey, Everlaw, Relativity, CourtListener…).
+- [Claude for Small Business](https://www.anthropic.com/news/claude-for-small-business) (May 13, 15 pre-built workflows + connectors for QuickBooks / PayPal / HubSpot / Canva / DocuSign / Google Workspace / Microsoft 365 + 10-city US workshop tour).
+- [Anthropic ↔ Gates Foundation $200M partnership](https://www.anthropic.com/news/gates-foundation-partnership) (May 14, global health + life sciences + education + agriculture).
+- [Anthropic ↔ PwC strategic alliance expansion](https://www.pwc.com/us/en/about-us/newsroom/press-releases/anthropic-pwc-expand-alliance-agentic-enterprise.html) (May 14, global Claude Code + Cowork rollout, 30,000 PwC professionals certified).
+- [Gemini 3.1 Flash-Lite GA](https://cloud.google.com/blog/products/ai-machine-learning/gemini-3-1-flash-lite-is-now-generally-available) (May 8).
+- New **Sakana AI** subsection — [Sakana RL Conductor](https://venturebeat.com/orchestration/how-sakana-trained-a-7b-model-to-orchestrate-gpt-5-claude-sonnet-4-and-gemini-2-5-pro) (paper Apr 27) + [Sakana Fugu](https://sakana.ai/fugu-beta/) (beta Apr 24-25).
+- New **Zyphra** subsection — [ZAYA1-8B](https://www.zyphra.com/post/zaya1-8b) (May 6) + [ZAYA1-8B-Diffusion-Preview](https://www.zyphra.com/post/zaya1-8b-diffusion-preview) (May 14, first AR-to-MoE-diffusion conversion, 7.7× speedup on AMD).
+
+**Agent Frameworks** — [Genkit Middleware](https://developers.googleblog.com/announcing-genkit-middleware-intercept-extend-and-harden-your-agentic-apps/) (May 14, Google's open-source agent middleware system).
+
+**Coding Agents** — [Cursor 3.4 Cloud Agent Environments](https://cursor.com/changelog) (May 13, multi-repo, Dockerfile build secrets, 70% faster cached layers, audit logs); [Visual Studio 2026 Agent Mode + Skills](https://devblogs.microsoft.com/visualstudio/agent-skills-in-visual-studio/) (May 12-15 Insiders).
+
+**Computer Use** — [ChatGPT Workspace Agents](https://venturebeat.com/orchestration/openai-unveils-workspace-agents-a-successor-to-custom-gpts-for-enterprises-that-can-plug-directly-into-slack-salesforce-and-more) (research preview Apr 22, credit pricing May 6, EKM support May 7).
+
+**Enterprise Platforms** — [SAP Business AI Platform + Joule Studio 2.0 + Autonomous Suite](https://news.sap.com/2026/05/sap-sapphire-sap-unveils-autonomous-enterprise/) (SAP Sapphire 2026 May 11-13, GA from June 2026); [Microsoft Agent 365 + Microsoft 365 E7](https://techcommunity.microsoft.com/blog/agent-365-blog/microsoft-365-e7--agent365-from-where-you-are-to-enterprise-ai-at-scale/4519969) (May 1 GA + May updates).
+
+**Physical AI** — [Figure Helix 02 package-sort 72h continuous run](https://www.businessinsider.com/figure-ai-turned-a-humanoid-sorting-packages-must-see-tv-2026-5) (May 13-16, ~88K packages over ~72h on the F.03 fleet).
+
+**Notable Projects of 2026** — added OpenAI DeployCo, Anthropic ↔ SpaceX Colossus 1, DeepSeek $4B state-backed round, and the Vatican AI Commission announcement.
+
+### ~ Changed
+
+- **Header badges** — `Last Updated` and `Spam_Audited` bumped to `May 16, 2026` / `2026-05-16` across all three READMEs; `Resources` badge bumped 340+ → 360+.
+- **Quick Navigation counts** — Foundation Models 65+ → 75+ (Sakana / Zyphra subsections + new Anthropic / OpenAI entries), Frameworks 22+ → 23+, Coding Agents 22+ → 24+, Physical AI 18+ → 19+, Computer Use 9+ → 10+, Enterprise 12+ → 14+.
+- **2026 AI Timeline** — added 13 new May 11–16 rows across README.md / README.zh-CN.md / README.ja.md: SAP Sapphire 2026, Claude for Legal, Claude for Small Business, Cursor 3.4 environments, VS 2026 Agent Skills, Figure Helix 02 72h run, Anthropic ↔ Gates, Anthropic ↔ PwC, Genkit Middleware, Zyphra Diffusion, Pope Leo XIV's Vatican AI commission, OpenAI ↔ Malta, DeepSeek $4B raise.
+- **zh-CN / ja parity** — mirrored every new English entry with locale-appropriate phrasing (not literal translation).
+
+### ✕ Not added (explicit anti-spam holds)
+
+- **Sakana "RL Conductor / Trinity" research paper** — listed as a model entry under the new Sakana AI section because the productised Fugu beta is in market; the underlying Conductor + Trinity research lives in the same entry rather than a separate "research only" bullet to avoid duplication.
+- **Microsoft MDASH security harness** — acknowledged in the timeline (May 13) only inside the existing Microsoft Agent 365 row; not promoted to its own Security entry until a public artifact (paper / SDK) ships.
+- **"OpenAI Daybreak EU expansion"** — covered by the existing May 12 Daybreak entry; no new bullet because the May 14-16 movement is incremental rollout, not a new product.
+
+---
+
 ## 2026-05-15 — PR triage + May 11–14 expansion across 8 sections
 
 ### + Added
