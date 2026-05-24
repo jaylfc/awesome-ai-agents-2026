@@ -3,6 +3,50 @@
 All notable changes to **Awesome AI Agents 2026** are recorded here.
 Format: `YYYY-MM-DD  +Added  -Removed  ~Changed`.
 
+## 2026-05-25 — Weekly refresh: May 18–24 expansion + full zh-CN / ja sync
+
+### + Added (15 new entries across 7 sections)
+
+**Coding Agents** —
+- [Grok Build](https://x.ai/news/grok-build-cli) (May 14, xAI) — agentic CLI on `grok-code-fast-1`, parallel sub-agents in isolated envs, SuperGrok Heavy gating.
+- [Antigravity CLI](https://antigravity.google/blog/introducing-google-antigravity-2-0) + [Google Antigravity 2.0](https://antigravity.google/blog/introducing-google-antigravity-2-0) (May 19, Google I/O 2026) — standalone multi-agent desktop app + CLI + SDK; macOS / Linux / Windows; ecosystem integrations with AI Studio / Android / Firebase; enterprise edition inside Gemini Enterprise Agent Platform.
+- [JetBrains Rider AI test-writing skill](https://blog.jetbrains.com/dotnet/2026/05/22/claude-codex-ai-agent-skill-for-writing-tests/) (May 22) — .NET coverage data exposed to Claude Code / Codex for targeted test generation.
+
+**Tool & API Integration (MCP servers)** —
+- [AWS MCP Server](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-mcp-server/) (GA May 6) — AWS-managed MCP endpoint with sandboxed Python + agent skills.
+- [Google Workspace MCP Server](https://workspaceupdates.googleblog.com/2026/05/agent-tools-and-security-updates-for-workspace-developers.html) (May 1 rollout) — Workspace-native MCP for Gmail / Drive / Calendar / Docs / Sheets.
+- [iManage MCP Server](https://imanage.com/resources/resource-center/news/mcp-server-available-broader-ai-ecosystem/) (May 14) — first major legal/PS SaaS with a public MCP endpoint.
+- [Power Platform Canvas Authoring MCP Server](https://www.microsoft.com/en-us/power-platform/blog/2026/05/14/whats-new-in-power-platform-may-2026-feature-update/) (May 14) — natural-language InfoPath → Canvas Apps migration via Copilot / Claude Code.
+
+**Agent Security** —
+- [RAMPART](https://github.com/microsoft/RAMPART) (May 20, Microsoft) — pytest-native white-box safety/security testing framework for agentic AI. CI/CD-friendly developer counterpart to PyRIT. MIT.
+- [Clarity](https://www.microsoft.com/en-us/security/blog/2026/05/20/introducing-rampart-and-clarity-open-source-tools-to-bring-safety-into-agent-development-workflow/) (May 20, Microsoft) — structured design-review tool for AI agents; "living artifacts" before code.
+
+**Personal AI Agents** —
+- [QwenPaw](https://github.com/agentscope-ai/QwenPaw) (May 2026 rebrand from CoPaw) 🇨🇳 — self-hostable personal assistant in the Qwen / AgentScope family; local-first memory, multi-agent collaboration, multi-channel.
+
+**Enterprise Agent Platforms** —
+- [Kore.ai Artemis Agent Platform](https://venturebeat.com/technology/kore-ai-launches-artemis-ai-agent-platform-expands-challenge-to-microsoft-and-salesforce) (May 22) — AI-native enterprise platform launched on Azure with the new **Agent Blueprint Language (ABL)**.
+- [FPT Flezi Foundry™](https://lasvegassun.com/news/2026/may/22/fpt-launches-flezi-foundry-advancing-ai-augmented-/) (May 22) — AI-augmented delivery platform with ADLC + AMS modes under Service-as-a-Software governance.
+
+**Notable Agent Projects of 2026** —
+- Combined story: Google Antigravity 2.0 + Microsoft RAMPART + xAI Grok Build — three structural agent-stack shifts in one 8-day window (May 14–22).
+
+### ~ Changed
+
+- **Header badges** — `Last Updated` → `May 25, 2026`, `Spam_Audited` → `2026-05-25`, `Resources` 420+ → **435+** (all three READMEs).
+- **Quick Navigation counts** — Tool & API 15+ → **18+**, Agent Security 14+ → **16+**, Coding Agents 24+ → **27+**, Personal AI 10+ → **11+**, Enterprise Platforms 16+ → **18+**.
+- **2026 AI Timeline** — 10 new May 1–22 rows across `README.md` / `README.zh-CN.md` / `README.ja.md`.
+- **zh-CN / ja full sync** — 44 EN entries previously missing in zh-CN and 47 missing in ja are now backfilled, mirroring the EN section order and entry set. All new May 18–24 entries also mirrored in zh-CN and ja with locale-appropriate phrasing (not literal MT).
+
+### ✕ Not added (explicit anti-spam holds)
+
+- **Fetch.ai "Agent Launch on BNB Chain"** — token-economy crypto-AI surface; out of scope (we don't curate crypto-tokenisation infrastructure).
+- **Splunk MCP Server v1.1.3** — routine point release of an already-listed category; no structural change.
+- **mabl local MCP server deprecation** — deprecation, not a new tool.
+
+---
+
 ## 2026-05-20 — Mega expansion: Scenario Guide + 20 Compare tables + Start Here
 
 ### + Added

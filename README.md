@@ -6,10 +6,10 @@
 [![GitHub stars](https://img.shields.io/github/stars/Zijian-Ni/awesome-ai-agents-2026?style=social)](https://github.com/Zijian-Ni/awesome-ai-agents-2026)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-May%2020%2C%202026-blue.svg)](#)
-[![Resources](https://img.shields.io/badge/Resources-420%2B-orange.svg)](#)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-May%2025%2C%202026-blue.svg)](#)
+[![Resources](https://img.shields.io/badge/Resources-435%2B-orange.svg)](#)
 [![Categories](https://img.shields.io/badge/Categories-25-purple.svg)](#)
-[![Audited](https://img.shields.io/badge/Spam_Audited-2026--05--20-success.svg)](#️-status-legend)
+[![Audited](https://img.shields.io/badge/Spam_Audited-2026--05--25-success.svg)](#️-status-legend)
 [![Chinese](https://img.shields.io/badge/Lang-中文-red.svg)](README.zh-CN.md)
 [![Japanese](https://img.shields.io/badge/Lang-日本語-purple.svg)](README.ja.md)
 
@@ -63,20 +63,20 @@ Entries may carry one or more status tags so readers can judge maturity at a gla
 | [🏗️ Agent Frameworks](#️-agent-frameworks) | Libraries for building autonomous AI agents | 23+ |
 | [🛠️ Agent IDEs & Visual Builders](#️-agent-ides--visual-builders) | Visual / low-code environments for designing agent flows | 8+ |
 | [🧠 Agent Memory](#-agent-memory) | Persistent memory and context management | 10+ |
-| [🔌 Tool & API Integration](#-tool--api-integration) | Connecting agents to external services | 15+ |
+| [🔌 Tool & API Integration](#-tool--api-integration) | Connecting agents to external services | 18+ |
 | [🧪 Sandboxing & Compute Isolation](#-agent-sandboxing--compute-isolation) | Secure runtimes for agent-generated code | 7+ |
-| [🛡️ Agent Security](#️-agent-security) | Prompt injection defense and guardrails | 14+ |
+| [🛡️ Agent Security](#️-agent-security) | Prompt injection defense and guardrails | 16+ |
 | [🔍 RAG & Knowledge](#-rag--knowledge) | Retrieval-augmented generation systems | 12+ |
-| [💻 Coding Agents](#-coding-agents) | AI-powered software engineering | 24+ |
+| [💻 Coding Agents](#-coding-agents) | AI-powered software engineering | 27+ |
 | [🤖 Physical AI](#-physical-ai--embodied-agents) | Humanoid robots, embodied AI, industrial automation | 22+ |
 | [🎮 Simulation & World Models](#-agent-simulation--world-models) | Sim environments for training and stress-testing agents | 7+ |
 | [📊 Benchmarks](#-benchmarks--leaderboards) | Leaderboards tracking frontier capability | 11+ |
 | [🖥️ Computer Use](#️-computer-use--desktop-agents) | Desktop automation and OS-level control | 10+ |
 | [🌐 Browser & Web Agents](#-browser--web-agents) | Agents that drive real browsers | 9+ |
 | [🗣️ Voice & Multimodal Agents](#️-voice--multimodal-agents) | Voice-enabled conversational AI | 10+ |
-| [📱 Personal AI Agents](#-personal-ai-agents) | Productivity and daily life assistants | 10+ |
+| [📱 Personal AI Agents](#-personal-ai-agents) | Productivity and daily life assistants | 11+ |
 | [📱 Mobile Agents](#-mobile-agents) | Phone-control agents (Android / iOS) | 6+ |
-| [🏢 Enterprise Platforms](#-enterprise-agent-platforms) | Enterprise-grade agent deployment | 16+ |
+| [🏢 Enterprise Platforms](#-enterprise-agent-platforms) | Enterprise-grade agent deployment | 18+ |
 | [📊 Evaluation & Observability](#-agent-evaluation--observability) | Testing, monitoring, and benchmarking | 17+ |
 | [🔬 AI Research Tools](#-ai-research-tools) | Tools for AI/ML research and experimentation | 10+ |
 | [📚 Learning Resources](#-learning-resources) | Papers, courses, and tutorials | 20+ |
@@ -538,6 +538,10 @@ Entries may carry one or more status tags so readers can judge maturity at a gla
 - [Stagehand](https://github.com/browserbase/stagehand) - 🆕 AI-powered browser automation framework by Browserbase. ![GitHub stars](https://img.shields.io/github/stars/browserbase/stagehand?style=flat-square)
 - [AgentQL](https://www.agentql.com/) - 🆕 Query language for AI agents to interact with web pages semantically.
 - [StackOne](https://www.stackone.com/) - 🆕 Unified API for AI agent integrations across HR, CRM, and ATS platforms.
+- [AWS MCP Server](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-mcp-server/) - 🆕 **GA May 6, 2026**. AWS-managed MCP server giving coding agents secure, auditable access to any AWS API; sandboxed Python execution for multi-step ops; replaces "agent SOPs" with agent skills. First-party from AWS.
+- [Google Workspace MCP Server](https://workspaceupdates.googleblog.com/2026/05/agent-tools-and-security-updates-for-workspace-developers.html) - 🆕 **Rollout from May 1, 2026**. Workspace-native MCP server exposing Gmail / Drive / Calendar / Docs / Sheets to MCP clients, with admin-controlled OAuth scopes and audit trails.
+- [iManage MCP Server](https://imanage.com/resources/resource-center/news/mcp-server-available-broader-ai-ecosystem/) - 🆕 **May 14, 2026**. Native MCP endpoint for the iManage knowledge-work platform — lets any AI client securely read/write iManage documents without custom integration. First major legal/professional-services SaaS to ship a public MCP server.
+- [Power Platform Canvas Authoring MCP Server](https://www.microsoft.com/en-us/power-platform/blog/2026/05/14/whats-new-in-power-platform-may-2026-feature-update/) - 🆕 **May 14, 2026**. Microsoft Power Platform feature exposing Canvas Apps authoring as an MCP server; lets Copilot / Claude Code drive natural-language InfoPath → Canvas Apps migration.
 - [The Colony](https://thecolony.cc) - ⚠️ **Unverified.** Self-described public agent-first social network with REST API for agent posts/votes/DMs and SDKs in Python ([colony-sdk-python](https://github.com/TheColonyCC/colony-sdk-python)), TypeScript ([colony-sdk-js](https://github.com/TheColonyCC/colony-sdk-js)) and Go ([colony-sdk-go](https://github.com/TheColonyCC/colony-sdk-go)). Organisation and SDK repos are <30 days old, all 0–2 stars, single-maintainer; same submission was sent to 15+ awesome lists in parallel — listed for visibility, evaluate before depending on it. ![GitHub stars](https://img.shields.io/github/stars/TheColonyCC/colony-sdk-python?style=flat-square)
 
 ## 🧪 Agent Sandboxing & Compute Isolation
@@ -572,6 +576,8 @@ Entries may carry one or more status tags so readers can judge maturity at a gla
 - [AgentDojo](https://github.com/ethz-spylab/agentdojo) - 🆕 ETH Zürich research benchmark for evaluating prompt-injection attacks and defenses against tool-using LLM agents. ![GitHub stars](https://img.shields.io/github/stars/ethz-spylab/agentdojo?style=flat-square)
 - [ModelScan](https://github.com/protectai/modelscan) - Scan ML model files (Pickle, PyTorch, TF) for serialization-based code-execution attacks. ![GitHub stars](https://img.shields.io/github/stars/protectai/modelscan?style=flat-square)
 - [PyRIT](https://github.com/Azure/PyRIT) - Microsoft's Python Risk Identification Tool for generative AI — automated red-teaming framework. ![GitHub stars](https://img.shields.io/github/stars/Azure/PyRIT?style=flat-square)
+- [RAMPART](https://github.com/microsoft/RAMPART) - 🆕 **May 20, 2026**. Microsoft's pytest-native safety + security testing framework for agentic AI. Developer-facing white-box counterpart to PyRIT — cross-prompt-injection probes, benign-failure asserts, harm-category coverage, statistical thresholds (e.g. safe in 80%+ runs). Integrates straight into CI/CD. MIT. ![GitHub stars](https://img.shields.io/github/stars/microsoft/RAMPART?style=flat-square)
+- [Clarity (Microsoft)](https://www.microsoft.com/en-us/security/blog/2026/05/20/introducing-rampart-and-clarity-open-source-tools-to-bring-safety-into-agent-development-workflow/) - 🆕 **May 20, 2026**. Companion to RAMPART. Structured design-review tool for AI agents — "living artifacts" documenting intent, risks, and behavior before code is written. Open-sourced from Microsoft AI Red Team's internal practice.
 - [Nobulex](https://github.com/arian-gogani/nobulex) - ⚠️ **Unverified.** Cryptographic receipts for AI agent actions (Ed25519 dual signatures, hash-chained audit logs). MIT. Bilateral-receipt primitive [merged](https://github.com/microsoft/agent-governance-toolkit/pull/1333) into Microsoft's Agent Governance Toolkit (PRs #1302, #1333). Same submission sent to 15+ awesome lists in parallel; submitter's claim of "4,500 npm downloads" doesn't match registry data (`@nobulex/mcp-server` ~19/month at audit time). Listed for visibility on the strength of the Microsoft adoption. ![GitHub stars](https://img.shields.io/github/stars/arian-gogani/nobulex?style=flat-square)
 
 ## 🔍 RAG & Knowledge
@@ -606,6 +612,8 @@ Entries may carry one or more status tags so readers can judge maturity at a gla
 - [Codex Security](https://developers.openai.com/codex/changelog) - 🆕 **March 2026**. Application-security agent that finds and fixes software vulnerabilities; available to OSS maintainers via the Codex-for-OSS program.
 - [Aider](https://github.com/Aider-AI/aider) - AI pair programming in your terminal — works with any LLM, with first-class git commit handling. ![GitHub stars](https://img.shields.io/github/stars/Aider-AI/aider?style=flat-square)
 - [Gemini CLI](https://github.com/google-gemini/gemini-cli) - 🆕 Google's terminal-first coding agent for large-context refactors. ![GitHub stars](https://img.shields.io/github/stars/google-gemini/gemini-cli?style=flat-square)
+- [Grok Build](https://x.ai/news/grok-build-cli) - 🆕 **May 14, 2026** (early beta). xAI's agentic CLI coding agent powered by **grok-code-fast-1**. Parallel sub-agents in isolated environments, daily release notes, available to SuperGrok Heavy subscribers ($99/mo intro for 6 months, then $300/mo). xAI's reply to Claude Code and Codex CLI.
+- [Antigravity CLI](https://antigravity.google/blog/introducing-google-antigravity-2-0) - 🆕 **May 19, 2026** (Google I/O 2026). Lightweight CLI companion to Antigravity 2.0 — create and interact with Google agent harnesses directly from the terminal. macOS / Linux / Windows.
 
 ### IDE-Based Agents
 
@@ -624,6 +632,7 @@ Entries may carry one or more status tags so readers can judge maturity at a gla
 - [Kiro](https://kiro.dev/) - AWS autonomous agent. Spec-driven development, manages up to 10 simultaneous tasks.
 - [Amazon Q Developer](https://aws.amazon.com/q/developer/) - AI coding companion deeply integrated with AWS ecosystem.
 - [Visual Studio 2026 Agent Mode + Skills](https://devblogs.microsoft.com/visualstudio/agent-skills-in-visual-studio/) - 🆕 **VS 2026 Insiders May 12-15, 2026**. Copilot Chat "Agent Mode" now ships a guided Skills workflow inside Visual Studio 2026: discover, manage, and author reusable Copilot Skills with whole-solution context, plus terminal command execution and tool invocation.
+- [JetBrains Rider AI Test-Writing Skill](https://blog.jetbrains.com/dotnet/2026/05/22/claude-codex-ai-agent-skill-for-writing-tests/) - 🆕 **May 22, 2026**. New AI Assistant skill for JetBrains Rider that surfaces .NET coverage data to Claude Code / Codex so agents target untested branches, reducing AI cost for test generation.
 
 ### Autonomous Software Engineers
 
@@ -636,6 +645,7 @@ Entries may carry one or more status tags so readers can judge maturity at a gla
 - [GPT Engineer](https://github.com/gpt-engineer-org/gpt-engineer) - 📦 **Archived** (2025-05). Specify what you want built, AI asks for clarification, then builds it. Foundational project of the autonomous-coding era, kept for historical reference. ![GitHub stars](https://img.shields.io/github/stars/gpt-engineer-org/gpt-engineer?style=flat-square)
 - [Codegen](https://github.com/codegen-sh/codegen-sdk) - 🆕 Programmatic code manipulation and multi-file refactoring SDK. ![GitHub stars](https://img.shields.io/github/stars/codegen-sh/codegen-sdk?style=flat-square)
 - [Qodo](https://www.qodo.ai/) - 🆕 AI Code Review Platform focused on quality, security, and test generation.
+- [Google Antigravity 2.0](https://antigravity.google/blog/introducing-google-antigravity-2-0) - 🆕 **May 19, 2026** (Google I/O 2026). Standalone desktop application (macOS / Linux / Windows) for orchestrating multiple agents in parallel. Adds scheduled cron-style runs, async long-running tasks, dynamic sub-agents, and integrations with AI Studio / Android / Firebase. Companion **Antigravity SDK** lets you host the harness on your own infra; enterprise edition lands inside Gemini Enterprise Agent Platform.
 
 ---
 
@@ -793,6 +803,7 @@ Entries may carry one or more status tags so readers can judge maturity at a gla
 - [MuleRun](https://www.mulerun.ai/) - 🆕 Always-on agents for recurring tasks and background automation.
 - [Gemini Intelligence](https://blog.google/products-and-platforms/products/chrome/bringing-chrome-ai-to-android/) - 🆕 **May 12, 2026** (Android Show: I/O Edition). Proactive agentic AI features integrated into Googlebooks laptops, Wear OS, Android Auto, Android XR, and starting on the latest Samsung Galaxy + Pixel devices. Auto-creates shopping carts from grocery lists, books spin classes, filler-word removal via the Rambler speech-to-text.
 - [Gemini Spark](https://9to5google.com/2026/05/14/gemini-spark-insight/) - 🆕 **May 14, 2026** (pre-I/O leak / insight). Upcoming branded agent capability inside the Gemini app for autonomously running multi-step processes; sits above Gemini 3.1 Pro reasoning stack.
+- [QwenPaw](https://github.com/agentscope-ai/QwenPaw) - 🆕 🇨🇳 **May 2026 rebrand from CoPaw**. Self-hostable personal assistant in the Qwen / AgentScope family. Local-first memory, hot-loadable skills, multi-agent collaboration, multi-channel (DingTalk / Feishu / WeChat / Discord / Telegram), tool guard + skill scanner. Apache-2.0. ![GitHub stars](https://img.shields.io/github/stars/agentscope-ai/QwenPaw?style=flat-square)
 
 ---
 
@@ -830,6 +841,8 @@ Entries may carry one or more status tags so readers can judge maturity at a gla
 - [Microsoft Agent 365 + Microsoft 365 E7](https://techcommunity.microsoft.com/blog/agent-365-blog/microsoft-365-e7--agent365-from-where-you-are-to-enterprise-ai-at-scale/4519969) - 🆕 **May 1, 2026 GA** with extended May rollouts. Identity-first control plane for governing and securing AI agents across enterprise environments; $15/user/month standalone, $99/user/month inside the new Microsoft 365 E7 "Frontier" suite. May 2026 update adds AWS Bedrock + Google Cloud registry sync, Intune/Defender preview policies, and SASE for agents.
 - [OpenAI Guaranteed Capacity (Compute Annual Pass)](https://openai.com/news/company-announcements/) - 🆕 **May 19, 2026**. Long-term enterprise compute reservations (1 / 2 / 3-year terms, larger discounts at longer terms) sold as a structured product. Designed to derisk enterprise rollout of GPT-5.5-class agents — OpenAI's reply to the Anthropic Priority Tier model.
 - [Bristol Myers Squibb ↔ Claude Enterprise](https://news.bms.com/news/corporate-financial/2026/Bristol-Myers-Squibb-Announces-Strategic-Agreement-with-Anthropic-to-Position-Claude-Enterprise-as-the-Shared-Intelligence-Platform-Across-Its-Global-Operations/default.aspx) - 🆕 **May 20, 2026**. BMS standardises on Claude Enterprise as its shared intelligence platform for **30,000+ employees**, embedding agentic Claude into drug-discovery / development / delivery pipelines. First top-5 pharma to make a public, company-wide Claude commitment.
+- [Kore.ai Artemis Agent Platform](https://venturebeat.com/technology/kore-ai-launches-artemis-ai-agent-platform-expands-challenge-to-microsoft-and-salesforce) - 🆕 **May 22, 2026** (launched on Azure). AI-native enterprise agent platform built around the new YAML-style **Agent Blueprint Language (ABL)** for declarative multi-agent workflows. Kore.ai's structural challenge to Copilot Studio and Agentforce.
+- [FPT Flezi Foundry™](https://lasvegassun.com/news/2026/may/22/fpt-launches-flezi-foundry-advancing-ai-augmented-/) - 🆕 **May 22, 2026**. AI-augmented delivery platform with two governed Service-as-a-Software modes — **Agentic Development Lifecycle (ADLC)** for full SDLC agent crews and **Agentic Managed Services (AMS)** for incident-resolution agents on top of existing ITOps.
 
 ## 📊 Agent Evaluation & Observability
 
@@ -1622,6 +1635,7 @@ Entries may carry one or more status tags so readers can judge maturity at a gla
 - [Google I/O 2026 — Gemini 3.5 + Omni + Spark + AI Ultra](https://blog.google/innovation-and-ai/sundar-pichai-io-2026/) - 🆕 **May 19, 2026**. Google's biggest agent-and-AGI keynote of the year: Gemini 3.5 Flash GA (default model), Gemini Omni world-model family, Gemini Spark 24/7 personal agent with ~30+ MCP-based tool integrations, and a new **Google AI Ultra $100/mo** tier. Pichai confirms Google now processes **3.2 quadrillion tokens / month**.
 - [Alibaba Cloud Summit Hangzhou — Qwen 3.7-Max + Zhenwu M890](https://www.scmp.com/tech/big-tech/article/3354212/alibaba-unveils-new-qwen-model-custom-chips-bid-become-chinas-ai-factory) - 🆕 **May 20, 2026**. Alibaba unveils Qwen 3.7-Max (agentic-coding flagship for long-horizon missions), the T-Head Zhenwu M890 AI accelerator, and a full-stack AI infrastructure upgrade — China's most aggressive bid yet to position itself as the country's "AI factory."
 - [OpenAI Guaranteed Capacity (Compute Annual Pass)](https://openai.com/news/company-announcements/) - 🆕 **May 19, 2026**. Long-term enterprise compute reservations (1/2/3-year terms) sold as a structured product — OpenAI's structural answer to Anthropic's Priority Tier and the wider supply crunch for frontier-model inference.
+- [Google Antigravity 2.0 + Microsoft RAMPART + xAI Grok Build](https://antigravity.google/blog/introducing-google-antigravity-2-0) - 🆕 **May 14–22, 2026**. Three structural agent-stack shifts in one week: Google's standalone multi-agent desktop + SDK at I/O 2026, Microsoft open-sourcing agentic-AI safety testing (RAMPART + Clarity), and xAI entering the CLI-agent race with **Grok Build** on `grok-code-fast-1`. Major / Anthropic-Google-Microsoft / xAI all show up with agent platforms within the same 8-day window.
 
 ---
 
@@ -1724,6 +1738,15 @@ Entries may carry one or more status tags so readers can judge maturity at a gla
 | **May 20, 2026** | **Alibaba Cloud Summit Hangzhou** — [Qwen 3.7-Max](https://www.scmp.com/tech/big-tech/article/3354212/alibaba-unveils-new-qwen-model-custom-chips-bid-become-chinas-ai-factory) GA, agentic-coding flagship for long-horizon multi-step missions; new T-Head **Zhenwu M890** AI chip + full-stack AI infrastructure upgrade | Models |
 | **May 20, 2026** | [Bristol Myers Squibb ↔ Anthropic Claude Enterprise](https://news.bms.com/news/corporate-financial/2026/Bristol-Myers-Squibb-Announces-Strategic-Agreement-with-Anthropic-to-Position-Claude-Enterprise-as-the-Shared-Intelligence-Platform-Across-Its-Global-Operations/default.aspx) — 30K+ employees standardise on Claude Enterprise for drug discovery / development / delivery; first top-5 pharma full Claude deployment | Industry |
 | **May 20, 2026** | [LlamaIndex ↔ Google Agents API](https://www.kucoin.com/news/flash/google-launches-agents-api-llama-index-integrates-llamaparse-for-unstructured-document-processing) — LlamaParse / LiteParse exposed inside the new Google Agents API sandbox; Sandboxed-Lit runtime + ParseBench (first OCR benchmark for agents) ship in the same wave | Frameworks |
+| **May 20, 2026** | [Microsoft RAMPART + Clarity](https://www.microsoft.com/en-us/security/blog/2026/05/20/introducing-rampart-and-clarity-open-source-tools-to-bring-safety-into-agent-development-workflow/) open-sourced — pytest-native white-box safety/security testing framework for agentic AI + structured design-review companion; CI/CD-friendly successor to PyRIT | Tools |
+| **May 6, 2026** | [AWS MCP Server GA](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-mcp-server/) — AWS-managed MCP endpoint exposes every AWS API with sandboxed Python and agent skills; first hyperscaler-first-party MCP server | Protocols |
+| **May 1, 2026** | [Google Workspace MCP Server](https://workspaceupdates.googleblog.com/2026/05/agent-tools-and-security-updates-for-workspace-developers.html) rolls out — Workspace-native MCP for Gmail / Drive / Calendar / Docs / Sheets with admin-scoped OAuth | Protocols |
+| **May 14, 2026** | [Grok Build (early beta)](https://x.ai/news/grok-build-cli) — xAI's agentic CLI coding agent powered by **grok-code-fast-1**; parallel sub-agents in isolated envs, SuperGrok Heavy gating | Tools |
+| **May 14, 2026** | [iManage MCP Server](https://imanage.com/resources/resource-center/news/mcp-server-available-broader-ai-ecosystem/) launched — first major legal/professional-services SaaS to ship a public MCP endpoint | Tools |
+| **May 19, 2026** | [Google Antigravity 2.0](https://antigravity.google/blog/introducing-google-antigravity-2-0) at I/O 2026 — standalone desktop app for multi-agent orchestration, scheduled / async runs, dynamic sub-agents, Antigravity CLI + SDK, enterprise edition inside Gemini Enterprise Agent Platform | Tools |
+| **May 22, 2026** | [Kore.ai Artemis Agent Platform](https://venturebeat.com/technology/kore-ai-launches-artemis-ai-agent-platform-expands-challenge-to-microsoft-and-salesforce) launched on Azure — AI-native enterprise platform with **Agent Blueprint Language (ABL)** for declarative multi-agent workflows | Industry |
+| **May 22, 2026** | [FPT Flezi Foundry™](https://lasvegassun.com/news/2026/may/22/fpt-launches-flezi-foundry-advancing-ai-augmented-/) launched — AI-augmented delivery platform with Agentic Development Lifecycle (ADLC) and Agentic Managed Services (AMS) modes under "Service-as-a-Software" governance | Industry |
+| **May 22, 2026** | [JetBrains Rider AI test-writing skill](https://blog.jetbrains.com/dotnet/2026/05/22/claude-codex-ai-agent-skill-for-writing-tests/) — surfaces .NET coverage data to Claude Code / Codex so agents focus tests on untested branches | Tools |
 | **Apr 2026** | Gartner predicts 40% of enterprise apps will embed AI agents by end of 2026 | Industry |
 | **Apr 2026** | Google commits up to $40B investment in Anthropic (initial $10B) | Industry |
 | **2026 (ongoing)** | A2A Protocol grows to 150+ partner organizations | Protocols |
@@ -1748,7 +1771,7 @@ This list is released under [MIT License](LICENSE).
 
 **⭐ If you find this list useful, please give it a star! ⭐**
 
-*420+ resources across 25 categories — from foundation models to agent protocols to generative AI.*
+*435+ resources across 25 categories — from foundation models to agent protocols to generative AI.*
 
 Made with ❤️ by [Zijian Ni](https://github.com/Zijian-Ni)
 
