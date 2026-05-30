@@ -1780,10 +1780,10 @@ This list is released under [MIT License](LICENSE).
 
 **⭐ If you find this list useful, please give it a star! ⭐**
 
-*435+ resources across 25 categories — from foundation models to agent protocols to generative AI.*
+*440+ resources across 25 categories — from foundation models to agent protocols to generative AI.*
 
 Made with ❤️ by [Zijian Ni](https://github.com/Zijian-Ni)
 
-*Last updated: May 16, 2026*
+*Last updated: May 30, 2026*
 
 </div>
