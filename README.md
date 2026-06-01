@@ -6,7 +6,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/Zijian-Ni/awesome-ai-agents-2026?style=social)](https://github.com/Zijian-Ni/awesome-ai-agents-2026)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-May%2031%2C%202026-blue.svg)](#)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-June%201%2C%202026-blue.svg)](#)
 [![Resources](https://img.shields.io/badge/Resources-445%2B-orange.svg)](#)
 [![Categories](https://img.shields.io/badge/Categories-25-purple.svg)](#)
 [![Audited](https://img.shields.io/badge/Spam_Audited-2026--05--31-success.svg)](#️-status-legend)
