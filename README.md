@@ -970,6 +970,7 @@ Entries may carry one or more status tags so readers can judge maturity at a gla
 ### Developer Tools
 
 - [Kilo Code](https://www.kilocode.com/) - 2026 viral Chinese-community challenger to Cursor. Default model: MiniMax.
+- [CoderPlan](https://coderplan.ai/) - China-first unified LLM API gateway (Claude / OpenAI / Gemini, one-line config for Claude Code). Pay-as-you-go with Alipay & WeChat Pay.
 - [Cherry Studio](https://github.com/CherryHQ/cherry-studio) - Most-installed open-source desktop client for LLMs in Chinese dev circles — multi-provider chat with knowledge base. ![GitHub stars](https://img.shields.io/github/stars/CherryHQ/cherry-studio?style=flat-square)
 - [ScienceOne 100 / 磐石100](https://english.cas.cn/newsroom/cas-in-media/202604/t20260429_1158251.shtml) - 🆕 Chinese Academy of Sciences scientific reasoning agent system, 50+ CAS institutes, 2,000+ research tools.
 
