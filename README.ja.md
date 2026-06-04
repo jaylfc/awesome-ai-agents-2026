@@ -593,7 +593,7 @@
 - [Qodo](https://www.qodo.ai/) - 🆕 品質・セキュリティ・テスト生成に特化した AI コードレビュープラットフォーム。
 - [Codex Security](https://developers.openai.com/codex/changelog) - 🆕 **2026 年 3 月**。ソフトウェア脆弱性を発見・修正するアプリケーションセキュリティエージェント。OSS メンテナは Codex-for-OSS プログラム経由で利用可能。
 - [Gemini CLI](https://github.com/google-gemini/gemini-cli) - 🆕 Google のターミナル特化コーディングエージェント。大規模コンテキストのリファクタが得意。 ![GitHub stars](https://img.shields.io/github/stars/google-gemini/gemini-cli?style=flat-square)
-- [OpenCode](https://github.com/opencode-ai/opencode) - 🆕 ターミナル向けのオープンソース AI コーディングエージェント。ネイティブ TUI を搭載し、2026 年半ばまでに 16.5 万以上の GitHub stars を獲得。OpenAI、Claude、Gemini、Ollama（ローカル）をサポートし、LSP によるコード解析にも対応。Go 言語で構築されたマルチセッション・モデル非依存アーキテクチャ。MIT。 ![GitHub stars](https://img.shields.io/github/stars/opencode-ai/opencode?style=flat-square)
+- [OpenCode](https://github.com/opencode-ai/opencode) - 🆕 ターミナル向けのオープンソース AI コーディングエージェント。ネイティブ TUI 搭載。OpenAI、Claude、Gemini、Ollama（ローカル）をサポートし、LSP によるコード解析にも対応。Go 言語で構築されたマルチセッション・モデル非依存アーキテクチャ。MIT。 ![GitHub stars](https://img.shields.io/github/stars/opencode-ai/opencode?style=flat-square)
 - [Grok Build](https://x.ai/news/grok-build-cli) - 🆕 **2026 年 5 月 14 日（early beta）**。xAI が出した **grok-code-fast-1** ベースの agentic CLI コーディングエージェント。サブエージェントが隔離環境で並列実行、毎日リリースノートを公開、SuperGrok Heavy 契約者のみ利用可（最初 6 か月は月 99 ドル、以降 300 ドル）。xAI による Claude Code / Codex CLI への正面回答。
 - [Antigravity CLI](https://antigravity.google/blog/introducing-google-antigravity-2-0) - 🆕 **2026 年 5 月 19 日（Google I/O 2026）**。Antigravity 2.0 の軽量 CLI コンパニオン。ターミナルから直接 Google のエージェント harness を起動・操作できる。macOS / Linux / Windows。
 - [Roo Code](https://roocode.com/) - 🆕 オープンソースの VS Code 拡張。複数ファイルを跨いで読み書きし、コマンド実行が可能、model-agnostic。自前の LLM API 以外は無料。
@@ -752,7 +752,7 @@
 - [01 Light](https://github.com/OpenInterpreter/01) - 💤 **Stale**（2024-11 以降更新なし）。オープンソースの音声コンピュータインターフェース。![GitHub stars](https://img.shields.io/github/stars/OpenInterpreter/01?style=flat-square)
 - [Leon](https://github.com/leon-ai/leon) - 自サーバ上に住むオープンソース個人アシスタント。![GitHub stars](https://img.shields.io/github/stars/leon-ai/leon?style=flat-square)
 - [Khoj](https://github.com/khoj-ai/khoj) - ノートやドキュメント、画像を機械的にスキャンして会話できる「第二の脳」。![GitHub stars](https://img.shields.io/github/stars/khoj-ai/khoj?style=flat-square)
-- [Humane AI Pin](https://humane.com/) - スクリーンレス、アンビエントコンピューティングのウェアラブル AI デバイス。
+- [Humane AI Pin](https://humane.com/) - ⚠️ **2025年2月28日にサービス終了**（HPに買収され、デバイスは廃止）。元々はスクリーンレス・アンビエントコンピューティングのウェアラブル AI デバイス。
 - [Arahi AI](https://arahi.ai/) - 🆕 個人生産性 + ビジネス自動化アシスタント。
 - [Lindy AI](https://www.lindy.ai/) - 🆕 メール・カレンダー・ワークフロー自動化のノーコード AI エージェント。
 - [MuleRun](https://www.mulerun.ai/) - 🆕 繰り返しタスクとバックグラウンド自動化の常駐エージェント。

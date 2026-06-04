@@ -621,7 +621,7 @@ Entries may carry one or more status tags so readers can judge maturity at a gla
 - [Codex Security](https://developers.openai.com/codex/changelog) - 🆕 **March 2026**. Application-security agent that finds and fixes software vulnerabilities; available to OSS maintainers via the Codex-for-OSS program.
 - [Aider](https://github.com/Aider-AI/aider) - AI pair programming in your terminal — works with any LLM, with first-class git commit handling. ![GitHub stars](https://img.shields.io/github/stars/Aider-AI/aider?style=flat-square)
 - [Gemini CLI](https://github.com/google-gemini/gemini-cli) - 🆕 Google's terminal-first coding agent for large-context refactors. ![GitHub stars](https://img.shields.io/github/stars/google-gemini/gemini-cli?style=flat-square)
-- [OpenCode](https://github.com/opencode-ai/opencode) - 🆕 Open-source terminal-first coding agent with a native TUI, 165K+ GitHub stars by mid-2026. Supports OpenAI, Claude, Gemini, Ollama (local models), and LSP for code intelligence. Multi-session, model-agnostic, Go-based. MIT. ![GitHub stars](https://img.shields.io/github/stars/opencode-ai/opencode?style=flat-square)
+- [OpenCode](https://github.com/opencode-ai/opencode) - 🆕 Open-source terminal-first coding agent with a native TUI, Supports OpenAI, Claude, Gemini, Ollama (local models), and LSP for code intelligence. Multi-session, model-agnostic, Go-based. MIT. ![GitHub stars](https://img.shields.io/github/stars/opencode-ai/opencode?style=flat-square)
 - [Grok Build](https://x.ai/news/grok-build-cli) - 🆕 **May 14, 2026** (early beta). xAI's agentic CLI coding agent powered by **grok-code-fast-1**. Parallel sub-agents in isolated environments, daily release notes, available to SuperGrok Heavy subscribers ($99/mo intro for 6 months, then $300/mo). xAI's reply to Claude Code and Codex CLI.
 - [Antigravity CLI](https://antigravity.google/blog/introducing-google-antigravity-2-0) - 🆕 **May 19, 2026** (Google I/O 2026). Lightweight CLI companion to Antigravity 2.0 — create and interact with Google agent harnesses directly from the terminal. macOS / Linux / Windows.
 
@@ -808,7 +808,7 @@ Entries may carry one or more status tags so readers can judge maturity at a gla
 - [01 Light](https://github.com/OpenInterpreter/01) - 💤 **Stale** (no commits since 2024-11). Open-source voice interface for computers. ![GitHub stars](https://img.shields.io/github/stars/OpenInterpreter/01?style=flat-square)
 - [Leon](https://github.com/leon-ai/leon) - Open-source personal assistant — lives on your server. ![GitHub stars](https://img.shields.io/github/stars/leon-ai/leon?style=flat-square)
 - [Khoj](https://github.com/khoj-ai/khoj) - Personal AI second brain — search and chat with your notes, docs, and images. ![GitHub stars](https://img.shields.io/github/stars/khoj-ai/khoj?style=flat-square)
-- [Humane AI Pin](https://humane.com/) - Wearable AI device with a screenless, ambient computing experience.
+- [Humane AI Pin](https://humane.com/) - ⚠️ **Discontinued Feb 28, 2025** (acquired by HP, device shut down). Originally a wearable AI device with a screenless, ambient computing experience.
 - [Arahi AI](https://arahi.ai/) - 🆕 Personal productivity and business automation assistant.
 - [Lindy AI](https://www.lindy.ai/) - 🆕 No-code AI agent for email, calendar, and workflow automation.
 - [MuleRun](https://www.mulerun.ai/) - 🆕 Always-on agents for recurring tasks and background automation.
@@ -1099,7 +1099,7 @@ Entries may carry one or more status tags so readers can judge maturity at a gla
 | [Graphiti](https://github.com/getzep/graphiti) | Temporal knowledge graph | Graph traversal | ✅ | ✅ | ⭐ native | Apache-2.0 | Time-aware agent memory |
 | [Zep](https://github.com/getzep/zep) | Vector + summary | Semantic | ✅ | ✅ | ✅ | Apache-2.0 | Production memory for chat agents |
 | [Memary](https://github.com/kingjulio8238/Memary) | Knowledge graph | Graph + semantic | ✅ | ✅ | ⚠️ | MIT | Open-source agent memory layer |
-| [CORE](https://github.com/the-agent-company/CORE) | Episodic + semantic | Hybrid | ✅ | ✅ | ✅ | Apache-2.0 | Structured episodic + semantic memory |
+| [TheAgentCompany](https://github.com/TheAgentCompany/TheAgentCompany) | Episodic + semantic | Hybrid | ✅ | ✅ | ✅ | Apache-2.0 | Benchmark + agent environment for enterprise software tasks |
 | [Letta (fka MemGPT)](https://github.com/cpacker/MemGPT) | Tiered (core/archival) | Paged retrieval | ✅ | ✅ | ✅ | Apache-2.0 | Long-term memory with infinite context illusion |
 
 ---
@@ -1215,7 +1215,7 @@ Entries may carry one or more status tags so readers can judge maturity at a gla
 | [Microsoft Agent Framework](https://learn.microsoft.com/en-us/agent-framework/) | ⚠️ (AutoGen OSS) | ✅ | ✅ | ⚠️ (Azure) | SOC2, ISO 27001 | Azure-native enterprise |
 | [Salesforce Agentforce](https://www.salesforce.com/agentforce/) | ❌ | ⚠️ | ❌ | ❌ | SOC2, GDPR | Salesforce CRM orgs |
 | [SAP Joule](https://www.sap.com/products/artificial-intelligence/ai-assistant.html) | ❌ | ❌ | ❌ | ⚠️ | SOC2, ISO | SAP ERP environments |
-| [Google Gemini Enterprise](https://workspace.google.com/products/gemini/) | ❌ | ✅ | ✅ | ❌ (cloud) | SOC2, FedRAMP | Google Workspace orgs |
+| [Google Gemini Enterprise](https://workspace.google.com/features/) | ❌ | ✅ | ✅ | ❌ (cloud) | SOC2, FedRAMP | Google Workspace orgs |
 | [IBM watsonx](https://www.ibm.com/watsonx) | ⚠️ | ✅ | ⚠️ | ✅ (on-prem) | FedRAMP, HIPAA | Regulated / on-prem enterprise |
 | [ServiceNow AI Agents](https://www.servicenow.com/) | ❌ | ✅ | ⚠️ | ❌ | SOC2 | IT service management |
 | [Dify Enterprise](https://github.com/langgenius/dify) | ✅ (CE) | ✅ | ✅ | ✅ | SOC2 (cloud) | Multi-model, low-code agent platform |
@@ -1258,7 +1258,7 @@ Entries may carry one or more status tags so readers can judge maturity at a gla
 | [Claude Desktop Intelligence](https://www.anthropic.com/) | Mac / Linux | ✅ | ❌ | ✅ | ❌ | Best all-round screen agent |
 | [UFO](https://github.com/microsoft/UFO) | Windows | ✅ | ✅ | Optional | ✅ | Windows native automation |
 | [OSWorld](https://github.com/xlang-ai/OSWorld) | Mac/Win/Linux | ✅ | ✅ | Optional | ✅ | Cross-platform benchmark + agent |
-| [Nemo Agent](https://github.com/sternakt/nemo-agent) | Linux | ✅ | ✅ | Optional | ✅ | Open desktop control |
+| [NeMo Agent Toolkit](https://github.com/NVIDIA/NeMo-Agent-Toolkit) | Linux/Cloud | ✅ | ✅ | Optional | ✅ | NVIDIA’s open agent framework for LLM-powered workflows |
 | [Screenpipe](https://github.com/mediar-ai/screenpipe) | Mac / Linux | ✅ | ✅ | ❌ | ✅ | Screen + audio memory, privacy-first |
 | [Claude Computer Use (API)](https://docs.anthropic.com/) | Any (via API) | ✅ | ❌ | ✅ | ❌ | API-driven desktop control |
 
@@ -1327,7 +1327,7 @@ Entries may carry one or more status tags so readers can judge maturity at a gla
 | [llama.cpp (mobile)](https://github.com/ggerganov/llama.cpp) | ✅ | ✅ | ✅ | ✅ (arm/x86) | MIT | Universal local LLM, all platforms |
 | [MediaPipe](https://github.com/google-ai-edge/mediapipe) | ✅ | ✅ | ✅ | ✅ | Apache-2.0 | On-device ML tasks (vision, NLP) |
 | [Core ML](https://developer.apple.com/documentation/coreml) | ✅ | ❌ | ✅ | ✅ (ANE) | Apple SDK | iOS/macOS native model inference |
-| [Google AI Edge](https://ai.google.dev/edge) | ✅ | ✅ | ✅ | ✅ | Apache-2.0 | LiteRT + Gemma Nano on-device |
+| [Google AI Edge](https://developers.google.com/edge) | ✅ | ✅ | ✅ | ✅ | Apache-2.0 | LiteRT + Gemma Nano on-device |
 | [Ollama (mobile proxy)](https://ollama.com/) | ⚠️ via API | ⚠️ via API | ✅ | ❌ (server-side) | MIT | Run Ollama server, hit from mobile |
 | [Qualcomm AI Hub](https://aihub.qualcomm.com/) | ❌ | ✅ | ✅ | ✅ (Snapdragon NPU) | SDK | Snapdragon-optimized model deployment |
 

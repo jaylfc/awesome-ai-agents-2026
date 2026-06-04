@@ -593,7 +593,7 @@
 - [Qodo](https://www.qodo.ai/) - 🆕 AI 代码评审平台：质量 + 安全 + 测试生成。
 - [Codex Security](https://developers.openai.com/codex/changelog) - 🆕 **2026 年 3 月**。应用安全 Agent，负责发现并修复软件漏洞；OSS 维护者可通过 Codex-for-OSS 计划使用。
 - [Gemini CLI](https://github.com/google-gemini/gemini-cli) - 🆕 Google 的终端优先编码 Agent，擅长大上下文重构。 ![GitHub stars](https://img.shields.io/github/stars/google-gemini/gemini-cli?style=flat-square)
-- [OpenCode](https://github.com/opencode-ai/opencode) - 🆕 开源终端优先编码 Agent，内置原生 TUI，到 2026 年中已超 16.5 万 GitHub stars。支持 OpenAI、Claude、Gemini、Ollama 等模型以及代码智能提示 (LSP)。基于 Go，架构解耦。MIT。 ![GitHub stars](https://img.shields.io/github/stars/opencode-ai/opencode?style=flat-square)
+- [OpenCode](https://github.com/opencode-ai/opencode) - 🆕 开源终端优先编码 Agent，内置原生 TUI。支持 OpenAI、Claude、Gemini、Ollama 等模型以及代码智能提示 (LSP)。基于 Go，架构解耦。MIT。 ![GitHub stars](https://img.shields.io/github/stars/opencode-ai/opencode?style=flat-square)
 - [Grok Build](https://x.ai/news/grok-build-cli) - 🆕 **2026 年 5 月 14 日（早期 beta）**。xAI 的 Agent 化 CLI 编码工具，由 **grok-code-fast-1** 驱动。子 Agent 并行运行于隔离环境，每日发布 release notes，仅 SuperGrok Heavy 订阅可用（首 6 个月每月 99 美元，之后 300 美元）。xAI 对 Claude Code / Codex CLI 的正面回应。
 - [Antigravity CLI](https://antigravity.google/blog/introducing-google-antigravity-2-0) - 🆕 **2026 年 5 月 19 日（Google I/O 2026）**。Antigravity 2.0 的轻量 CLI 伴侣——直接从终端创建并使用 Google 的 Agent harness。支持 macOS / Linux / Windows。
 - [Roo Code](https://roocode.com/) - 🆕 开源 VS Code 扩展，跨多文件读写、执行命令，model-agnostic；除自带 API 外免费。
@@ -750,7 +750,7 @@
 - [01 Light](https://github.com/OpenInterpreter/01) - 💤 **Stale**（2024-11 起无更新）。开源语音电脑接口。![GitHub stars](https://img.shields.io/github/stars/OpenInterpreter/01?style=flat-square)
 - [Leon](https://github.com/leon-ai/leon) - 自托管开源个人助理。![GitHub stars](https://img.shields.io/github/stars/leon-ai/leon?style=flat-square)
 - [Khoj](https://github.com/khoj-ai/khoj) - 你的笔记 / 文档 / 图片的"第二大脑"AI。![GitHub stars](https://img.shields.io/github/stars/khoj-ai/khoj?style=flat-square)
-- [Humane AI Pin](https://humane.com/) - 无屏幕环境计算的可穿戴 AI。
+- [Humane AI Pin](https://humane.com/) - ⚠️ **2025-02-28 已停产**（被 HP 收购，设备已关闭）。原为无屏幕环境计算的可穿戴 AI 设备。
 - [Arahi AI](https://arahi.ai/) - 🆕 个人生产力 + 业务自动化助理。
 - [Lindy AI](https://www.lindy.ai/) - 🆕 邮件 / 日历 / 工作流的无代码 Agent。
 - [MuleRun](https://www.mulerun.ai/) - 🆕 周期任务的常驻 Agent。
