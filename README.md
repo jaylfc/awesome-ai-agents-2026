@@ -527,6 +527,7 @@ Entries may carry one or more status tags so readers can judge maturity at a gla
 - [LangGraph Memory](https://github.com/langchain-ai/langgraph) - 🆕 Built-in persistence and checkpointing for stateful agent workflows. ![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langgraph?style=flat-square)
 - [Graphiti](https://github.com/getzep/graphiti) - 🆕 Build and query knowledge graphs for agent memory using temporal awareness. ![GitHub stars](https://img.shields.io/github/stars/getzep/graphiti?style=flat-square)
 - [Claude Managed Agents Memory](https://platform.claude.com/docs/en/release-notes/overview) - 🆕 **April 23, 2026** (public beta). Anthropic's persistent memory feature for Claude Managed Agents. Agents retain information across sessions by mounting read/write memory stores to a filesystem. Enables long-running agents to learn and adapt without resetting context.
+- [taOSmd](https://github.com/jaylfc/taosmd) - Local-first, benchmarked agent memory on an append-only transcript: typed temporal knowledge graph where corrected facts supersede old ones, plus hybrid vector + BM25 retrieval. Tuned for small local models, fully offline (runs on an 8GB Pi); 97% on LongMemEval-S. ![GitHub stars](https://img.shields.io/github/stars/jaylfc/taosmd?style=flat-square)
 
 ## 🔌 Tool & API Integration
 
