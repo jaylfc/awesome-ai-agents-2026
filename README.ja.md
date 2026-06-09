@@ -104,7 +104,7 @@
 - [GPT-4o](https://openai.com/index/hello-gpt-4o/) - テキスト・視覚・音声をネイティブにサポートする Omni モデル。2026-02 に ChatGPT から退役、API では引き続き利用可能。
 - [GPT-4.5](https://openai.com/) - ⚠️ **2026年6月27日に ChatGPT から退役**（API 利用は継続）。2025年2月に研究プレビューとしてリリースされ、GPT-5.5 ファミリーへの完全移行に伴い退役。o3 も 2026年8月26日に退役予定。
 - [o3 / o4-mini](https://openai.com/index/introducing-o3-and-o4-mini/) - 思考連鎖推論モデル。2025-04 公開。o3 は 2026-08-26 退役。
-- [Codex CLI](https://github.com/openai/codex) - OpenAI が公開したオープンソースのターミナルコーディングエージェント。![GitHub stars](https://img.shields.io/github/stars/openai/codex?style=flat-square)
+- [Codex CLI](https://github.com/openai/codex) - OpenAI が公開したオープンソースのターミナルコーディングエージェント。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fopenai%2Fcodex&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [OpenAI Deployment Company (DeployCo)](https://openai.com/index/openai-launches-the-deployment-company/) - 🆕 **2026-05-11**。OpenAI が过半所有するエンタープライズ AI 導入サービス企業。初期資金 $4B+（TPG / Advent / Bain Capital / Brookfield / Goldman Sachs / SoftBank + Bain & Company / Capgemini / McKinsey など），Forward Deployed Engineers モデルを中核にし Tomoro コンサルティングチーム（~150 名）を取り込む。
 - [Codex on Mobile](https://9to5mac.com/2026/05/14/openai-brings-codex-control-to-chatgpt-for-iphone-and-android/) - 🆕 **2026-05-14**。ChatGPT iOS / Android から Mac 上の Codex デスクトップ App をリモート操作 —— 出力のレビュー、アクション承認、モデル切り替え、タスク起動が可能。ファイル / 資格情報 / 権限はローカルに留まる。Free / Plus / Go プレビュー。
 - [OpenAI ↔ Malta パートナーシップ](https://openai.com/index/malta-chatgpt-plus-partnership/) - 🆕 **2026-05-16**。初の国家レベル提携。マルタ大学提供の 2 時間 AI リテラシー講座を修了した 14 歳以上のマルタ国民 / 居住者に 1 年間の ChatGPT Plus を無償提供。"OpenAI for Countries" イニシアチブの第一弾。
@@ -147,7 +147,7 @@
 - [Gemini 3.1 Flash / Flash Lite](https://deepmind.google/technologies/gemini/) - 高スループット用途向けの高速・低コストモデル。
 - [Gemini 4 (Open)](https://deepmind.google/technologies/gemini/) - 🆕 2026-04 公開。オープンモデル: 2B / 4B / 26B / 31B。科学推論と文書理解、ローカル展開向け。
 - [Gemini 2.5 Pro / Flash](https://deepmind.google/technologies/gemini/) - 2025-06 GA。Thinking モデル + 1M コンテキスト。
-- [Gemma 4 31B](https://github.com/google-deepmind/gemma) - 🆕 2026-04。GPQA Diamond 84.3%。デバイス推論用の強力なオープンウェイト代替。![GitHub stars](https://img.shields.io/github/stars/google-deepmind/gemma?style=flat-square)
+- [Gemma 4 31B](https://github.com/google-deepmind/gemma) - 🆕 2026-04。GPQA Diamond 84.3%。デバイス推論用の強力なオープンウェイト代替。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fgoogle-deepmind%2Fgemma&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Gemma 3](https://github.com/google-deepmind/gemma) - 前世代のオープンモデルファミリー。
 - [Gemini Robotics ER-1.6](https://deepmind.google/) - 🆕 2026-04-14。空間・物理推論を強化したロボティクス AI。Agile Robotics と提携し実機展開。
 
@@ -189,7 +189,7 @@
 - [DeepSeek-V3.2](https://www.deepseek.com/) - 2025-12 公開。671B MoE、V3.2 Speciale 推論強化版あり。
 - [DeepSeek-R2](https://www.deepseek.com/) - 2026 年の推論モデル。R1 後継、GPT-5・Gemini 3 Pro と競合。
 - [DeepSeek-R1](https://www.deepseek.com/) - 2025-01 公開、思考連鎖推論モデル。
-- [DeepSeek-Coder-V2](https://github.com/deepseek-ai/DeepSeek-Coder-V2) - GPT-4 と互角のコード生成モデル。![GitHub stars](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-Coder-V2?style=flat-square)
+- [DeepSeek-Coder-V2](https://github.com/deepseek-ai/DeepSeek-Coder-V2) - GPT-4 と互角のコード生成モデル。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fdeepseek-ai%2FDeepSeek-Coder-V2&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 
 ### Alibaba (Qwen) 🇨🇳
 
@@ -206,7 +206,7 @@
 - [Qwen3.5-Omni](https://qwen.ai/) - 2026-03。完全全モーダル: 言語・視覚・音・動作。113 言語の音声認識、256K コンテキスト。
 - [Qwen3-Coder-Next](https://qwen.ai/) - 2026-02。オープンウェイトのコーディングエージェントモデル、MoE 80B 総 / 3B アクティブ。
 - [Qwen3 235B-A22B](https://qwen.ai/) - 二重モード推論 MoE。数学・コード・常識推論に強い。
-- [Qwen2.5 Coder 32B](https://github.com/QwenLM/Qwen2.5-Coder) - トップクラスのオープンソースコーディングモデル。![GitHub stars](https://img.shields.io/github/stars/QwenLM/Qwen2.5-Coder?style=flat-square)
+- [Qwen2.5 Coder 32B](https://github.com/QwenLM/Qwen2.5-Coder) - トップクラスのオープンソースコーディングモデル。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FQwenLM%2FQwen2.5-Coder&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 
 ### xAI (Grok)
 
@@ -283,7 +283,7 @@
 
 ### Tencent (Hunyuan) 🇨🇳
 
-- [Hunyuan Hy3 Preview](https://hy.tencent.com/research/hy3) - 🆕 **2026-04-23**。295B 総 / 21B アクティブ MoE、256K コンテキスト。GitHub / Hugging Face / ModelScope / GitCode 同時オープンソース化。"Fast-slow thinking fusion" アーキテクチャ、推論効率 40% 改善。vLLM と SGLang 対応。元宝 / CodeBuddy / QQ / 騰訊文档に統合済み。OpenRouter で無料プレビュー中。![GitHub stars](https://img.shields.io/github/stars/Tencent-Hunyuan/Hunyuan-A13B?style=flat-square)
+- [Hunyuan Hy3 Preview](https://hy.tencent.com/research/hy3) - 🆕 **2026-04-23**。295B 総 / 21B アクティブ MoE、256K コンテキスト。GitHub / Hugging Face / ModelScope / GitCode 同時オープンソース化。"Fast-slow thinking fusion" アーキテクチャ、推論効率 40% 改善。vLLM と SGLang 対応。元宝 / CodeBuddy / QQ / 騰訊文档に統合済み。OpenRouter で無料プレビュー中。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FTencent-Hunyuan%2FHunyuan-A13B&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 
 ### Apple
 
@@ -337,7 +337,7 @@
 - [DALL·E 3](https://openai.com/dall-e-3) - ChatGPT に統合された OpenAI のテキスト → 画像モデル。
 - [Midjourney V7](https://www.midjourney.com/) - フォトリアル・芸術風スタイルの第一線。
 - [Stable Diffusion 3.5](https://stability.ai/) - 一貫性・プロンプト追従が改善されたオープンソース画像生成。
-- [Flux](https://github.com/black-forest-labs/flux) - 💤 **Stale**（2025-07 以降更新なし）。Black Forest Labs のオープンソースモデル。![GitHub stars](https://img.shields.io/github/stars/black-forest-labs/flux?style=flat-square)
+- [Flux](https://github.com/black-forest-labs/flux) - 💤 **Stale**（2025-07 以降更新なし）。Black Forest Labs のオープンソースモデル。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fblack-forest-labs%2Fflux&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Ideogram 3.0](https://ideogram.ai/) - 画像内のテキスト描画とデザイン志向の生成に強い。
 - [Gemini 3 Pro Image](https://deepmind.google/technologies/gemini/) - Gemini 内のネイティブ画像生成。
 - [Recraft V3](https://www.recraft.ai/) - プロのデザイナー向け AI 画像生成。
@@ -361,7 +361,7 @@
 - [Udio](https://www.udio.com/) - 🆕 商用品質の音楽生成。
 - [OpenAI Audio Models](https://openai.com/) - GPT-4o 内のネイティブ音声理解・生成。
 - [Stability Audio](https://stability.ai/) - オープンソース音声・音楽生成。
-- [Bark](https://github.com/suno-ai/bark) - 💤 **Stale**（2024-08 以降更新なし）。オープンソースのテキスト→音声モデル。![GitHub stars](https://img.shields.io/github/stars/suno-ai/bark?style=flat-square)
+- [Bark](https://github.com/suno-ai/bark) - 💤 **Stale**（2024-08 以降更新なし）。オープンソースのテキスト→音声モデル。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fsuno-ai%2Fbark&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Midjourney V8.1](https://en.wikipedia.org/wiki/Midjourney) - 🆕 **2026 年 4 月 30 日**。2K HD 出力対応、新 Raw モードのオプション追加。V8（3D 生成含む）は 2026 年後半とされている。
 - [Flux 2 Pro / Flex / Dev / Klein](https://ropewalk.ai/blog/flux-2-ai-image-generation-2026) - 🆕 **2025 年 11 月**。Black Forest Labs の次世代ファミリー。SOTA 画質、マルチリファレンスの一貫性、文字描画の大幅改善。
 - [Recraft V4](https://en.wikipedia.org/wiki/Recraft) - 🆕 **2026 年 2 月 17 日**。フルリビルド。プロンプト追従性が大幅改善、編集可能な SVG ベクター出力に対応。
@@ -374,7 +374,7 @@
 - [Deepgram Nova-3 + Aura-2 + Flux Multilingual](https://deepgram.com/learn/best-voice-ai-agents-2026-buyers-guide) - 🆕 **2026 年 4 月**。45+ 言語の STT、200ms 未満の TTS、通話中に 10 言語を切り替えできる会話型 STT。
 - [MiniMax Music 2.6](https://aimlapi.com/blog/the-ultimate-guide-to-minimax-models-2026-m2-7-music-2-6-hailuo-video-advanced-tts) - 🇨🇳 🆕 **2026 年 4 月**。カバー生成に特化し、低音域の再現性が向上。
 - [Voxtral TTS](https://www.forbes.com/sites/ronschmelzer/2026/03/26/mistral-releases-open-weight-voice-ai-built-for-speed/) - 🆕 **2026 年 3 月 26 日**。Mistral の音声エージェント向け、4B オープンウェイト TTS。
-- [Hume TADA](https://github.com/HumeAI/tada) - 🆕 **2026 年 3 月 10 日**。Hume AI 初のオープンソース TTS、MIT ライセンス。Text-Acoustic Dual Alignment アーキテクチャでテキストトークンと音声トークンを直接アライン——テストで転記エラーゼロ、同種より約 5× 高速、8 言語対応、スマートフォンで動作。Llama ベース。 ![GitHub stars](https://img.shields.io/github/stars/HumeAI/tada?style=flat-square)
+- [Hume TADA](https://github.com/HumeAI/tada) - 🆕 **2026 年 3 月 10 日**。Hume AI 初のオープンソース TTS、MIT ライセンス。Text-Acoustic Dual Alignment アーキテクチャでテキストトークンと音声トークンを直接アライン——テストで転記エラーゼロ、同種より約 5× 高速、8 言語対応、スマートフォンで動作。Llama ベース。 ![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FHumeAI%2Ftada&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 
 ---
 
@@ -386,20 +386,20 @@
 
 - [MCP Specification](https://modelcontextprotocol.io/) - 🆕 "AI 用の USB-C" —— Anthropic 製、LLM をツール・データソースに接続するオープンプロトコル。2025-12 に Linux Foundation 傘下の Agentic AI Foundation へ寄贈。
 - [MCP 2026-07 Release Candidate](https://blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate/) - 🆕 **2026-05 公開、正式版は 2026-07-28 予定**。MCP 次月メジャーリビジョンの RC：**ステートレスプロトコルコア**（スケーラビリティ・サーバ実装の簡素化）、**拡張フレームワーク**、サーバ側レンダリング UI をサポートする **MCP Apps**、Tasks の拡張へのグラデュエート、OAuth / OpenID Connect と整合した認可強化を含む。
-- [MCP Servers](https://github.com/modelcontextprotocol/servers) - MCP サーバーの公式リファレンス実装集。![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=flat-square)
-- [MCP TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk) - 公式 TypeScript SDK。![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/typescript-sdk?style=flat-square)
-- [MCP Python SDK](https://github.com/modelcontextprotocol/python-sdk) - 公式 Python SDK。![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/python-sdk?style=flat-square)
+- [MCP Servers](https://github.com/modelcontextprotocol/servers) - MCP サーバーの公式リファレンス実装集。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fmodelcontextprotocol%2Fservers&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [MCP TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk) - 公式 TypeScript SDK。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fmodelcontextprotocol%2Ftypescript-sdk&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [MCP Python SDK](https://github.com/modelcontextprotocol/python-sdk) - 公式 Python SDK。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fmodelcontextprotocol%2Fpython-sdk&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [mcp.so](https://mcp.so/) - 🆕 MCP サーバー・ツールのコミュニティディレクトリ。
-- [mcp-gateway](https://github.com/Zijian-Ni/mcp-gateway) - MCP 接続のルーティングと管理を行うゲートウェイ。![GitHub stars](https://img.shields.io/github/stars/Zijian-Ni/mcp-gateway?style=flat-square)
+- [mcp-gateway](https://github.com/Zijian-Ni/mcp-gateway) - MCP 接続のルーティングと管理を行うゲートウェイ。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FZijian-Ni%2Fmcp-gateway&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 
 ### Agent-to-Agent Protocol (A2A)
 
-- [A2A Protocol](https://github.com/google/A2A) - 🆕 Google が主導するエージェント間通信のオープン標準。フレームワーク不問でエージェントの発見・委譲・協調を可能にする。Linux Foundation 統治、150+ パートナー。![GitHub stars](https://img.shields.io/github/stars/google/A2A?style=flat-square)
+- [A2A Protocol](https://github.com/google/A2A) - 🆕 Google が主導するエージェント間通信のオープン標準。フレームワーク不問でエージェントの発見・委譲・協調を可能にする。Linux Foundation 統治、150+ パートナー。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fgoogle%2FA2A&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [A2A Course (DeepLearning.AI)](https://www.deeplearning.ai/short-courses/a2a-the-agent2agent-protocol/) - 🆕 A2A でマルチエージェントシステムを構築する無料コース。
 
 ### その他の標準
 
-- [OpenAI Agents SDK](https://github.com/openai/openai-agents-python) - 🆕 [2026-04-15 大型アップデート](https://openai.com/index/the-next-evolution-of-the-agents-sdk/): ネイティブサンドボックス実行、第一級 MCP 統合、サブエージェント / handoff パターン、Codex 風ファイルシステムツール。プロダクション級マルチエージェントワークフロー。![GitHub stars](https://img.shields.io/github/stars/openai/openai-agents-python?style=flat-square)
+- [OpenAI Agents SDK](https://github.com/openai/openai-agents-python) - 🆕 [2026-04-15 大型アップデート](https://openai.com/index/the-next-evolution-of-the-agents-sdk/): ネイティブサンドボックス実行、第一級 MCP 統合、サブエージェント / handoff パターン、Codex 風ファイルシステムツール。プロダクション級マルチエージェントワークフロー。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fopenai%2Fopenai-agents-python&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Agentic AI Foundation](https://www.linuxfoundation.org/) - 🆕 Anthropic、Block、OpenAI が共同設立した Linux Foundation のオープンエージェント標準統治基金。
 - [Coinbase Base MCP](https://fortune.com/2026/05/26/coinbase-pushes-further-into-ai-payments-with-new-mcp-for-base-network/) - 🆕 **2026 年 5 月 26 日**。Coinbase が Base ブロックチェーン用 MCP サーバーを公開。Claude / Cursor / ChatGPT エージェントが暗号資産の取引やレンディングをオンチェーンで実行可能。大手取引所が初めて公開した、自律オンチェーン取引向けの MCP エンドポイント。
 - [Robinhood Agentic Trading MCP](https://robinhood.com/us/en/newsroom/robinhood-is-now-open-to-agents/) - 🆕 **2026 年 5 月 27 日**（ベータ）。米国主要証券会社で初めて MCP 経由で株式取引を AI エージェントに開放。Agent（Claude / Codex / Cursor）は全口座への読み取りアクセスのみ、取引実行は隔離された Agentic 口座内に限定。全取引プッシュ通知 + ワンタップ切断スイッチ。
@@ -410,37 +410,37 @@
 
 *自律 AI エージェントを構築するためのフレームワークとライブラリ。*
 
-- [Koog 1.0](https://github.com/JetBrains/koog) - 🆕 **2026-05-28 · KotlinConf 2026**。JetBrains による **Kotlin + Java** 向けオープンソースエージェントフレームワークが安定版 1.0 に到達し、1 年間の API 安定保証付き。Kotlin Multiplatform でのクロスデプロイ（JVM / Android / iOS / JS / WASM）、ラッパー不要の Java 相互運用、Android ローカル LiteRT、全ターゲットでの OpenTelemetry、グラフベースワークフロー、Spring Boot / Ktor 連携、OpenAI / Anthropic / Google / Bedrock プロバイダーをサポート。Apache-2.0。 ![GitHub stars](https://img.shields.io/github/stars/JetBrains/koog?style=flat-square)
-- [LangChain](https://github.com/langchain-ai/langchain) - LLM を使った文脈認識推論アプリの基盤。![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=flat-square)
-- [LangGraph](https://github.com/langchain-ai/langgraph) - エージェントを状態を持つマルチアクターのグラフとしてモデル化。v0.3.19（2026-04-27）: プリビルトエージェントが `langgraph-prebuilt` に分離 —— Supervisor / Swarm / LangMem / Trustcall。エージェントワークフローのプロダクション標準。![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langgraph?style=flat-square)
-- [CrewAI](https://github.com/crewAIInc/crewAI) - ロールプレイ型自律エージェントチームのオーケストレーションフレームワーク。![GitHub stars](https://img.shields.io/github/stars/crewAIInc/crewAI?style=flat-square)
+- [Koog 1.0](https://github.com/JetBrains/koog) - 🆕 **2026-05-28 · KotlinConf 2026**。JetBrains による **Kotlin + Java** 向けオープンソースエージェントフレームワークが安定版 1.0 に到達し、1 年間の API 安定保証付き。Kotlin Multiplatform でのクロスデプロイ（JVM / Android / iOS / JS / WASM）、ラッパー不要の Java 相互運用、Android ローカル LiteRT、全ターゲットでの OpenTelemetry、グラフベースワークフロー、Spring Boot / Ktor 連携、OpenAI / Anthropic / Google / Bedrock プロバイダーをサポート。Apache-2.0。 ![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FJetBrains%2Fkoog&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [LangChain](https://github.com/langchain-ai/langchain) - LLM を使った文脈認識推論アプリの基盤。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Flangchain-ai%2Flangchain&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [LangGraph](https://github.com/langchain-ai/langgraph) - エージェントを状態を持つマルチアクターのグラフとしてモデル化。v0.3.19（2026-04-27）: プリビルトエージェントが `langgraph-prebuilt` に分離 —— Supervisor / Swarm / LangMem / Trustcall。エージェントワークフローのプロダクション標準。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Flangchain-ai%2Flanggraph&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [CrewAI](https://github.com/crewAIInc/crewAI) - ロールプレイ型自律エージェントチームのオーケストレーションフレームワーク。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FcrewAIInc%2FcrewAI&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Microsoft Agent Framework](https://learn.microsoft.com/en-us/agent-framework/) - 🆕 AutoGen + Semantic Kernel を統合した新フレームワーク。マルチエージェント + エンタープライズ機能。2026 Q1 GA。
-- [AutoGen](https://github.com/microsoft/autogen) - Microsoft のマルチエージェント会話フレームワーク（Microsoft Agent Framework に統合）。![GitHub stars](https://img.shields.io/github/stars/microsoft/autogen?style=flat-square)
-- [Google Agent Development Kit (ADK)](https://github.com/google/adk-python) - 🆕 Gemini + Vertex AI と密接に統合したモジュラーフレームワーク。階層エージェント構成。![GitHub stars](https://img.shields.io/github/stars/google/adk-python?style=flat-square)
-- [OpenAI Agents SDK](https://github.com/openai/openai-agents-python) - 🆕 [2026-04-15 進化](https://openai.com/index/the-next-evolution-of-the-agents-sdk/) —— ネイティブサンドボックス、MCP ネイティブ、サブエージェント handoff、Codex 風ファイル操作。プロダクション級マルチエージェント。![GitHub stars](https://img.shields.io/github/stars/openai/openai-agents-python?style=flat-square)
-- [MetaGPT](https://github.com/geekan/MetaGPT) - 🇨🇳 LLM に SOP ソフトウェアチームの役割（PM / アーキテクト / エンジニア）を割り当てる多エージェント。![GitHub stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=flat-square)
-- [Mastra](https://github.com/mastra-ai/mastra) - 🆕 TypeScript 優先のエージェントフレームワーク、ワークフロー駆動 + オブザーバビリティ内蔵。![GitHub stars](https://img.shields.io/github/stars/mastra-ai/mastra?style=flat-square)
-- [AgentGPT](https://github.com/reworkd/AgentGPT) - 📦 **Archived**（2025-04）。ブラウザでエージェントを構成・展開。第一波の代表、歴史的参照のみ。![GitHub stars](https://img.shields.io/github/stars/reworkd/AgentGPT?style=flat-square)
-- [BabyAGI](https://github.com/yoheinakajima/babyagi) - LLM でタスクを作成・優先順位付け・実行する AI タスクマネジメント。![GitHub stars](https://img.shields.io/github/stars/yoheinakajima/babyagi?style=flat-square)
-- [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - 💤 **Stale**（2025-01 以降更新なし）。オープンソース自律エージェントフレームワーク。![GitHub stars](https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=flat-square)
-- [Semantic Kernel](https://github.com/microsoft/semantic-kernel) - LLM 技術をアプリに統合。C# / Python / Java。![GitHub stars](https://img.shields.io/github/stars/microsoft/semantic-kernel?style=flat-square)
-- [Phidata (Agno)](https://github.com/phidatahq/phidata) - メモリ・知識・ツール・推論つきマルチモーダルエージェント。![GitHub stars](https://img.shields.io/github/stars/phidatahq/phidata?style=flat-square)
-- [DSPy](https://github.com/stanfordnlp/dspy) - "プロンプトを書くのではなくプログラミングする" 言語モデルフレームワーク。![GitHub stars](https://img.shields.io/github/stars/stanfordnlp/dspy?style=flat-square)
-- [OpenClaw](https://github.com/openclaw/openclaw) - 🆕 スキル・メモリ・マルチチャネルメッセージング・Dreaming（3 段階メモリ統合）・Canvas/A2UI・ACP コーディング harness 統合・Standing Orders を備えた個人向け AI エージェントプラットフォーム。**v2026.5.12**（2026-05-14）で Opus 4.7・Kimi K2.6・`/think xhigh`に加え、ネイティブモデルアイデンティティ注入、隔離 Telegram polling worker、MEMORY.md 自動コンパクション、Protected Config Paths に対応。![GitHub stars](https://img.shields.io/github/stars/openclaw/openclaw?style=flat-square)
-- [Dify](https://github.com/langgenius/dify) - 🇨🇳 ビジュアルエージェントビルダー付きオープンソース LLM アプリ開発プラットフォーム。![GitHub stars](https://img.shields.io/github/stars/langgenius/dify?style=flat-square)
-- [Haystack Agents](https://github.com/deepset-ai/haystack) - エージェント型パイプラインのエンドツーエンド LLM フレームワーク。![GitHub stars](https://img.shields.io/github/stars/deepset-ai/haystack?style=flat-square)
+- [AutoGen](https://github.com/microsoft/autogen) - Microsoft のマルチエージェント会話フレームワーク（Microsoft Agent Framework に統合）。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fmicrosoft%2Fautogen&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Google Agent Development Kit (ADK)](https://github.com/google/adk-python) - 🆕 Gemini + Vertex AI と密接に統合したモジュラーフレームワーク。階層エージェント構成。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fgoogle%2Fadk-python&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [OpenAI Agents SDK](https://github.com/openai/openai-agents-python) - 🆕 [2026-04-15 進化](https://openai.com/index/the-next-evolution-of-the-agents-sdk/) —— ネイティブサンドボックス、MCP ネイティブ、サブエージェント handoff、Codex 風ファイル操作。プロダクション級マルチエージェント。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fopenai%2Fopenai-agents-python&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [MetaGPT](https://github.com/geekan/MetaGPT) - 🇨🇳 LLM に SOP ソフトウェアチームの役割（PM / アーキテクト / エンジニア）を割り当てる多エージェント。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fgeekan%2FMetaGPT&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Mastra](https://github.com/mastra-ai/mastra) - 🆕 TypeScript 優先のエージェントフレームワーク、ワークフロー駆動 + オブザーバビリティ内蔵。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fmastra-ai%2Fmastra&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [AgentGPT](https://github.com/reworkd/AgentGPT) - 📦 **Archived**（2025-04）。ブラウザでエージェントを構成・展開。第一波の代表、歴史的参照のみ。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Freworkd%2FAgentGPT&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [BabyAGI](https://github.com/yoheinakajima/babyagi) - LLM でタスクを作成・優先順位付け・実行する AI タスクマネジメント。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fyoheinakajima%2Fbabyagi&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - 💤 **Stale**（2025-01 以降更新なし）。オープンソース自律エージェントフレームワーク。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FTransformerOptimus%2FSuperAGI&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Semantic Kernel](https://github.com/microsoft/semantic-kernel) - LLM 技術をアプリに統合。C# / Python / Java。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fmicrosoft%2Fsemantic-kernel&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Phidata (Agno)](https://github.com/phidatahq/phidata) - メモリ・知識・ツール・推論つきマルチモーダルエージェント。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fphidatahq%2Fphidata&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [DSPy](https://github.com/stanfordnlp/dspy) - "プロンプトを書くのではなくプログラミングする" 言語モデルフレームワーク。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fstanfordnlp%2Fdspy&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [OpenClaw](https://github.com/openclaw/openclaw) - 🆕 スキル・メモリ・マルチチャネルメッセージング・Dreaming（3 段階メモリ統合）・Canvas/A2UI・ACP コーディング harness 統合・Standing Orders を備えた個人向け AI エージェントプラットフォーム。**v2026.5.12**（2026-05-14）で Opus 4.7・Kimi K2.6・`/think xhigh`に加え、ネイティブモデルアイデンティティ注入、隔離 Telegram polling worker、MEMORY.md 自動コンパクション、Protected Config Paths に対応。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fopenclaw%2Fopenclaw&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Dify](https://github.com/langgenius/dify) - 🇨🇳 ビジュアルエージェントビルダー付きオープンソース LLM アプリ開発プラットフォーム。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Flanggenius%2Fdify&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Haystack Agents](https://github.com/deepset-ai/haystack) - エージェント型パイプラインのエンドツーエンド LLM フレームワーク。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fdeepset-ai%2Fhaystack&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Vellum AI](https://www.vellum.ai/) - 🆕 プロダクション級プロプライエタリ SaaS：プロンプト構築・評価・バージョニング・オブザーバビリティ。
-- [FastAgency](https://github.com/airtai/fastagency) - 🆕 高速推論 + プロダクションスケーリングフレームワーク。![GitHub stars](https://img.shields.io/github/stars/airtai/fastagency?style=flat-square)
-- [Rasa](https://github.com/RasaHQ/rasa) - 強力な意図認識と対話管理のオープンソース対話 AI。![GitHub stars](https://img.shields.io/github/stars/RasaHQ/rasa?style=flat-square)
+- [FastAgency](https://github.com/airtai/fastagency) - 🆕 高速推論 + プロダクションスケーリングフレームワーク。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fairtai%2Ffastagency&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Rasa](https://github.com/RasaHQ/rasa) - 強力な意図認識と対話管理のオープンソース対話 AI。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FRasaHQ%2Frasa&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Lindy](https://www.lindy.ai/) - 🆕 ビジネスユーザー向けノーコードエージェント、ビジュアルワークフロービルダー。
-- [Octomind](https://github.com/muvon/octomind) - 🆕 Rust ベースのオープンソース AI エージェントランタイム。モデル不問（13+）、コミュニティ製の専門エージェント（開発・医療・法律・DevOps）、ランタイム自己拡張対応 MCP、ゼロコンフィグ。Apache 2.0。![GitHub stars](https://img.shields.io/github/stars/muvon/octomind?style=flat-square)
+- [Octomind](https://github.com/muvon/octomind) - 🆕 Rust ベースのオープンソース AI エージェントランタイム。モデル不問（13+）、コミュニティ製の専門エージェント（開発・医療・法律・DevOps）、ランタイム自己拡張対応 MCP、ゼロコンフィグ。Apache 2.0。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fmuvon%2Foctomind&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Microsoft AI Agent Governance Toolkit](https://www.helpnetsecurity.com/2026/04/03/microsoft-ai-agent-governance-toolkit/) - 🆕 **2026-04-03**。LangChain や AutoGen などフレームワーク横断でランタイムセキュリティポリシーを強制するオープンソースツールキット。
-- [Bernstein](https://github.com/sipyourdrink-ltd/bernstein) - 🆕 40+ の CLI 型コーディングエージェント（Claude Code / Codex / Gemini CLI / Cursor / Aider など）を一つにまとめる Python オーケストレーター。LLM は事前プランニング一回だけ使い、スケジューリング・git worktree 隔離・品質ゲート・HMAC 連鎖監査は決定論的。Apache 2.0。![GitHub stars](https://img.shields.io/github/stars/sipyourdrink-ltd/bernstein?style=flat-square)
+- [Bernstein](https://github.com/sipyourdrink-ltd/bernstein) - 🆕 40+ の CLI 型コーディングエージェント（Claude Code / Codex / Gemini CLI / Cursor / Aider など）を一つにまとめる Python オーケストレーター。LLM は事前プランニング一回だけ使い、スケジューリング・git worktree 隔離・品質ゲート・HMAC 連鎖監査は決定論的。Apache 2.0。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fsipyourdrink-ltd%2Fbernstein&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Genkit Middleware](https://developers.googleblog.com/announcing-genkit-middleware-intercept-extend-and-harden-your-agentic-apps/) - 🆕 **2026-05-14**。Google の OSS エージェントフレームワーク Genkit にミドルウェアを追加。generate / model / tool の 3 階層でコンポーザブルなフックを提供 —— 指数バックオフでのリトライ、モデルフォールバック、ツールタその人手承認ゲート、SKILL.md スキル注入、スコープを限定したファイルアクセス。TS / Go / Dart、Python 予定。
 - [LlamaIndex ↔ Google Agents API 連携](https://www.kucoin.com/news/flash/google-launches-agents-api-llama-index-integrates-llamaparse-for-unstructured-document-processing) - 🆕 **2026-05-20**。LlamaIndex が Google の新 Agents API 向けのテンプレートを公開し、サンドボックスの Linux 環境上で **LlamaParse** / **LiteParse** を提供して非構造化文書を処理。同リリースにはサンドボックスランタイム **Sandboxed-Lit** とエージェント向け初の OCR ベンチマーク **ParseBench** も含まれる。
 - [Microsoft Agent 365](https://techcommunity.microsoft.com/blog/agent-365-blog/what%E2%80%99s-new-in-agent-365-may-2026/4516340) - 🆕 **2026 年 5 月 1 日 GA**。AI エージェント向けの企業級可観測性 + ガバナンス + セキュリティ基盤。2026 年 5 月アップデートで、エージェント向け SASE、脅威検知 / ブロック、エージェント脅威ハンティングのワークフローを追加。
-- [Ontheia](https://github.com/Ontheia/ontheia) - セルフホスト型のオープンソース AI エージェントプラットフォーム。マルチプロバイダ（Claude / OpenAI / Gemini / Ollama）、MCP ネイティブ、ビジュアル workflow 自動化のための Chain Engine、長期メモリ（pgvector）、マルチユーザ RBAC、アーキテクチャレベルでの GDPR 適合。AGPL-3.0。 ![GitHub stars](https://img.shields.io/github/stars/Ontheia/ontheia?style=flat-square)
-- [Coze Studio](https://github.com/coze-dev/coze-studio) - 🆕 🇨🇳 ByteDance のオープンソース AI エージェント開発プラットフォーム——オールインワンのビジュアルビルダーで作成・デバッグ・デプロイを一括管理。Apache-2.0、20K+ stars。Coze.com のオープンソース版。![GitHub stars](https://img.shields.io/github/stars/coze-dev/coze-studio?style=flat-square)
+- [Ontheia](https://github.com/Ontheia/ontheia) - セルフホスト型のオープンソース AI エージェントプラットフォーム。マルチプロバイダ（Claude / OpenAI / Gemini / Ollama）、MCP ネイティブ、ビジュアル workflow 自動化のための Chain Engine、長期メモリ（pgvector）、マルチユーザ RBAC、アーキテクチャレベルでの GDPR 適合。AGPL-3.0。 ![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FOntheia%2Fontheia&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Coze Studio](https://github.com/coze-dev/coze-studio) - 🆕 🇨🇳 ByteDance のオープンソース AI エージェント開発プラットフォーム——オールインワンのビジュアルビルダーで作成・デバッグ・デプロイを一括管理。Apache-2.0、20K+ stars。Coze.com のオープンソース版。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fcoze-dev%2Fcoze-studio&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 
 ---
 
@@ -449,16 +449,16 @@
 *コードを書かずに（または最小限で）エージェントワークフローを設計・デバッグ・出荷するためのビジュアル環境。*
 
 - [LangGraph Studio](https://www.langchain.com/langgraph) - LangGraph エージェントのビジュアルデバッガとトレース検査。状態のステップ実行、ターンの再生、メッセージの途中編集が可能。
-- [Dify](https://github.com/langgenius/dify) - 🇨🇳 ドラッグ&ドロップのエージェントワークフロービルダー付きオープンソース LLM アプリ開発。プロダクション利用が主流。![GitHub stars](https://img.shields.io/github/stars/langgenius/dify?style=flat-square)
-- [Agenta](https://github.com/agenta-ai/agenta) - 🆕 プロンプトプレイグラウンド・プロンプト管理・評価実行・オブザーバビリティを統合したオープンソース LLMOps プラットフォーム。![GitHub stars](https://img.shields.io/github/stars/agenta-ai/agenta?style=flat-square)
+- [Dify](https://github.com/langgenius/dify) - 🇨🇳 ドラッグ&ドロップのエージェントワークフロービルダー付きオープンソース LLM アプリ開発。プロダクション利用が主流。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Flanggenius%2Fdify&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Agenta](https://github.com/agenta-ai/agenta) - 🆕 プロンプトプレイグラウンド・プロンプト管理・評価実行・オブザーバビリティを統合したオープンソース LLMOps プラットフォーム。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fagenta-ai%2Fagenta&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Vellum AI](https://www.vellum.ai/) - クローズドソース SaaS。
-- [Cozeloop](https://github.com/coze-dev/cozeloop) - 🇨🇳 🆕 ByteDance の Coze チームによるオープンソースのエージェント最適化プラットフォーム。Apache 2.0。![GitHub stars](https://img.shields.io/github/stars/coze-dev/cozeloop?style=flat-square)
+- [Cozeloop](https://github.com/coze-dev/cozeloop) - 🇨🇳 🆕 ByteDance の Coze チームによるオープンソースのエージェント最適化プラットフォーム。Apache 2.0。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fcoze-dev%2Fcozeloop&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Restack](https://www.restack.io/) - 永続化エージェントランタイム + ビジュアルワークフローエディタ（Temporal 風 replay）。オープン例: [restackio/examples-python](https://github.com/restackio/examples-python)。
-- [Bisheng](https://github.com/dataelement/bisheng) - 🇨🇳 オープンエンタープライズ LLM DevOps プラットフォーム: ワークフローエディタ・RAG・エージェントオーケストレーション・ファインチューニング・データセット管理・オブザーバビリティ。Apache 2.0。![GitHub stars](https://img.shields.io/github/stars/dataelement/bisheng?style=flat-square)
-- [n8n](https://github.com/n8n-io/n8n) - エージェントキャンバスとして人気の汎用ビジュアルワークフロー自動化 —— 400+ 連携 + ネイティブ AI ノード。Fair-code ライセンス。![GitHub stars](https://img.shields.io/github/stars/n8n-io/n8n?style=flat-square)
-- [Mastra](https://github.com/mastra-ai/mastra) - 🆕 強い思想を持つ TypeScript エージェントフレームワーク。RAG、可観測性、MCP、ビジュアル workflow ビルダーを内蔵。21K+ stars。 ![GitHub stars](https://img.shields.io/github/stars/mastra-ai/mastra?style=flat-square)
-- [VoltAgent](https://github.com/VoltAgent/voltagent) - 🆕 エンドツーエンドの TypeScript AI エージェントエンジニアリングプラットフォーム。メモリ、RAG、guardrail、MCP、音声、workflow を一括提供。 ![GitHub stars](https://img.shields.io/github/stars/VoltAgent/voltagent?style=flat-square)
-- [Coze Studio](https://github.com/coze-dev/coze-studio) - 🆕 🇨🇳 ByteDance Coze チームのオープンソースエージェント IDE / ビジュアルビルダー。ドラッグ&ドロップワークフロー、プラグインマーケットプレイス、デバッグパネル、マルチ LLM プロバイダー対応。Apache-2.0。![GitHub stars](https://img.shields.io/github/stars/coze-dev/coze-studio?style=flat-square)
+- [Bisheng](https://github.com/dataelement/bisheng) - 🇨🇳 オープンエンタープライズ LLM DevOps プラットフォーム: ワークフローエディタ・RAG・エージェントオーケストレーション・ファインチューニング・データセット管理・オブザーバビリティ。Apache 2.0。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fdataelement%2Fbisheng&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [n8n](https://github.com/n8n-io/n8n) - エージェントキャンバスとして人気の汎用ビジュアルワークフロー自動化 —— 400+ 連携 + ネイティブ AI ノード。Fair-code ライセンス。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fn8n-io%2Fn8n&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Mastra](https://github.com/mastra-ai/mastra) - 🆕 強い思想を持つ TypeScript エージェントフレームワーク。RAG、可観測性、MCP、ビジュアル workflow ビルダーを内蔵。21K+ stars。 ![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fmastra-ai%2Fmastra&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [VoltAgent](https://github.com/VoltAgent/voltagent) - 🆕 エンドツーエンドの TypeScript AI エージェントエンジニアリングプラットフォーム。メモリ、RAG、guardrail、MCP、音声、workflow を一括提供。 ![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FVoltAgent%2Fvoltagent&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Coze Studio](https://github.com/coze-dev/coze-studio) - 🆕 🇨🇳 ByteDance Coze チームのオープンソースエージェント IDE / ビジュアルビルダー。ドラッグ&ドロップワークフロー、プラグインマーケットプレイス、デバッグパネル、マルチ LLM プロバイダー対応。Apache-2.0。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fcoze-dev%2Fcoze-studio&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 
 ---
 
@@ -466,21 +466,21 @@
 
 *エージェントに永続メモリと文脈管理を与えるシステム。*
 
-- [Letta (MemGPT)](https://github.com/letta-ai/letta) - 長期メモリとカスタムツールを持つ LLM サービスを作成。![GitHub stars](https://img.shields.io/github/stars/letta-ai/letta?style=flat-square)
-- [Mem0](https://github.com/mem0ai/mem0) - LLM アプリ用の自己改善型メモリ層。![GitHub stars](https://img.shields.io/github/stars/mem0ai/mem0?style=flat-square)
-- [Zep](https://github.com/getzep/zep) - AI アシスタント・エージェント向け長期メモリ。![GitHub stars](https://img.shields.io/github/stars/getzep/zep?style=flat-square)
-- [agent-memory](https://github.com/Zijian-Ni/agent-memory) - セッション横断の文脈永続化を実現する軽量エージェントメモリフレームワーク。![GitHub stars](https://img.shields.io/github/stars/Zijian-Ni/agent-memory?style=flat-square)
-- [LangMem](https://github.com/langchain-ai/langmem) - 🆕 LangGraph 0.3.19（2026 年 4 月）からスピンアウト。エージェント向けの長期エピソード記憶＋手続き記憶プリミティブ。![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langmem?style=flat-square)
-- [Motorhead](https://github.com/getmetal/motorhead) - 💤 **Stale**（2025-07 以降更新なし）。LLM 用メモリ・文脈管理サーバー。![GitHub stars](https://img.shields.io/github/stars/getmetal/motorhead?style=flat-square)
-- [ChromaDB](https://github.com/chroma-core/chroma) - AI ネイティブのオープンソース埋め込みデータベース。![GitHub stars](https://img.shields.io/github/stars/chroma-core/chroma?style=flat-square)
-- [Cognee](https://github.com/topoteretes/cognee) - グラフ + LLM + ベクトル検索による決定論的 LLM 出力。![GitHub stars](https://img.shields.io/github/stars/topoteretes/cognee?style=flat-square)
-- [LangGraph Memory](https://github.com/langchain-ai/langgraph) - 🆕 状態管理エージェントワークフロー用の組み込み永続化とチェックポイント。![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langgraph?style=flat-square)
-- [Graphiti](https://github.com/getzep/graphiti) - 🆕 時間意識を備えたエージェントメモリ用知識グラフ。![GitHub stars](https://img.shields.io/github/stars/getzep/graphiti?style=flat-square)
+- [Letta (MemGPT)](https://github.com/letta-ai/letta) - 長期メモリとカスタムツールを持つ LLM サービスを作成。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fletta-ai%2Fletta&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Mem0](https://github.com/mem0ai/mem0) - LLM アプリ用の自己改善型メモリ層。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fmem0ai%2Fmem0&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Zep](https://github.com/getzep/zep) - AI アシスタント・エージェント向け長期メモリ。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fgetzep%2Fzep&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [agent-memory](https://github.com/Zijian-Ni/agent-memory) - セッション横断の文脈永続化を実現する軽量エージェントメモリフレームワーク。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FZijian-Ni%2Fagent-memory&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [LangMem](https://github.com/langchain-ai/langmem) - 🆕 LangGraph 0.3.19（2026 年 4 月）からスピンアウト。エージェント向けの長期エピソード記憶＋手続き記憶プリミティブ。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Flangchain-ai%2Flangmem&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Motorhead](https://github.com/getmetal/motorhead) - 💤 **Stale**（2025-07 以降更新なし）。LLM 用メモリ・文脈管理サーバー。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fgetmetal%2Fmotorhead&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [ChromaDB](https://github.com/chroma-core/chroma) - AI ネイティブのオープンソース埋め込みデータベース。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fchroma-core%2Fchroma&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Cognee](https://github.com/topoteretes/cognee) - グラフ + LLM + ベクトル検索による決定論的 LLM 出力。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Ftopoteretes%2Fcognee&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [LangGraph Memory](https://github.com/langchain-ai/langgraph) - 🆕 状態管理エージェントワークフロー用の組み込み永続化とチェックポイント。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Flangchain-ai%2Flanggraph&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Graphiti](https://github.com/getzep/graphiti) - 🆕 時間意識を備えたエージェントメモリ用知識グラフ。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fgetzep%2Fgraphiti&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Claude Managed Agents Memory](https://platform.claude.com/docs/en/release-notes/overview) - 🆕 **2026-04-23**（パブリックベータ）。Claude Managed Agents 用 Anthropic 永続メモリ機能。読み書きメモリストアをエージェントのファイルシステムにマウントしてセッション間で情報を保持。
 - [Mem0g (graph variant)](https://mem0.ai/blog/state-of-ai-agent-memory-2026) - 🆕 Mem0 のグラフ強化派生で、マルチホップ質問に強い。2026 年初時点で 21+ のフレームワーク統合あり。
-- [OpenViking](https://github.com/volcengine/OpenViking) - 🆕 🇨🇳 ByteDance Volcengine のオープンソース・エージェント用コンテキストデータベース（OpenClaw などに対応）。メモリ・リソース・スキルをファイルシステムパラダイムで統合管理し、階層的コンテキスト配信と自己進化を実現。AGPL-3.0、25K+ stars。 ![GitHub stars](https://img.shields.io/github/stars/volcengine/OpenViking?style=flat-square)
-- [ReMe](https://github.com/agentscope-ai/ReMe) - 🆕 🇨🇳 Alibaba AgentScope チームのエージェント用メモリ管理キット——ファイルベース＋ベクトルベースのメモリを組み合わせ、コンテキストウィンドウの制約とステートレスセッションの 2 つの課題を解決。Apache-2.0。 ![GitHub stars](https://img.shields.io/github/stars/agentscope-ai/ReMe?style=flat-square)
-- [taOSmd](https://github.com/jaylfc/taosmd) - 🆕 ⚠️ **Unverified.** ローカル優先・追記型トランスクリプトに基づくエージェントメモリ。型付きの時系列ナレッジグラフ（修正後の新事実が旧事実を上書き）と、ベクトル + BM25 のハイブリッド検索を組み合わせる。小型ローカルモデル向けにチューニングされ、完全オフライン（8 GB の SBC で動作）。作者報告で LongMemEval-S の end-to-end Judge 97%。単独メンテナで監査時点 44 stars、ベンチマークは `docs/benchmarks.md` から再現可能。MIT。![GitHub stars](https://img.shields.io/github/stars/jaylfc/taosmd?style=flat-square)
+- [OpenViking](https://github.com/volcengine/OpenViking) - 🆕 🇨🇳 ByteDance Volcengine のオープンソース・エージェント用コンテキストデータベース（OpenClaw などに対応）。メモリ・リソース・スキルをファイルシステムパラダイムで統合管理し、階層的コンテキスト配信と自己進化を実現。AGPL-3.0、25K+ stars。 ![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fvolcengine%2FOpenViking&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [ReMe](https://github.com/agentscope-ai/ReMe) - 🆕 🇨🇳 Alibaba AgentScope チームのエージェント用メモリ管理キット——ファイルベース＋ベクトルベースのメモリを組み合わせ、コンテキストウィンドウの制約とステートレスセッションの 2 つの課題を解決。Apache-2.0。 ![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fagentscope-ai%2FReMe&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [taOSmd](https://github.com/jaylfc/taosmd) - 🆕 ⚠️ **Unverified.** ローカル優先・追記型トランスクリプトに基づくエージェントメモリ。型付きの時系列ナレッジグラフ（修正後の新事実が旧事実を上書き）と、ベクトル + BM25 のハイブリッド検索を組み合わせる。小型ローカルモデル向けにチューニングされ、完全オフライン（8 GB の SBC で動作）。作者報告で LongMemEval-S の end-to-end Judge 97%。単独メンテナで監査時点 44 stars、ベンチマークは `docs/benchmarks.md` から再現可能。MIT。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fjaylfc%2Ftaosmd&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 
 ---
 
@@ -488,26 +488,26 @@
 
 *エージェントを外部サービス・API に接続するプロトコルとツール。*
 
-- [Model Context Protocol (MCP)](https://github.com/modelcontextprotocol/servers) - AI モデルを外部ツール・データソースに接続するオープンプロトコル。![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=flat-square)
-- [mcp-gateway](https://github.com/Zijian-Ni/mcp-gateway) - MCP プロトコル接続のルーティングと管理を行うゲートウェイ。![GitHub stars](https://img.shields.io/github/stars/Zijian-Ni/mcp-gateway?style=flat-square)
-- [Composio](https://github.com/ComposioHQ/composio) - AI エージェント向け統合プラットフォーム —— マネージド認証付き 150+ ツール。![GitHub stars](https://img.shields.io/github/stars/ComposioHQ/composio?style=flat-square)
+- [Model Context Protocol (MCP)](https://github.com/modelcontextprotocol/servers) - AI モデルを外部ツール・データソースに接続するオープンプロトコル。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fmodelcontextprotocol%2Fservers&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [mcp-gateway](https://github.com/Zijian-Ni/mcp-gateway) - MCP プロトコル接続のルーティングと管理を行うゲートウェイ。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FZijian-Ni%2Fmcp-gateway&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Composio](https://github.com/ComposioHQ/composio) - AI エージェント向け統合プラットフォーム —— マネージド認証付き 150+ ツール。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FComposioHQ%2Fcomposio&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Toolhouse](https://toolhouse.ai/) - AI ツール利用のクラウドインフラ —— ツールの保存・管理・実行。
-- [LangChain Tools](https://github.com/langchain-ai/langchain) - LangChain エコシステム内の広範なツール統合。![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=flat-square)
-- [Arcade AI](https://github.com/ArcadeAI/arcade-ai) - AI エージェント・アシスタント用ツール呼び出しプラットフォーム。![GitHub stars](https://img.shields.io/github/stars/ArcadeAI/arcade-ai?style=flat-square)
-- [E2B](https://github.com/e2b-dev/e2b) - AI エージェント用オープンソースクラウドランタイム —— セキュアなサンドボックス環境。![GitHub stars](https://img.shields.io/github/stars/e2b-dev/e2b?style=flat-square)
-- [Browser Use](https://github.com/browser-use/browser-use) - AI エージェント用のブラウザ自動化。![GitHub stars](https://img.shields.io/github/stars/browser-use/browser-use?style=flat-square)
-- [Firecrawl](https://github.com/mendableai/firecrawl) - 🆕 ウェブサイトを LLM-ready なデータに変換。![GitHub stars](https://img.shields.io/github/stars/mendableai/firecrawl?style=flat-square)
-- [Crawl4AI](https://github.com/unclecode/crawl4ai) - 🆕 LLM フレンドリーなオープンソースクローラ。![GitHub stars](https://img.shields.io/github/stars/unclecode/crawl4ai?style=flat-square)
-- [Stagehand](https://github.com/browserbase/stagehand) - 🆕 Browserbase 製の AI 駆動ブラウザ自動化フレームワーク。![GitHub stars](https://img.shields.io/github/stars/browserbase/stagehand?style=flat-square)
+- [LangChain Tools](https://github.com/langchain-ai/langchain) - LangChain エコシステム内の広範なツール統合。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Flangchain-ai%2Flangchain&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Arcade AI](https://github.com/ArcadeAI/arcade-ai) - AI エージェント・アシスタント用ツール呼び出しプラットフォーム。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FArcadeAI%2Farcade-ai&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [E2B](https://github.com/e2b-dev/e2b) - AI エージェント用オープンソースクラウドランタイム —— セキュアなサンドボックス環境。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fe2b-dev%2Fe2b&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Browser Use](https://github.com/browser-use/browser-use) - AI エージェント用のブラウザ自動化。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fbrowser-use%2Fbrowser-use&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Firecrawl](https://github.com/mendableai/firecrawl) - 🆕 ウェブサイトを LLM-ready なデータに変換。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fmendableai%2Ffirecrawl&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Crawl4AI](https://github.com/unclecode/crawl4ai) - 🆕 LLM フレンドリーなオープンソースクローラ。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Funclecode%2Fcrawl4ai&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Stagehand](https://github.com/browserbase/stagehand) - 🆕 Browserbase 製の AI 駆動ブラウザ自動化フレームワーク。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fbrowserbase%2Fstagehand&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [AgentQL](https://www.agentql.com/) - 🆕 AI エージェントが意味的にウェブページと対話するためのクエリ言語。
 - [StackOne](https://www.stackone.com/) - 🆕 HR・CRM・ATS プラットフォーム横断の統一 API。
-- [The Colony](https://thecolony.cc) - ⚠️ **Unverified**。エージェント間のソーシャルネットワークと REST API を謳う。組織と SDK リポジトリは <30 日、すべて 0~2 star、単独メンテナで、同じ申請が 15+ awesome リストに並列投稿された —— 可視性のための掲載のみ、利用前に評価のこと。![GitHub stars](https://img.shields.io/github/stars/TheColonyCC/colony-sdk-python?style=flat-square)
+- [The Colony](https://thecolony.cc) - ⚠️ **Unverified**。エージェント間のソーシャルネットワークと REST API を謳う。組織と SDK リポジトリは <30 日、すべて 0~2 star、単独メンテナで、同じ申請が 15+ awesome リストに並列投稿された —— 可視性のための掲載のみ、利用前に評価のこと。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FTheColonyCC%2Fcolony-sdk-python&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [AWS MCP Server](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-mcp-server/) - 🆕 **2026 年 5 月 6 日 GA**。AWS マネージドの MCP サーバ。コーディングエージェントが任意の AWS API を安全かつ監査可能に呼び出せるようにし、複数ステップ操作はサンドボックス Python で実行。従来の "agent SOP" を agent skills で置き換え。AWS 純正。
 - [Google Workspace MCP Server](https://workspaceupdates.googleblog.com/2026/05/agent-tools-and-security-updates-for-workspace-developers.html) - 🆕 **2026 年 5 月 1 日から順次展開**。Workspace ネイティブの MCP サーバ。Gmail / Drive / Calendar / Docs / Sheets を MCP クライアントに公開し、OAuth スコープは管理者が制御、監査ログ付き。
 - [iManage MCP Server](https://imanage.com/resources/resource-center/news/mcp-server-available-broader-ai-ecosystem/) - 🆕 **2026 年 5 月 14 日**。iManage ナレッジワーク基盤のネイティブ MCP エンドポイント。カスタム連携なしで AI クライアントから iManage ドキュメントを安全に読み書きできる。法務 / プロフェッショナルサービス系 SaaS として初の公式 MCP サーバ。
 - [Power Platform Canvas Authoring MCP Server](https://www.microsoft.com/en-us/power-platform/blog/2026/05/14/whats-new-in-power-platform-may-2026-feature-update/) - 🆕 **2026 年 5 月 14 日**。Microsoft Power Platform が Canvas Apps のオーサリングを MCP サーバとして公開。Copilot / Claude Code が自然言語で InfoPath → Canvas Apps 移行を駆動できる。
-- [Coinbase AgentKit](https://github.com/coinbase/agentkit) - 🆕 「すべての AI エージェントにウォレットを」。Coinbase 公式 SDK でエージェントに EVM ウォレットを付与し、API への支払い、トランザクション署名、Base / Ethereum 上での取引を可能にする。Apache-2.0。![GitHub stars](https://img.shields.io/github/stars/coinbase/agentkit?style=flat-square)
-- [Bifrost (Maxim AI)](https://github.com/maximhq/bifrost) - 🆕 オープンソースのエンタープライズ AI ゲートウェイ（Apache-2.0）—— 1000+ モデル、適応的ロードバランサ、クラスタモード、ガードレール、PKCE 付き OAuth 2.0、ゲートウェイ層でのプロンプトインジェクション防御；5k RPS で <100µs オーバーヘッド。![GitHub stars](https://img.shields.io/github/stars/maximhq/bifrost?style=flat-square)
+- [Coinbase AgentKit](https://github.com/coinbase/agentkit) - 🆕 「すべての AI エージェントにウォレットを」。Coinbase 公式 SDK でエージェントに EVM ウォレットを付与し、API への支払い、トランザクション署名、Base / Ethereum 上での取引を可能にする。Apache-2.0。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fcoinbase%2Fagentkit&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Bifrost (Maxim AI)](https://github.com/maximhq/bifrost) - 🆕 オープンソースのエンタープライズ AI ゲートウェイ（Apache-2.0）—— 1000+ モデル、適応的ロードバランサ、クラスタモード、ガードレール、PKCE 付き OAuth 2.0、ゲートウェイ層でのプロンプトインジェクション防御；5k RPS で <100µs オーバーヘッド。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fmaximhq%2Fbifrost&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Anthropic クリエイティブツールコネクター](https://www.anthropic.com/news/claude-for-creative-work) - 🆕 **2026 年 4 月 28 日**。クリエイティブソフト向けの MCP ベース Claude コネクター 9 種：Adobe（Creative Cloud 50+ ツール、Photoshop / Premiere / Express を含む）、Blender、Autodesk Fusion、Ableton、Splice、Canva Affinity、SketchUp、Resolume。MCP オープン標準上に構築されているため、他の LLM クライアントからも直接利用可能。
 
 ---
@@ -516,13 +516,13 @@
 
 *エージェントが生成したコードや shell コマンドをホストを危険にさらさず実行するセキュアなランタイム。エージェントを自由に動かす段階で必須となる重要インフラ。*
 
-- [E2B](https://github.com/e2b-dev/E2B) - AI 生成コード用のオープンソースセキュアクラウドサンドボックス。OpenAI Agents SDK の実行層に採用。![GitHub stars](https://img.shields.io/github/stars/e2b-dev/E2B?style=flat-square)
-- [Daytona](https://github.com/daytonaio/daytona) - 🆕 AI 生成コードを実行するセキュアで弾力的なインフラ。エージェントタスク毎に隔離された開発環境を起動。AGPL-3.0。![GitHub stars](https://img.shields.io/github/stars/daytonaio/daytona?style=flat-square)
-- [Modal](https://modal.com/) - エージェント計算・GPU ジョブ・サンドボックス Python に人気のサーバーレスクラウド。`modal-client` が公式 SDK。![GitHub stars](https://img.shields.io/github/stars/modal-labs/modal-client?style=flat-square)
-- [Microsandbox](https://github.com/superradcompany/microsandbox) - 🆕 AI エージェント向けローカル・プログラマブル microVM サンドボックス —— クラウド非依存でローカル機にセキュアなコード実行。![GitHub stars](https://img.shields.io/github/stars/superradcompany/microsandbox?style=flat-square)
-- [SandboxFusion](https://github.com/bytedance/SandboxFusion) - 🇨🇳 ByteDance のエージェント・モデル評価パイプライン用多言語コード実行サンドボックス。Apache-2.0。![GitHub stars](https://img.shields.io/github/stars/bytedance/SandboxFusion?style=flat-square)
+- [E2B](https://github.com/e2b-dev/E2B) - AI 生成コード用のオープンソースセキュアクラウドサンドボックス。OpenAI Agents SDK の実行層に採用。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fe2b-dev%2FE2B&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Daytona](https://github.com/daytonaio/daytona) - 🆕 AI 生成コードを実行するセキュアで弾力的なインフラ。エージェントタスク毎に隔離された開発環境を起動。AGPL-3.0。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fdaytonaio%2Fdaytona&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Modal](https://modal.com/) - エージェント計算・GPU ジョブ・サンドボックス Python に人気のサーバーレスクラウド。`modal-client` が公式 SDK。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fmodal-labs%2Fmodal-client&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Microsandbox](https://github.com/superradcompany/microsandbox) - 🆕 AI エージェント向けローカル・プログラマブル microVM サンドボックス —— クラウド非依存でローカル機にセキュアなコード実行。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fsuperradcompany%2Fmicrosandbox&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [SandboxFusion](https://github.com/bytedance/SandboxFusion) - 🇨🇳 ByteDance のエージェント・モデル評価パイプライン用多言語コード実行サンドボックス。Apache-2.0。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fbytedance%2FSandboxFusion&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Northflank](https://northflank.com/) - エージェントランタイムバックエンドとして使われる汎用コンテナ PaaS（タスク毎エフェメラル環境 + GPU プール）。
-- [Firecracker](https://github.com/firecracker-microvm/firecracker) - E2B、Daytona、ほとんどのエージェントサンドボックスの基盤となる microVM カーネル。自前のサンドボックスを組むときの基本要素。![GitHub stars](https://img.shields.io/github/stars/firecracker-microvm/firecracker?style=flat-square)
+- [Firecracker](https://github.com/firecracker-microvm/firecracker) - E2B、Daytona、ほとんどのエージェントサンドボックスの基盤となる microVM カーネル。自前のサンドボックスを組むときの基本要素。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Ffirecracker-microvm%2Ffirecracker&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [LangSmith Sandboxes](https://www.langchain.com/blog/interrupt-2026-overview) - 🆕 **2026 年 5 月（Interrupt 2026）**。エージェント向けのホスト型セキュアコード実行環境——ファイルシステム、shell、パッケージマネージャ、永続状態、ネットワーク境界を提供。LangChain の Interrupt 2026 リリースで LangSmith Engine、Managed Deep Agents と同時に発表。
 
 ---
@@ -531,24 +531,24 @@
 
 *プロンプトインジェクション・データ漏洩・悪用から AI エージェントを守るツールとフレームワーク。*
 
-- [prompt-firewall](https://github.com/Zijian-Ni/prompt-firewall) - LLM プロンプト用ファイアウォール —— インジェクション攻撃を検出・遮断。![GitHub stars](https://img.shields.io/github/stars/Zijian-Ni/prompt-firewall?style=flat-square)
-- [LLM Guard](https://github.com/protectai/llm-guard) - LLM 対話用のセキュリティツールキット —— 入出力スキャナ。![GitHub stars](https://img.shields.io/github/stars/protectai/llm-guard?style=flat-square)
-- [Rebuff](https://github.com/protectai/rebuff) - 📦 **Archived**（2024-08）。自己強化型プロンプトインジェクション検出器。歴史的参照のみ。![GitHub stars](https://img.shields.io/github/stars/protectai/rebuff?style=flat-square)
-- [Guardrails AI](https://github.com/guardrails-ai/guardrails) - LLM 出力の検証・修正にガードレールを追加。![GitHub stars](https://img.shields.io/github/stars/guardrails-ai/guardrails?style=flat-square)
-- [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) - LLM ベース対話システムにプログラマブルガードレールを追加するツールキット。![GitHub stars](https://img.shields.io/github/stars/NVIDIA/NeMo-Guardrails?style=flat-square)
-- [Vigil](https://github.com/deadbits/vigil-llm) - 💤 **Stale**（2024-01 以降更新なし）。LLM セキュリティスキャナ。![GitHub stars](https://img.shields.io/github/stars/deadbits/vigil-llm?style=flat-square)
+- [prompt-firewall](https://github.com/Zijian-Ni/prompt-firewall) - LLM プロンプト用ファイアウォール —— インジェクション攻撃を検出・遮断。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FZijian-Ni%2Fprompt-firewall&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [LLM Guard](https://github.com/protectai/llm-guard) - LLM 対話用のセキュリティツールキット —— 入出力スキャナ。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fprotectai%2Fllm-guard&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Rebuff](https://github.com/protectai/rebuff) - 📦 **Archived**（2024-08）。自己強化型プロンプトインジェクション検出器。歴史的参照のみ。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fprotectai%2Frebuff&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Guardrails AI](https://github.com/guardrails-ai/guardrails) - LLM 出力の検証・修正にガードレールを追加。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fguardrails-ai%2Fguardrails&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) - LLM ベース対話システムにプログラマブルガードレールを追加するツールキット。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FNVIDIA%2FNeMo-Guardrails&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Vigil](https://github.com/deadbits/vigil-llm) - 💤 **Stale**（2024-01 以降更新なし）。LLM セキュリティスキャナ。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fdeadbits%2Fvigil-llm&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Lakera Guard](https://www.lakera.ai/) - エンタープライズ級 AI セキュリティプラットフォーム。
-- [Garak](https://github.com/NVIDIA/garak) - NVIDIA の LLM 脆弱性スキャナ。![GitHub stars](https://img.shields.io/github/stars/NVIDIA/garak?style=flat-square)
-- [Invariant Guardrails](https://github.com/invariantlabs-ai/invariant) - 🆕 AI エージェント用ランタイムガードレール —— ポリシー強制と安全チェック。![GitHub stars](https://img.shields.io/github/stars/invariantlabs-ai/invariant?style=flat-square)
+- [Garak](https://github.com/NVIDIA/garak) - NVIDIA の LLM 脆弱性スキャナ。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FNVIDIA%2Fgarak&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Invariant Guardrails](https://github.com/invariantlabs-ai/invariant) - 🆕 AI エージェント用ランタイムガードレール —— ポリシー強制と安全チェック。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Finvariantlabs-ai%2Finvariant&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Prompt Armor](https://promptarmor.com/) - 🆕 リアルタイム検出のエンタープライズプロンプトインジェクション保護。
 - [Descope MCP Auth](https://www.descope.com/) - 🆕 MCP サーバーセキュリティ用の認証・認可レイヤ。
-- [AgentDojo](https://github.com/ethz-spylab/agentdojo) - 🆕 ETH チューリッヒの研究ベンチマーク。ツール使用 LLM エージェントへのプロンプトインジェクション攻撃と防御を評価。![GitHub stars](https://img.shields.io/github/stars/ethz-spylab/agentdojo?style=flat-square)
-- [ModelScan](https://github.com/protectai/modelscan) - ML モデル重みファイル（Pickle、PyTorch、TF）のシリアライズ攻撃をスキャン。![GitHub stars](https://img.shields.io/github/stars/protectai/modelscan?style=flat-square)
-- [PyRIT](https://github.com/Azure/PyRIT) - Microsoft の生成 AI 用自動レッドチームフレームワーク。![GitHub stars](https://img.shields.io/github/stars/Azure/PyRIT?style=flat-square)
-- [RAMPART](https://github.com/microsoft/RAMPART) - 🆕 **2026 年 5 月 20 日**。Microsoft が公開した、agentic AI 向けの pytest ネイティブな安全性 / セキュリティテストフレームワーク。PyRIT と相補的な開発者向けホワイトボックス——クロスプロンプトインジェクションのプローブ、良性失敗アサーション、ハームカテゴリ網羅、統計しきい値（例：80%+ の試行で安全）。CI/CD に直接組み込める。MIT。 ![GitHub stars](https://img.shields.io/github/stars/microsoft/RAMPART?style=flat-square)
+- [AgentDojo](https://github.com/ethz-spylab/agentdojo) - 🆕 ETH チューリッヒの研究ベンチマーク。ツール使用 LLM エージェントへのプロンプトインジェクション攻撃と防御を評価。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fethz-spylab%2Fagentdojo&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [ModelScan](https://github.com/protectai/modelscan) - ML モデル重みファイル（Pickle、PyTorch、TF）のシリアライズ攻撃をスキャン。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fprotectai%2Fmodelscan&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [PyRIT](https://github.com/Azure/PyRIT) - Microsoft の生成 AI 用自動レッドチームフレームワーク。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FAzure%2FPyRIT&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [RAMPART](https://github.com/microsoft/RAMPART) - 🆕 **2026 年 5 月 20 日**。Microsoft が公開した、agentic AI 向けの pytest ネイティブな安全性 / セキュリティテストフレームワーク。PyRIT と相補的な開発者向けホワイトボックス——クロスプロンプトインジェクションのプローブ、良性失敗アサーション、ハームカテゴリ網羅、統計しきい値（例：80%+ の試行で安全）。CI/CD に直接組み込める。MIT。 ![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fmicrosoft%2FRAMPART&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Clarity (Microsoft)](https://www.microsoft.com/en-us/security/blog/2026/05/20/introducing-rampart-and-clarity-open-source-tools-to-bring-safety-into-agent-development-workflow/) - 🆕 **2026 年 5 月 20 日**。RAMPART の姉妹ツール。AI エージェントの構造化デザインレビューを支援し、コード着手前に意図・リスク・挙動の "living artifact" を生成。Microsoft AI Red Team の社内プラクティスをオープンソース化。
-- [MCP Gateway & Registry](https://github.com/agentic-community/mcp-gateway-registry) - 🆕 エンタープライズ対応の MCP ゲートウェイ＆レジストリ。OAuth 認証、動的ツール発見、監査トレイル、Keycloak / Entra との統合で AI 開発ツールを集中管理。Apache-2.0。![GitHub stars](https://img.shields.io/github/stars/agentic-community/mcp-gateway-registry?style=flat-square)
-- [Nobulex](https://github.com/arian-gogani/nobulex) - ⚠️ **未検証。** AI エージェント挙動の暗号学的レシート（Ed25519 二重署名、ハッシュチェーン監査ログ）。MIT。双方向レシートのプリミティブが Microsoft Agent Governance Toolkit に [マージ済み](https://github.com/microsoft/agent-governance-toolkit/pull/1333)（PR #1302、#1333）。同一の投稿が 15+ の awesome list に同時送付され、投稿者の "npm 月 4,500 ダウンロード" の主張は registry 実数（`@nobulex/mcp-server` ≒ 月 19）と乖離。Microsoft 採用実績を踏まえて可視性のために掲載するが、依存する前に各自で評価のこと。 ![GitHub stars](https://img.shields.io/github/stars/arian-gogani/nobulex?style=flat-square)
+- [MCP Gateway & Registry](https://github.com/agentic-community/mcp-gateway-registry) - 🆕 エンタープライズ対応の MCP ゲートウェイ＆レジストリ。OAuth 認証、動的ツール発見、監査トレイル、Keycloak / Entra との統合で AI 開発ツールを集中管理。Apache-2.0。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fagentic-community%2Fmcp-gateway-registry&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Nobulex](https://github.com/arian-gogani/nobulex) - ⚠️ **未検証。** AI エージェント挙動の暗号学的レシート（Ed25519 二重署名、ハッシュチェーン監査ログ）。MIT。双方向レシートのプリミティブが Microsoft Agent Governance Toolkit に [マージ済み](https://github.com/microsoft/agent-governance-toolkit/pull/1333)（PR #1302、#1333）。同一の投稿が 15+ の awesome list に同時送付され、投稿者の "npm 月 4,500 ダウンロード" の主張は registry 実数（`@nobulex/mcp-server` ≒ 月 19）と乖離。Microsoft 採用実績を踏まえて可視性のために掲載するが、依存する前に各自で評価のこと。 ![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Farian-gogani%2Fnobulex&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 
 ---
 
@@ -556,24 +556,24 @@
 
 *エージェント用の検索拡張生成と知識管理システム。*
 
-- [LlamaIndex](https://github.com/run-llama/llama_index) - LLM アプリ用データフレームワーク —— プライベートデータの取り込み・構造化・アクセス。![GitHub stars](https://img.shields.io/github/stars/run-llama/llama_index?style=flat-square)
-- [LangChain Retrievers](https://github.com/langchain-ai/langchain) - LangChain 内のリトリーバとドキュメントローダー集合。![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=flat-square)
-- [Haystack](https://github.com/deepset-ai/haystack) - エンドツーエンド RAG。![GitHub stars](https://img.shields.io/github/stars/deepset-ai/haystack?style=flat-square)
-- [Unstructured](https://github.com/Unstructured-IO/unstructured) - ドキュメント前処理と抽出。![GitHub stars](https://img.shields.io/github/stars/Unstructured-IO/unstructured?style=flat-square)
-- [Weaviate](https://github.com/weaviate/weaviate) - オープンソースベクトルデータベース。![GitHub stars](https://img.shields.io/github/stars/weaviate/weaviate?style=flat-square)
-- [Qdrant](https://github.com/qdrant/qdrant) - Rust 製の高性能ベクトル検索。![GitHub stars](https://img.shields.io/github/stars/qdrant/qdrant?style=flat-square)
-- [Milvus](https://github.com/milvus-io/milvus) - 大規模ベクトルデータベース。![GitHub stars](https://img.shields.io/github/stars/milvus-io/milvus?style=flat-square)
+- [LlamaIndex](https://github.com/run-llama/llama_index) - LLM アプリ用データフレームワーク —— プライベートデータの取り込み・構造化・アクセス。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Frun-llama%2Fllama_index&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [LangChain Retrievers](https://github.com/langchain-ai/langchain) - LangChain 内のリトリーバとドキュメントローダー集合。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Flangchain-ai%2Flangchain&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Haystack](https://github.com/deepset-ai/haystack) - エンドツーエンド RAG。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fdeepset-ai%2Fhaystack&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Unstructured](https://github.com/Unstructured-IO/unstructured) - ドキュメント前処理と抽出。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FUnstructured-IO%2Funstructured&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Weaviate](https://github.com/weaviate/weaviate) - オープンソースベクトルデータベース。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fweaviate%2Fweaviate&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Qdrant](https://github.com/qdrant/qdrant) - Rust 製の高性能ベクトル検索。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fqdrant%2Fqdrant&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Milvus](https://github.com/milvus-io/milvus) - 大規模ベクトルデータベース。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fmilvus-io%2Fmilvus&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Pinecone](https://www.pinecone.io/) - マネージドベクトルデータベース SaaS。
-- [Chroma](https://github.com/chroma-core/chroma) - AI ネイティブオープンソースベクトルデータベース。![GitHub stars](https://img.shields.io/github/stars/chroma-core/chroma?style=flat-square)
-- [Vanna](https://github.com/vanna-ai/vanna) - 📦 **Archived**（2026-02）。RAG-for-SQL: 自然言語でデータベースと対話。![GitHub stars](https://img.shields.io/github/stars/vanna-ai/vanna?style=flat-square)
-- [LightRAG](https://github.com/HKUDS/LightRAG) - 🇨🇳 香港大学 HKUDS のグラフ型 RAG。![GitHub stars](https://img.shields.io/github/stars/HKUDS/LightRAG?style=flat-square)
-- [Docling](https://github.com/DS4SD/docling) - IBM のドキュメント変換ツール（PDF / DOCX / HTML 等）。![GitHub stars](https://img.shields.io/github/stars/DS4SD/docling?style=flat-square)
-- [Kotaemon](https://github.com/Cinnamon/kotaemon) - オープンソース RAG UI。![GitHub stars](https://img.shields.io/github/stars/Cinnamon/kotaemon?style=flat-square)
-- [R2R](https://github.com/SciPhi-AI/R2R) - エンタープライズグレードのエンドツーエンド RAG サービス。![GitHub stars](https://img.shields.io/github/stars/SciPhi-AI/R2R?style=flat-square)
-- [RAGFlow](https://github.com/infiniflow/ragflow) - 🇨🇳 深いドキュメント理解 RAG。![GitHub stars](https://img.shields.io/github/stars/infiniflow/ragflow?style=flat-square)
-- [Morphik](https://github.com/morphik-org/morphik-core) - 🆕 表や図を含む文書向けのマルチモーダル RAG エンジン。複雑な PDF 処理の LlamaIndex 代替として 2026 年に急浮上。 ![GitHub stars](https://img.shields.io/github/stars/morphik-org/morphik-core?style=flat-square)
-- [Cognee](https://github.com/topoteretes/cognee) - 🆕 エージェントが文書を取り込む過程でナレッジグラフを構築するメモリ + 推論エンジン。2026 年の "長期リサーチエージェント" 系スタックの定番。 ![GitHub stars](https://img.shields.io/github/stars/topoteretes/cognee?style=flat-square)
-- [RAG-Anything](https://github.com/HKUDS/RAG-Anything) - 🆕 香港大学データサイエンス研究室のオールインワン・マルチモーダル RAG フレームワーク。LightRAG を基盤に構築。テキストとマルチモーダルの並列パイプライン；テキスト・図・表・数式が混在する文書も検索可能。MIT、21K+ stars。![GitHub stars](https://img.shields.io/github/stars/HKUDS/RAG-Anything?style=flat-square)
+- [Chroma](https://github.com/chroma-core/chroma) - AI ネイティブオープンソースベクトルデータベース。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fchroma-core%2Fchroma&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Vanna](https://github.com/vanna-ai/vanna) - 📦 **Archived**（2026-02）。RAG-for-SQL: 自然言語でデータベースと対話。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fvanna-ai%2Fvanna&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [LightRAG](https://github.com/HKUDS/LightRAG) - 🇨🇳 香港大学 HKUDS のグラフ型 RAG。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FHKUDS%2FLightRAG&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Docling](https://github.com/DS4SD/docling) - IBM のドキュメント変換ツール（PDF / DOCX / HTML 等）。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FDS4SD%2Fdocling&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Kotaemon](https://github.com/Cinnamon/kotaemon) - オープンソース RAG UI。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FCinnamon%2Fkotaemon&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [R2R](https://github.com/SciPhi-AI/R2R) - エンタープライズグレードのエンドツーエンド RAG サービス。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FSciPhi-AI%2FR2R&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [RAGFlow](https://github.com/infiniflow/ragflow) - 🇨🇳 深いドキュメント理解 RAG。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Finfiniflow%2Fragflow&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Morphik](https://github.com/morphik-org/morphik-core) - 🆕 表や図を含む文書向けのマルチモーダル RAG エンジン。複雑な PDF 処理の LlamaIndex 代替として 2026 年に急浮上。 ![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fmorphik-org%2Fmorphik-core&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Cognee](https://github.com/topoteretes/cognee) - 🆕 エージェントが文書を取り込む過程でナレッジグラフを構築するメモリ + 推論エンジン。2026 年の "長期リサーチエージェント" 系スタックの定番。 ![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Ftopoteretes%2Fcognee&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [RAG-Anything](https://github.com/HKUDS/RAG-Anything) - 🆕 香港大学データサイエンス研究室のオールインワン・マルチモーダル RAG フレームワーク。LightRAG を基盤に構築。テキストとマルチモーダルの並列パイプライン；テキスト・図・表・数式が混在する文書も検索可能。MIT、21K+ stars。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FHKUDS%2FRAG-Anything&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 
 ---
 
@@ -582,9 +582,9 @@
 ### ターミナル / CLI エージェント
 
 - [Claude Code](https://docs.anthropic.com/en/docs/claude-code) - 端末で動く Anthropic のエージェント型コーディングツール。Opus 4.7 + `/think xhigh`。SWE-bench 80.9%。
-- [Codex CLI](https://github.com/openai/codex) - OpenAI 製のオープンソースターミナルコーディングエージェント。![GitHub stars](https://img.shields.io/github/stars/openai/codex?style=flat-square)
-- [Aider](https://github.com/Aider-AI/aider) - Git アウェアなターミナル AI ペアプログラミングパートナー。![GitHub stars](https://img.shields.io/github/stars/Aider-AI/aider?style=flat-square)
-- [Goose](https://github.com/block/goose) - Block 製のオープンソースエージェントコーディング CLI。![GitHub stars](https://img.shields.io/github/stars/block/goose?style=flat-square)
+- [Codex CLI](https://github.com/openai/codex) - OpenAI 製のオープンソースターミナルコーディングエージェント。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fopenai%2Fcodex&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Aider](https://github.com/Aider-AI/aider) - Git アウェアなターミナル AI ペアプログラミングパートナー。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FAider-AI%2Faider&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Goose](https://github.com/block/goose) - Block 製のオープンソースエージェントコーディング CLI。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fblock%2Fgoose&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 
 ### IDE エージェント
 
@@ -592,8 +592,8 @@
 - [Kilo Code](https://www.kilocode.com/) - 🇨🇳 🆕 2026-04 中国コミュニティで人気の Cursor 代替。デフォルトモデル: MiniMax。
 - [Cursor](https://www.cursor.com/) - 2026-02 アップデートで 8 並列エージェント対応。
 - [Windsurf](https://codeium.com/windsurf) - Codeium 製のエージェント型 IDE。
-- [Cline](https://github.com/cline/cline) - VS Code で動く自律コーディングエージェント。![GitHub stars](https://img.shields.io/github/stars/cline/cline?style=flat-square)
-- [Continue](https://github.com/continuedev/continue) - VS Code・JetBrains 対応のオープンソース AI コードアシスタント。![GitHub stars](https://img.shields.io/github/stars/continuedev/continue?style=flat-square)
+- [Cline](https://github.com/cline/cline) - VS Code で動く自律コーディングエージェント。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fcline%2Fcline&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Continue](https://github.com/continuedev/continue) - VS Code・JetBrains 対応のオープンソース AI コードアシスタント。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fcontinuedev%2Fcontinue&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [GitHub Copilot](https://github.com/features/copilot) - 2026 年初頭よりエージェントモードと `gh copilot` シェル統合。
 - [Kiro](https://kiro.dev/) - AWS の自律エージェント。スペック驅動開発、最大3だ 10 タスクを同時管理。
 - [Amazon Q Developer](https://aws.amazon.com/q/developer/) - AWS エコシステムと深く統合された AI コーディングコンパニオン。
@@ -603,21 +603,21 @@
 
 - [Cursor 3.4 Cloud Agent Environments](https://cursor.com/changelog) - 🆕 **2026-05-13**。クラウドエージェント / 自動化向けの新しい開発環境。マルチリポ、build secrets 付き Dockerfile 設定、キャッシュレイヤー 70% 高速化、環境ごとのバージョン履歴とロールバック、監査ログ、スコープを限定した egress / secrets。
 - [Devin 3.0](https://www.cognition.ai/) - 🆕 Cognition 製。動的再プランニング、自己修復コード、レガシーコードベース移行、マルチモーダル入力（UI モックアップ、ビデオ録画）。
-- [OpenHands](https://github.com/All-Hands-AI/OpenHands) - 自律エージェントとして AI ソフトウェア開発者を使うオープンソースプラットフォーム。![GitHub stars](https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=flat-square)
-- [SWE-agent](https://github.com/SWE-agent/SWE-agent) - LLM を GitHub Issue を修正するソフトウェアエージェントに変える。![GitHub stars](https://img.shields.io/github/stars/SWE-agent/SWE-agent?style=flat-square)
-- [Devika](https://github.com/stitionai/devika) - 💤 **Stale**（2025-09 以降更新なし）。エージェント型 AI ソフトウェアエンジニア、Devin のオープンソース代替。![GitHub stars](https://img.shields.io/github/stars/stitionai/devika?style=flat-square)
-- [GPT Engineer](https://github.com/gpt-engineer-org/gpt-engineer) - 📦 **Archived**（2025-05）。何を作るか指定すると AI が質問して作成。自律コーディング時代初期の基礎、歴史的参照として維持。![GitHub stars](https://img.shields.io/github/stars/gpt-engineer-org/gpt-engineer?style=flat-square)
-- [Codegen](https://github.com/codegen-sh/codegen-sdk) - 🆕 プログラム的なコード操作とマルチファイルリファクタリング SDK。![GitHub stars](https://img.shields.io/github/stars/codegen-sh/codegen-sdk?style=flat-square)
+- [OpenHands](https://github.com/All-Hands-AI/OpenHands) - 自律エージェントとして AI ソフトウェア開発者を使うオープンソースプラットフォーム。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FAll-Hands-AI%2FOpenHands&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [SWE-agent](https://github.com/SWE-agent/SWE-agent) - LLM を GitHub Issue を修正するソフトウェアエージェントに変える。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FSWE-agent%2FSWE-agent&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Devika](https://github.com/stitionai/devika) - 💤 **Stale**（2025-09 以降更新なし）。エージェント型 AI ソフトウェアエンジニア、Devin のオープンソース代替。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fstitionai%2Fdevika&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [GPT Engineer](https://github.com/gpt-engineer-org/gpt-engineer) - 📦 **Archived**（2025-05）。何を作るか指定すると AI が質問して作成。自律コーディング時代初期の基礎、歴史的参照として維持。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fgpt-engineer-org%2Fgpt-engineer&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Codegen](https://github.com/codegen-sh/codegen-sdk) - 🆕 プログラム的なコード操作とマルチファイルリファクタリング SDK。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fcodegen-sh%2Fcodegen-sdk&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Qodo](https://www.qodo.ai/) - 🆕 品質・セキュリティ・テスト生成に特化した AI コードレビュープラットフォーム。
 - [Codex Security](https://developers.openai.com/codex/changelog) - 🆕 **2026 年 3 月**。ソフトウェア脆弱性を発見・修正するアプリケーションセキュリティエージェント。OSS メンテナは Codex-for-OSS プログラム経由で利用可能。
-- [Gemini CLI](https://github.com/google-gemini/gemini-cli) - 🆕 Google のターミナル特化コーディングエージェント。大規模コンテキストのリファクタが得意。 ![GitHub stars](https://img.shields.io/github/stars/google-gemini/gemini-cli?style=flat-square)
-- [OpenCode](https://github.com/opencode-ai/opencode) - 🆕 ターミナル向けのオープンソース AI コーディングエージェント。ネイティブ TUI 搭載。OpenAI、Claude、Gemini、Ollama（ローカル）をサポートし、LSP によるコード解析にも対応。Go 言語で構築されたマルチセッション・モデル非依存アーキテクチャ。MIT。 ![GitHub stars](https://img.shields.io/github/stars/opencode-ai/opencode?style=flat-square)
+- [Gemini CLI](https://github.com/google-gemini/gemini-cli) - 🆕 Google のターミナル特化コーディングエージェント。大規模コンテキストのリファクタが得意。 ![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fgoogle-gemini%2Fgemini-cli&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [OpenCode](https://github.com/opencode-ai/opencode) - 🆕 ターミナル向けのオープンソース AI コーディングエージェント。ネイティブ TUI 搭載。OpenAI、Claude、Gemini、Ollama（ローカル）をサポートし、LSP によるコード解析にも対応。Go 言語で構築されたマルチセッション・モデル非依存アーキテクチャ。MIT。 ![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fopencode-ai%2Fopencode&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Grok Build](https://x.ai/news/grok-build-cli) - 🆕 **2026 年 5 月 14 日（early beta）**。xAI が出した **grok-code-fast-1** ベースの agentic CLI コーディングエージェント。サブエージェントが隔離環境で並列実行、毎日リリースノートを公開、SuperGrok Heavy 契約者のみ利用可（最初 6 か月は月 99 ドル、以降 300 ドル）。xAI による Claude Code / Codex CLI への正面回答。
 - [Antigravity CLI](https://antigravity.google/blog/introducing-google-antigravity-2-0) - 🆕 **2026 年 5 月 19 日（Google I/O 2026）**。Antigravity 2.0 の軽量 CLI コンパニオン。ターミナルから直接 Google のエージェント harness を起動・操作できる。macOS / Linux / Windows。**Free / Pro / Ultra ユーザーには 2026 年 6 月 18 日から Gemini CLI の後継として展開**。
-- [Kimi Code CLI](https://github.com/MoonshotAI/kimi-code) - 🆕 🇨🇳 **2026 年 6 月 6 日**。Moonshot AI の TypeScript / MIT 製ターミナルコーディングエージェント。隔離コンテキストで動く coder / explore / plan サブエージェントを内蔵し、`/mcp-config` で対話式に MCP を設定。npm インストール対応。次世代 Kimi K2.6 エージェント向け設計。 ![GitHub stars](https://img.shields.io/github/stars/MoonshotAI/kimi-code?style=flat-square)
+- [Kimi Code CLI](https://github.com/MoonshotAI/kimi-code) - 🆕 🇨🇳 **2026 年 6 月 6 日**。Moonshot AI の TypeScript / MIT 製ターミナルコーディングエージェント。隔離コンテキストで動く coder / explore / plan サブエージェントを内蔵し、`/mcp-config` で対話式に MCP を設定。npm インストール対応。次世代 Kimi K2.6 エージェント向け設計。 ![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FMoonshotAI%2Fkimi-code&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [MAI-Code-1-Flash in GitHub Copilot](https://microsoft.ai/news/introducingmai-code-1-flash/) - 🆕 **Build 2026（2026 年 6 月 2 日）**。Microsoft 初の完全自社開発 5B コーディングモデルが GitHub Copilot のモデル選択肢として登場 —— 4 つの主要コーディングベンチで Claude Haiku 4.5 を上回り（SWE-Bench Pro 51.2% vs 35.2%）、コストも大幅に低減。
 - [Roo Code](https://roocode.com/) - 🆕 オープンソースの VS Code 拡張。複数ファイルを跨いで読み書きし、コマンド実行が可能、model-agnostic。自前の LLM API 以外は無料。
-- [Void](https://github.com/voideditor/void) - 🆕 VS Code のオープンソース fork。"オープンソース版 Cursor" として位置付け、データはローカルに残り、モデルは持ち込み。 ![GitHub stars](https://img.shields.io/github/stars/voideditor/void?style=flat-square)
+- [Void](https://github.com/voideditor/void) - 🆕 VS Code のオープンソース fork。"オープンソース版 Cursor" として位置付け、データはローカルに残り、モデルは持ち込み。 ![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fvoideditor%2Fvoid&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [JetBrains Rider AI Test-Writing Skill](https://blog.jetbrains.com/dotnet/2026/05/22/claude-codex-ai-agent-skill-for-writing-tests/) - 🆕 **2026 年 5 月 22 日**。JetBrains Rider に追加された AI Assistant skill。.NET のコードカバレッジ情報を Claude Code / Codex に渡し、未カバー分岐に絞ってテスト生成させることで AI コストを削減。
 - [Devin 2.2](https://cognition.ai/blog/introducing-devin-2-2) - 🆕 **2026 年 2 月**。サンドボックス化された terminal + editor + browser を備える商用プロダクト（Core 月 20 ドル、Team 月 500 ドル）。
 - [Google Antigravity 2.0](https://antigravity.google/blog/introducing-google-antigravity-2-0) - 🆕 **2026 年 5 月 19 日（Google I/O 2026）**。複数エージェントを並列編成できるスタンドアロン・デスクトップアプリ（macOS / Linux / Windows）。cron 形式のスケジュール実行、長時間の非同期タスク、動的サブエージェント、AI Studio / Android / Firebase との統合を追加。コンパニオンの **Antigravity SDK** は harness の自前ホストを可能にし、エンタープライズ版は Gemini Enterprise Agent Platform 内に組み込まれる。
@@ -676,14 +676,14 @@
 
 *エージェントを訓練し、観察し、ストレステストするシミュレーション環境。世界モデル・身体性研究が言語エージェントと交わる中、重要性が高まり続けている。*
 
-- [Generative Agents](https://github.com/joonspk-research/generative_agents) - 💤 スタンフォードの名著 *Smallville*（Park et al., 2023）。25 体の LLM 駆動キャラクターをメモリ + 反省 + 計画で連携させるコストチューム。後続の多くのマルチエージェント論文に影響。![GitHub stars](https://img.shields.io/github/stars/joonspk-research/generative_agents?style=flat-square)
-- [Voyager](https://github.com/MineDojo/Voyager) - 💤 Minecraft の生涯学習エージェント—— GPT-4 にスキルライブラリとカリキュラム（Wang et al., 2023）。オープンエンド型エージェント評価の古典。![GitHub stars](https://img.shields.io/github/stars/MineDojo/Voyager?style=flat-square)
-- [SWE-Gym](https://github.com/SWE-Gym/SWE-Gym) - 実際の GitHub Issue で SWE エージェントを訓練するオープン環境、SWE-bench とセット。![GitHub stars](https://img.shields.io/github/stars/SWE-Gym/SWE-Gym?style=flat-square)
+- [Generative Agents](https://github.com/joonspk-research/generative_agents) - 💤 スタンフォードの名著 *Smallville*（Park et al., 2023）。25 体の LLM 駆動キャラクターをメモリ + 反省 + 計画で連携させるコストチューム。後続の多くのマルチエージェント論文に影響。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fjoonspk-research%2Fgenerative_agents&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Voyager](https://github.com/MineDojo/Voyager) - 💤 Minecraft の生涯学習エージェント—— GPT-4 にスキルライブラリとカリキュラム（Wang et al., 2023）。オープンエンド型エージェント評価の古典。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FMineDojo%2FVoyager&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [SWE-Gym](https://github.com/SWE-Gym/SWE-Gym) - 実際の GitHub Issue で SWE エージェントを訓練するオープン環境、SWE-bench とセット。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FSWE-Gym%2FSWE-Gym&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [WebArena](https://webarena.dev/) - 現実的で再現可能なウェブ環境（Reddit、ショッピング、GitLab クローン）。OSWorld や多くのブラウザエージェント論文で使用される。
-- [WorkArena](https://github.com/ServiceNow/WorkArena) - ServiceNow 製のブラウザエージェント用エンタープライズ職場ベンチマーク。![GitHub stars](https://img.shields.io/github/stars/ServiceNow/WorkArena?style=flat-square)
+- [WorkArena](https://github.com/ServiceNow/WorkArena) - ServiceNow 製のブラウザエージェント用エンタープライズ職場ベンチマーク。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FServiceNow%2FWorkArena&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Genie 3 / Genie 4](https://deepmind.google/) - Google DeepMind の対話型ビデオ世界モデル—— プロンプトからプレイ可能な 3D 世界を生成。クローズドコード研究。
-- [NVIDIA Cosmos](https://github.com/nvidia-cosmos/cosmos-predict1) - 身体性 AI / ロボティクス用の NVIDIA 世界モデル基盤—— 物理的にもっともらしいビデオ未来を生成。![GitHub stars](https://img.shields.io/github/stars/nvidia-cosmos/cosmos-predict1?style=flat-square)
-- [Snowflake Agent World Model (AWM)](https://github.com/Snowflake-Labs/agent-world-model) - 🆕 **2026 年 2 月 10 日オープンソース化、5 月 1 日に ICML 2026 採択**。1,000 個の実行可能 SQL バックエンドツール使用環境（35K+ ツール、10K タスク）を統一 MCP インターフェースで提供する合成環境生成パイプライン——大規模マルチターン agentic RL を実現。インフラは `meta-pytorch/OpenEnv` にマージ済み。 ![GitHub stars](https://img.shields.io/github/stars/Snowflake-Labs/agent-world-model?style=flat-square)
+- [NVIDIA Cosmos](https://github.com/nvidia-cosmos/cosmos-predict1) - 身体性 AI / ロボティクス用の NVIDIA 世界モデル基盤—— 物理的にもっともらしいビデオ未来を生成。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fnvidia-cosmos%2Fcosmos-predict1&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Snowflake Agent World Model (AWM)](https://github.com/Snowflake-Labs/agent-world-model) - 🆕 **2026 年 2 月 10 日オープンソース化、5 月 1 日に ICML 2026 採択**。1,000 個の実行可能 SQL バックエンドツール使用環境（35K+ ツール、10K タスク）を統一 MCP インターフェースで提供する合成環境生成パイプライン——大規模マルチターン agentic RL を実現。インフラは `meta-pytorch/OpenEnv` にマージ済み。 ![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FSnowflake-Labs%2Fagent-world-model&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 
 ---
 
@@ -697,7 +697,7 @@
 - [ARC-AGI 2](https://arcprize.org/) - 抽象推論。Gemini 3.1 Pro 77.1%。
 - [OSWorld](https://os-world.github.io/) - デスクトップ GUI 操作。GPT-5.4 75%（人間ベースライン超え）。
 - [LMArena (旧 Chatbot Arena)](https://lmarena.ai/) - クラウドソース型の会話選好バトル。Opus 4.6 が現在トップ。
-- [MMLU-Pro](https://github.com/TIGER-AI-Lab/MMLU-Pro) - MMLU の難化后継者。![GitHub stars](https://img.shields.io/github/stars/TIGER-AI-Lab/MMLU-Pro?style=flat-square)
+- [MMLU-Pro](https://github.com/TIGER-AI-Lab/MMLU-Pro) - MMLU の難化后継者。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FTIGER-AI-Lab%2FMMLU-Pro&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [LiveCodeBench](https://livecodebench.github.io/) - コンテスト形式のコーディングベンチマーク、汚染耐性のため継続的に更新。
 - [AIME 2025 / Humanity's Last Exam (HLE)](https://agi.safe.ai/) - エリート数学 / 博士レベルの一般推論。
 - [Terminal-Bench](https://www.tbench.ai/) - CLI エージェント評価。Codex CLI 77.3%。
@@ -705,7 +705,7 @@
 - [GDPval / GDPval-MM](https://artificialanalysis.ai/evaluations/gdpval-aa) - 🆕 **2026 年 2 月**。OpenAI が公開した経済価値ベンチマーク。44 職種 / 9 業界、1,320 の専門家作問タスクを収録。2026 年 5 月時点の首位は GPT-5.5 の GDPval-MM 84.9%。
 - [Hieroglyphic Benchmark](https://juliangoldie.com/google-gemini-3-5/) - 🆕 横断的 / 抽象推論のベンチマーク。Gemini 3.5 "Snowbunny" が 80%（リーク）。
 - [LLM-Stats Live Leaderboard](https://llm-stats.com/llm-updates) - 🆕 新しくリリースされたモデルを横断ベンチで継続更新するライブダッシュボード。
-- [τ²-Bench (Tau-Bench)](https://github.com/sierra-research/tau2-bench) - 🆕 Sierra Research のツール-エージェント-ユーザー対話ベンチマーク（リテール / 航空ドメイン）。マルチターンのツール使用・DB 操作・ポリシー遵守を計測。2026 年 4 月の首位は 38 評価モデル中 Claude Mythos Preview の 89.2%。MIT。 ![GitHub stars](https://img.shields.io/github/stars/sierra-research/tau2-bench?style=flat-square)
+- [τ²-Bench (Tau-Bench)](https://github.com/sierra-research/tau2-bench) - 🆕 Sierra Research のツール-エージェント-ユーザー対話ベンチマーク（リテール / 航空ドメイン）。マルチターンのツール使用・DB 操作・ポリシー遵守を計測。2026 年 4 月の首位は 38 評価モデル中 Claude Mythos Preview の 89.2%。MIT。 ![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fsierra-research%2Ftau2-bench&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Gartner 2026 マジッククアドラント: エンタープライズ AI コーディングエージェント](https://cursor.com/blog/cursor-leads-gartner-mq-2026) - 🆕 **2026 年**。エンタープライズ向け AI コーディングエージェントに関する初の MQ。**Cursor** と **OpenAI Codex** がリーダー、Cline と Windsurf がチャレンジャーとして選出され、コーディングエージェント市場がエンタープライズの成熟期に入ったことを示す。
 
 ---
@@ -718,7 +718,7 @@
 - [OpenAI Operator](https://openai.com/) - 🆕 予約、フォーム入力、ウェブタスク自動化用のブラウザエージェント。
 - [Google Project Mariner](https://deepmind.google/models/project-mariner/) - 📦 **終了**（2026-05-04）。ブラウザエージェント研究プロジェクト。機能は Gemini Agent に統合された。
 - [Microsoft Copilot Agents](https://www.microsoft.com/en-us/microsoft-copilot/) - 🆕 Microsoft 365 スタック上の自律バックグラウンドエージェント。
-- [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter) - コンピュータへの自然言語インターフェース—— LLM にローカルでコードを実行させる。![GitHub stars](https://img.shields.io/github/stars/OpenInterpreter/open-interpreter?style=flat-square)
+- [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter) - コンピュータへの自然言語インターフェース—— LLM にローカルでコードを実行させる。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FOpenInterpreter%2Fopen-interpreter&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Manus AI](https://manus.im/) - 🇨🇳 🆕 クラウド・ローカルハイブリッドモデルの自律汎用 AI エージェント。調査・コーディング・複雑なマルチステップタスクを処理。
 - [Genspark](https://www.genspark.ai/) - 🆕 mixture-of-agents アーキテクチャのオールインワン自律ワークエージェント。電話も掛けられる。
 - [Perplexity Computer](https://www.perplexity.ai/) - 🆕 マルチモデルオーケストレーションとローカルファイルアクセスを備えた調査向けデスクトップエージェント。
@@ -733,13 +733,13 @@
 
 *実ブラウザを介して Web と対話するエージェント—— ナビゲーション、クリック、スクレイピング、マルチページワークフローをこなすフレームワークとインフラ。*
 
-- [Browser Use](https://github.com/browser-use/browser-use) - 2026 年にオープンソースブラウザエージェントの事実上の標準。92K star。![GitHub stars](https://img.shields.io/github/stars/browser-use/browser-use?style=flat-square)
-- [Stagehand](https://github.com/browserbase/stagehand) - Browserbase 製の「ブラウザエージェント用 SDK」—— 型付きの `act` / `extract` / `observe` プリミティブを Playwright の上に提供。MIT。![GitHub stars](https://img.shields.io/github/stars/browserbase/stagehand?style=flat-square)
-- [Steel Browser](https://github.com/steel-dev/steel-browser) - 🆕 AI エージェント用オープンソースブラウザ API —— セッション永続化とプロキシローテーションを備えたサンドボックス Chromium。Apache-2.0。![GitHub stars](https://img.shields.io/github/stars/steel-dev/steel-browser?style=flat-square)
-- [Skyvern](https://github.com/Skyvern-AI/skyvern) - LLM とコンピュータ・ビジョンでブラウザベースワークフローを自動化。AGPL-3.0。![GitHub stars](https://img.shields.io/github/stars/Skyvern-AI/skyvern?style=flat-square)
-- [AgentQL](https://github.com/tinyfish-io/agentql) - クエリ言語 + Playwright 統合でセマンティックな Web 抽出。動的 / 乱雑なページでもロバスト。![GitHub stars](https://img.shields.io/github/stars/tinyfish-io/agentql?style=flat-square)
-- [Hyperbrowser MCP](https://github.com/hyperbrowserai/mcp) - 🆕 ホステッドのヘッドレスブラウザフリートを MCP サーバーとして公開。標準ツールインターフェースで Claude / GPT / LangChain にプラグイン。![GitHub stars](https://img.shields.io/github/stars/hyperbrowserai/mcp?style=flat-square)
-- [Playwright MCP](https://github.com/microsoft/playwright-mcp) - 🆕 マイクロソフト公式の Playwright サーバーを MCP ツールとして公開。プロダクショングレードの自動化。![GitHub stars](https://img.shields.io/github/stars/microsoft/playwright-mcp?style=flat-square)
+- [Browser Use](https://github.com/browser-use/browser-use) - 2026 年にオープンソースブラウザエージェントの事実上の標準。92K star。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fbrowser-use%2Fbrowser-use&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Stagehand](https://github.com/browserbase/stagehand) - Browserbase 製の「ブラウザエージェント用 SDK」—— 型付きの `act` / `extract` / `observe` プリミティブを Playwright の上に提供。MIT。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fbrowserbase%2Fstagehand&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Steel Browser](https://github.com/steel-dev/steel-browser) - 🆕 AI エージェント用オープンソースブラウザ API —— セッション永続化とプロキシローテーションを備えたサンドボックス Chromium。Apache-2.0。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fsteel-dev%2Fsteel-browser&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Skyvern](https://github.com/Skyvern-AI/skyvern) - LLM とコンピュータ・ビジョンでブラウザベースワークフローを自動化。AGPL-3.0。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FSkyvern-AI%2Fskyvern&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [AgentQL](https://github.com/tinyfish-io/agentql) - クエリ言語 + Playwright 統合でセマンティックな Web 抽出。動的 / 乱雑なページでもロバスト。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Ftinyfish-io%2Fagentql&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Hyperbrowser MCP](https://github.com/hyperbrowserai/mcp) - 🆕 ホステッドのヘッドレスブラウザフリートを MCP サーバーとして公開。標準ツールインターフェースで Claude / GPT / LangChain にプラグイン。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fhyperbrowserai%2Fmcp&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Playwright MCP](https://github.com/microsoft/playwright-mcp) - 🆕 マイクロソフト公式の Playwright サーバーを MCP ツールとして公開。プロダクショングレードの自動化。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fmicrosoft%2Fplaywright-mcp&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [MultiOn](https://www.multion.ai/) - ステップ推論 + メモリを内蔵したホステッド型ブラウザエージェントプラットフォーム。クローズドコード。
 - [Browserbase](https://www.browserbase.com/) - AI エージェント専用のヘッドレスブラウザインフラ —— ステルス、セッション永続化、captcha 処理、オブザーバビリティ。
 - [BrowserOS](https://www.browseros.com/) - 🆕 AI エージェントを内蔵した初のオープンソースブラウザ —— プライバシー優先の Chrome 代替。コードなしで自然言語によるタスク自動化が可能。ローカル優先設計で、Perplexity Comet や Arc の AI 機能と対抗。
@@ -752,42 +752,42 @@
 
 - [AgentLine](https://agentline.cloud/) - 🆕 ⚠️ **Unverified.** AI エージェント向けテレフォニー基盤 —— 電話番号の発行、発信／着信、リアルタイム文字起こしを JSON で webhook に流す。エージェント音声パイプライン用途に絞った Twilio の軽量代替を標榜。提出者は有料ユーザー 30+ と主張するが、第三者の採用事実は未確認。
 - [ElevenLabs](https://elevenlabs.io/) - 業界トップの AI 音声合成、クローン、会話 AI。
-- [Vapi](https://github.com/VapiAI/server-sdk-python) - 音声 AI エージェントを構築・テスト・展開するプラットフォーム。![GitHub stars](https://img.shields.io/github/stars/VapiAI/server-sdk-python?style=flat-square)
+- [Vapi](https://github.com/VapiAI/server-sdk-python) - 音声 AI エージェントを構築・テスト・展開するプラットフォーム。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FVapiAI%2Fserver-sdk-python&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Retell AI](https://www.retellai.com/) - プロダクション対応の会話型音声 AI エージェント。
 - [Bland AI](https://www.bland.ai/) - 企業向け AI 電話プラットフォーム。
-- [LiveKit Agents](https://github.com/livekit/agents) - 音声・ビデオ・データを含むリアルタイムマルチモーダル AI エージェント。![GitHub stars](https://img.shields.io/github/stars/livekit/agents?style=flat-square)
-- [Pipecat](https://github.com/pipecat-ai/pipecat) - 音声・マルチモーダル会話 AI のオープンソースフレームワーク。![GitHub stars](https://img.shields.io/github/stars/pipecat-ai/pipecat?style=flat-square)
-- [Vocode](https://github.com/vocodedev/vocode-python) - 💤 **Stale**（2024-11 以降更新なし）。音声ベース LLM エージェントライブラリ。![GitHub stars](https://img.shields.io/github/stars/vocodedev/vocode-python?style=flat-square)
-- [Bolna](https://github.com/bolna-ai/bolna) - エンドツーエンドのオープンソース音声 AI。![GitHub stars](https://img.shields.io/github/stars/bolna-ai/bolna?style=flat-square)
+- [LiveKit Agents](https://github.com/livekit/agents) - 音声・ビデオ・データを含むリアルタイムマルチモーダル AI エージェント。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Flivekit%2Fagents&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Pipecat](https://github.com/pipecat-ai/pipecat) - 音声・マルチモーダル会話 AI のオープンソースフレームワーク。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fpipecat-ai%2Fpipecat&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Vocode](https://github.com/vocodedev/vocode-python) - 💤 **Stale**（2024-11 以降更新なし）。音声ベース LLM エージェントライブラリ。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fvocodedev%2Fvocode-python&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Bolna](https://github.com/bolna-ai/bolna) - エンドツーエンドのオープンソース音声 AI。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fbolna-ai%2Fbolna&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Cartesia](https://www.cartesia.ai/) - 🆕 超低遅延のリアルタイム会話型音声 AI。
 - [Meta Voice AI](https://ai.meta.com/) - 🆕 旧 PlayHT/Play.ai チームの技術を Meta AI ・ AI キャラクター、ウェアラブルに統合。Play.ai は 2025-12-31 にサービス終了。
 - [Sesame](https://www.sesame.com/) - 🆕 感情理解と自然会話を備えた音声 AI コンパニオン。
-- [OpenYabby](https://github.com/OpenYabby/OpenYabby) - 🆕 macOS 向けオープンソースの音声驅動型マルチエージェントオーケストレーター — Realtime API + CLI ランナー + マルチチャネル連携。リードエージェントが計画を立て、レビューと QA をサブエージェントに委任します。MIT。![GitHub stars](https://img.shields.io/github/stars/OpenYabby/OpenYabby?style=flat-square)
+- [OpenYabby](https://github.com/OpenYabby/OpenYabby) - 🆕 macOS 向けオープンソースの音声驅動型マルチエージェントオーケストレーター — Realtime API + CLI ランナー + マルチチャネル連携。リードエージェントが計画を立て、レビューと QA をサブエージェントに委任します。MIT。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FOpenYabby%2FOpenYabby&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [ElevenAgents](https://elevenlabs.io/voice-agents) - 🆕 ElevenLabs のフルスタック音声エージェント基盤（2026 年 4〜5 月更新）。MCP 対応、マルチモーダルメッセージ、会話トピック発見、ナレッジベース検索、ツール呼び出し前の音声制御を提供。音声エージェント基盤として初めて AIUC-1 認証を取得。
 - [Cartesia Line](https://cartesia.ai/blog/introducing-line-for-voice-agents) - 🆕 **2026 年 4 月**。Sonic 3 TTS + Ink STT 上に構築されたコードファースト音声エージェント基盤。first audio まで約 40〜90ms。
 - [Deepgram Voice Agent API](https://deepgram.com/learn/best-voice-ai-agents-2026-buyers-guide) - 🆕 STT（Nova-3）+ LLM ルーティング + TTS（Aura-2）+ 通話中 10 言語切り替え対応の Flux 会話型 STT を 1 エンドポイントで束ねた。
 - [OpenAI Realtime API (GPT-Realtime-2)](https://openai.com/) - 🆕 **2026 年 5 月 8 日**。並列ツール呼び出しに対応した GPT-5 クラス推論の音声版。本番音声エージェント用途で従来の Realtime モデルを置き換える。
-- [Dograh](https://github.com/dograh-hq/dograh) - 🆕 オープンソース・セルフホスト型の音声 AI プラットフォーム —— Vapi / Retell のオープン代替。オンプレ運用、Speech-to-Speech または LLM/STT/TTS のいずれも BYOK。ビジュアルワークフロービルダー、MCP ネイティブ、テレフォニー対応。BSD-2-Clause、4K+ stars。![GitHub stars](https://img.shields.io/github/stars/dograh-hq/dograh?style=flat-square)
-- [Hume TADA](https://github.com/HumeAI/tada) - 🆕 **2026 年 3 月 10 日**。Hume AI 初のオープンソース TTS —— Text-Acoustic Dual Alignment アーキテクチャ。転記エラーゼロ、約 5× 高速、スマホで動作。次世代 EVI 音声エージェントの基盤。MIT、Llama ベース。![GitHub stars](https://img.shields.io/github/stars/HumeAI/tada?style=flat-square)
+- [Dograh](https://github.com/dograh-hq/dograh) - 🆕 オープンソース・セルフホスト型の音声 AI プラットフォーム —— Vapi / Retell のオープン代替。オンプレ運用、Speech-to-Speech または LLM/STT/TTS のいずれも BYOK。ビジュアルワークフロービルダー、MCP ネイティブ、テレフォニー対応。BSD-2-Clause、4K+ stars。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fdograh-hq%2Fdograh&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Hume TADA](https://github.com/HumeAI/tada) - 🆕 **2026 年 3 月 10 日**。Hume AI 初のオープンソース TTS —— Text-Acoustic Dual Alignment アーキテクチャ。転記エラーゼロ、約 5× 高速、スマホで動作。次世代 EVI 音声エージェントの基盤。MIT、Llama ベース。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FHumeAI%2Ftada&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 
 ---
 
 ## 📱 パーソナル AI エージェント
 
-- [OpenClaw](https://github.com/openclaw/openclaw) - 🆕 スキル・メモリ・マルチチャネルメッセージング、Dreaming、Canvas/A2UI、ACP コーディング harness を備えた個人向け AI エージェントプラットフォーム。![GitHub stars](https://img.shields.io/github/stars/openclaw/openclaw?style=flat-square)
+- [OpenClaw](https://github.com/openclaw/openclaw) - 🆕 スキル・メモリ・マルチチャネルメッセージング、Dreaming、Canvas/A2UI、ACP コーディング harness を備えた個人向け AI エージェントプラットフォーム。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fopenclaw%2Fopenclaw&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Rabbit R1](https://www.rabbit.tech/) - ラージアクションモデルを搭載した個人 AI デバイス。
 - [Limitless](https://www.limitless.ai/) - 見・言い・聞いたものをパーソナライズした AI（旧 Rewind）。
-- [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter) - コンピュータへの自然言語インターフェース。![GitHub stars](https://img.shields.io/github/stars/OpenInterpreter/open-interpreter?style=flat-square)
-- [01 Light](https://github.com/OpenInterpreter/01) - 💤 **Stale**（2024-11 以降更新なし）。オープンソースの音声コンピュータインターフェース。![GitHub stars](https://img.shields.io/github/stars/OpenInterpreter/01?style=flat-square)
-- [Leon](https://github.com/leon-ai/leon) - 自サーバ上に住むオープンソース個人アシスタント。![GitHub stars](https://img.shields.io/github/stars/leon-ai/leon?style=flat-square)
-- [Khoj](https://github.com/khoj-ai/khoj) - ノートやドキュメント、画像を機械的にスキャンして会話できる「第二の脳」。![GitHub stars](https://img.shields.io/github/stars/khoj-ai/khoj?style=flat-square)
+- [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter) - コンピュータへの自然言語インターフェース。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FOpenInterpreter%2Fopen-interpreter&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [01 Light](https://github.com/OpenInterpreter/01) - 💤 **Stale**（2024-11 以降更新なし）。オープンソースの音声コンピュータインターフェース。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FOpenInterpreter%2F01&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Leon](https://github.com/leon-ai/leon) - 自サーバ上に住むオープンソース個人アシスタント。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fleon-ai%2Fleon&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Khoj](https://github.com/khoj-ai/khoj) - ノートやドキュメント、画像を機械的にスキャンして会話できる「第二の脳」。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fkhoj-ai%2Fkhoj&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Humane AI Pin](https://humane.com/) - ⚠️ **2025年2月28日にサービス終了**（HPに買収され、デバイスは廃止）。元々はスクリーンレス・アンビエントコンピューティングのウェアラブル AI デバイス。
 - [Arahi AI](https://arahi.ai/) - 🆕 個人生産性 + ビジネス自動化アシスタント。
 - [Lindy AI](https://www.lindy.ai/) - 🆕 メール・カレンダー・ワークフロー自動化のノーコード AI エージェント。
 - [MuleRun](https://www.mulerun.ai/) - 🆕 繰り返しタスクとバックグラウンド自動化の常駐エージェント。
 - [Gemini Intelligence](https://blog.google/products-and-platforms/products/chrome/bringing-chrome-ai-to-android/) - 🆕 **2026 年 5 月 12 日（Android Show: I/O Edition）**。Googlebooks ノート PC、Wear OS、Android Auto、Android XR を横断するプロアクティブな agentic AI 機能群。最新の Samsung Galaxy と Pixel から段階展開。買い物リストからカートを自動作成、スピンクラスの予約、Rambler STT による "フィラー語" 除去などを実現。
 - [Gemini Spark](https://9to5google.com/2026/05/14/gemini-spark-insight/) - 🆕 **2026 年 5 月 14 日（I/O 前のリーク / インサイト）**。Gemini アプリ内で多段プロセスを自律実行するブランド化されたエージェント機能。Gemini 3.1 Pro の推論スタックの上に乗る。
-- [QwenPaw](https://github.com/agentscope-ai/QwenPaw) - 🆕 🇨🇳 **2026 年 5 月、CoPaw から改称**。Qwen / AgentScope エコシステム下のセルフホスト型パーソナルアシスタント。ローカル優先のメモリ、ホットロード可能な skills、マルチエージェント協調、マルチチャネル（DingTalk / Feishu / WeChat / Discord / Telegram）、ツールガード + skill スキャナを内蔵。Apache-2.0。 ![GitHub stars](https://img.shields.io/github/stars/agentscope-ai/QwenPaw?style=flat-square)
+- [QwenPaw](https://github.com/agentscope-ai/QwenPaw) - 🆕 🇨🇳 **2026 年 5 月、CoPaw から改称**。Qwen / AgentScope エコシステム下のセルフホスト型パーソナルアシスタント。ローカル優先のメモリ、ホットロード可能な skills、マルチエージェント協調、マルチチャネル（DingTalk / Feishu / WeChat / Discord / Telegram）、ツールガード + skill スキャナを内蔵。Apache-2.0。 ![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fagentscope-ai%2FQwenPaw&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Microsoft Scout](https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/02/introducing-microsoft-scout-your-always-on-personal-agent/) - 🆕 **Build 2026（2026 年 6 月 2 日）**。OpenClaw フレームワーク上に構築された Microsoft の常時稼働パーソナルエージェント —— クラウド / デスクトップ / Web を横断してプロアクティブに動作し、Teams / Outlook / OneDrive / SharePoint に接続。各エージェントは独自の Entra ID で動作し、ポリシー適合性チェック + 監査トレイルを継続実施。Microsoft Frontier プログラムでプライベートプレビュー、Intune ポリシー + GitHub Copilot ライセンスが必要。
 - [Lenovo Qira / Motorola Qira](https://news.lenovo.com/pressroom/press-releases/lenovo-unveils-lenovo-and-motorola-qira/) - 🆕 **CES 2026（2026 年 1 月 6 日）**。Lenovo と Motorola が共同開発した「パーソナル・アンビエント・インテリジェンス・システム」—— PC / スマホ / タブレット / ウェアラブルを横断するコンテキスト認識 AI。2026 年 Q1 から一部 Lenovo デバイスで展開、その後 Motorola スマホへ。主要 OEM 初のアンビエント AI プレイ。
 
@@ -797,14 +797,14 @@
 
 *Android / iOS を操作する GUI エージェント。デスクトップ Computer Use の次のフロンティア。*
 
-- [Mobile-Agent](https://github.com/X-PLUG/MobileAgent) - 🇨🇳 アリババ製の代表的なマルチモーダル電話操作エージェントファミリー（v1 → v3、Mobile-Agent-E、V も）。Android ベンチマークで SOTA。![GitHub stars](https://img.shields.io/github/stars/X-PLUG/MobileAgent?style=flat-square)
-- [AppAgent](https://github.com/mnotgod96/AppAgent) - 💤 タップやスワイプでスマートフォンアプリを操作するテンセント製マルチモーダルエージェント。初期の影響ある実装。![GitHub stars](https://img.shields.io/github/stars/mnotgod96/AppAgent?style=flat-square)
+- [Mobile-Agent](https://github.com/X-PLUG/MobileAgent) - 🇨🇳 アリババ製の代表的なマルチモーダル電話操作エージェントファミリー（v1 → v3、Mobile-Agent-E、V も）。Android ベンチマークで SOTA。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FX-PLUG%2FMobileAgent&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [AppAgent](https://github.com/mnotgod96/AppAgent) - 💤 タップやスワイプでスマートフォンアプリを操作するテンセント製マルチモーダルエージェント。初期の影響ある実装。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fmnotgod96%2FAppAgent&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Apple Intelligence](https://www.apple.com/apple-intelligence/) - iOS / iPadOS / macOS のオンデバイスエージェント層。App Intents と画面インテリジェントを OS 全体で提供。
 - [Samsung Galaxy AI / Bixby 2.0](https://www.samsung.com/global/galaxy/galaxy-ai/) - Galaxy S26 に携載された Gauss 駆動のオンデバイスエージェント機能。
 - [Google Gemini for Android](https://gemini.google/) - Android で Google Assistant を置き換える全面 Gemini 駆動のアプリ認識アクション。システム意図と Workspace を含む。
 - [Magma](https://microsoft.github.io/Magma/) - Microsoft Research のマルチモーダルエージェント基盤モデル。UI / ロボティクス / 物理動作を統一。
-- [mobile-use](https://github.com/minitap-ai/mobile-use) - 🆕 AI エージェントが Android / iOS の実アプリを人間と同じように操作できるオープンソースフレームワーク（Apache-2.0、2.5K+ stars）—— UI 認識ナビゲーション、自然言語制御。 ![GitHub stars](https://img.shields.io/github/stars/minitap-ai/mobile-use?style=flat-square)
-- [agent-device (Callstack)](https://github.com/callstack/agent-device) - 🆕 **2026 年 2 月**。iOS / Android 実機・シミュレータを自動化する軽量・トークン効率の良い CLI。AI エージェントと CI 向けに設計されたコマンドモデル。MIT、2.6K+ stars。 ![GitHub stars](https://img.shields.io/github/stars/callstack/agent-device?style=flat-square)
+- [mobile-use](https://github.com/minitap-ai/mobile-use) - 🆕 AI エージェントが Android / iOS の実アプリを人間と同じように操作できるオープンソースフレームワーク（Apache-2.0、2.5K+ stars）—— UI 認識ナビゲーション、自然言語制御。 ![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fminitap-ai%2Fmobile-use&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [agent-device (Callstack)](https://github.com/callstack/agent-device) - 🆕 **2026 年 2 月**。iOS / Android 実機・シミュレータを自動化する軽量・トークン効率の良い CLI。AI エージェントと CI 向けに設計されたコマンドモデル。MIT、2.6K+ stars。 ![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fcallstack%2Fagent-device&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 
 ---
 
@@ -837,43 +837,43 @@
 ## 📊 エージェント評価とオブザーバビリティ
 
 - [LangSmith](https://www.langchain.com/langsmith) - LangChain 公式のデバッグ / 評価 / モニタリングプラットフォーム。
-- [LangSmith SDK](https://github.com/langchain-ai/langsmith-sdk) - クライアント SDK。![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langsmith-sdk?style=flat-square)
-- [Langfuse](https://github.com/langfuse/langfuse) - オープンソース LLM エンジニアリングプラットフォーム: オブザーバビリティ + 評価 + プロンプト管理。![GitHub stars](https://img.shields.io/github/stars/langfuse/langfuse?style=flat-square)
-- [Helicone](https://github.com/Helicone/helicone) - オープンソース LLM オブザーバビリティ。![GitHub stars](https://img.shields.io/github/stars/Helicone/helicone?style=flat-square)
-- [Arize Phoenix](https://github.com/Arize-ai/phoenix) - オープンソース LLM オブザーバビリティ + 評価。![GitHub stars](https://img.shields.io/github/stars/Arize-ai/phoenix?style=flat-square)
+- [LangSmith SDK](https://github.com/langchain-ai/langsmith-sdk) - クライアント SDK。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Flangchain-ai%2Flangsmith-sdk&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Langfuse](https://github.com/langfuse/langfuse) - オープンソース LLM エンジニアリングプラットフォーム: オブザーバビリティ + 評価 + プロンプト管理。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Flangfuse%2Flangfuse&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Helicone](https://github.com/Helicone/helicone) - オープンソース LLM オブザーバビリティ。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FHelicone%2Fhelicone&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Arize Phoenix](https://github.com/Arize-ai/phoenix) - オープンソース LLM オブザーバビリティ + 評価。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FArize-ai%2Fphoenix&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Braintrust](https://www.braintrust.dev/) - LLM 評価 + 最適化プラットフォーム。
 - [LMArena (旧 LMSYS Chatbot Arena)](https://lmarena.ai/) - 🆕 クラウドソース型 LLM ベンチマーク。
 - [Patronus AI](https://www.patronus.ai/) - 🆕 自動 LLM 評価 + レッドチームプラットフォーム。
-- [DeepEval](https://github.com/confident-ai/deepeval) - Pytest スタイルの LLM 評価フレームワーク。組み込み 14+ メトリック。Apache-2.0。![GitHub stars](https://img.shields.io/github/stars/confident-ai/deepeval?style=flat-square)
-- [Agenta](https://github.com/agenta-ai/agenta) - 🆕 オールインワンオープンソース LLMOps。![GitHub stars](https://img.shields.io/github/stars/agenta-ai/agenta?style=flat-square)
-- [AutoEvals](https://github.com/braintrustdata/autoevals) - ベストプラクティスの LLM 評価スコアラーライブラリ。Braintrust 製。![GitHub stars](https://img.shields.io/github/stars/braintrustdata/autoevals?style=flat-square)
-- [BenchClaw](https://github.com/Agnuxo1/benchclaw) - ⚠️ **Unverified**。8 個の awesome リストのうち 7 個で却下、単独メンテナチームで2 star。**可視性のための掲載**。![GitHub stars](https://img.shields.io/github/stars/Agnuxo1/benchclaw?style=flat-square)
+- [DeepEval](https://github.com/confident-ai/deepeval) - Pytest スタイルの LLM 評価フレームワーク。組み込み 14+ メトリック。Apache-2.0。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fconfident-ai%2Fdeepeval&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Agenta](https://github.com/agenta-ai/agenta) - 🆕 オールインワンオープンソース LLMOps。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fagenta-ai%2Fagenta&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [AutoEvals](https://github.com/braintrustdata/autoevals) - ベストプラクティスの LLM 評価スコアラーライブラリ。Braintrust 製。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fbraintrustdata%2Fautoevals&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [BenchClaw](https://github.com/Agnuxo1/benchclaw) - ⚠️ **Unverified**。8 個の awesome リストのうち 7 個で却下、単独メンテナチームで2 star。**可視性のための掲載**。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FAgnuxo1%2Fbenchclaw&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [PromptEden](https://www.prompteden.com) - ⚠️ **Unverified**。商用 SaaS で、ChatGPT / Claude / Gemini / Perplexity / Copilot / Grok がどうブランドを説明するかをモニタリング。同一 PR が 1 日以内に 10 個の awesome リストに提出された。**可視性のための掲載**。
-- [AgentBench](https://github.com/THUDM/AgentBench) - LLM をエージェントとして評価する多次元ベンチマーク。 ![GitHub stars](https://img.shields.io/github/stars/THUDM/AgentBench?style=flat-square)
-- [Braintrust](https://github.com/braintrustdata/braintrust-sdk) - エンタープライズ級 AI プロダクト構築スタック——評価、プロンプト playground、ロギングを一体化。 ![GitHub stars](https://img.shields.io/github/stars/braintrustdata/braintrust-sdk?style=flat-square)
-- [OpenLLMetry](https://github.com/traceloop/openllmetry) - OpenTelemetry に基づくオープンソースの LLM オブザーバビリティ。 ![GitHub stars](https://img.shields.io/github/stars/traceloop/openllmetry?style=flat-square)
-- [Weights & Biases Weave](https://github.com/wandb/weave) - AI アプリの開発・評価・監視ツールキット。 ![GitHub stars](https://img.shields.io/github/stars/wandb/weave?style=flat-square)
-- [SWE-bench](https://github.com/princeton-nlp/SWE-bench) - 実世界のソフトウェア工学課題で LLM を評価するベンチマーク。 ![GitHub stars](https://img.shields.io/github/stars/princeton-nlp/SWE-bench?style=flat-square)
-- [Terminal-Bench](https://www.tbench.ai/) - 🆕 ターミナル系コーディングエージェント評価のためのベンチマーク。Harbor Framework がメンテナンス。 ![GitHub stars](https://img.shields.io/github/stars/harbor-framework/terminal-bench?style=flat-square)
-- [Laminar](https://github.com/lmnr-ai/lmnr) - 🆕 長時間稼働 AI エージェント専用に設計されたオープンソースのオブザーバビリティ基盤（Apache-2.0、YC S24）。OpenTelemetry ネイティブ、トランスクリプトビュー、Signals、トレース上の SQL クエリ、ブラウザエージェントのセッション再生。![GitHub stars](https://img.shields.io/github/stars/lmnr-ai/lmnr?style=flat-square)
+- [AgentBench](https://github.com/THUDM/AgentBench) - LLM をエージェントとして評価する多次元ベンチマーク。 ![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FTHUDM%2FAgentBench&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Braintrust](https://github.com/braintrustdata/braintrust-sdk) - エンタープライズ級 AI プロダクト構築スタック——評価、プロンプト playground、ロギングを一体化。 ![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fbraintrustdata%2Fbraintrust-sdk&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [OpenLLMetry](https://github.com/traceloop/openllmetry) - OpenTelemetry に基づくオープンソースの LLM オブザーバビリティ。 ![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Ftraceloop%2Fopenllmetry&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Weights & Biases Weave](https://github.com/wandb/weave) - AI アプリの開発・評価・監視ツールキット。 ![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fwandb%2Fweave&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [SWE-bench](https://github.com/princeton-nlp/SWE-bench) - 実世界のソフトウェア工学課題で LLM を評価するベンチマーク。 ![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fprinceton-nlp%2FSWE-bench&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Terminal-Bench](https://www.tbench.ai/) - 🆕 ターミナル系コーディングエージェント評価のためのベンチマーク。Harbor Framework がメンテナンス。 ![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fharbor-framework%2Fterminal-bench&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Laminar](https://github.com/lmnr-ai/lmnr) - 🆕 長時間稼働 AI エージェント専用に設計されたオープンソースのオブザーバビリティ基盤（Apache-2.0、YC S24）。OpenTelemetry ネイティブ、トランスクリプトビュー、Signals、トレース上の SQL クエリ、ブラウザエージェントのセッション再生。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Flmnr-ai%2Flmnr&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [LangSmith Engine](https://www.langchain.com/blog/interrupt-2026-overview) - 🆕 **2026 年 5 月（Interrupt 2026）**。LangSmith の自律失敗診断レイヤー —— 本番障害を優先度付き問題にクラスタリングし、トレースとコードを横断して根本原因を特定、人間レビュー用の修正提案を生成。新発の SmithDB（Rust + DataFusion で構築されたエージェントオブザーバビリティ用 DB）と連動。
 
 ---
 
 ## 🔬 AI 研究ツール
 
-- [Hugging Face Transformers](https://github.com/huggingface/transformers) - モデルとトレーニングツールの事実上の標準ライブラリ。![GitHub stars](https://img.shields.io/github/stars/huggingface/transformers?style=flat-square)
-- [vLLM](https://github.com/vllm-project/vllm) - 高スループット LLM 推論・サービング。![GitHub stars](https://img.shields.io/github/stars/vllm-project/vllm?style=flat-square)
-- [SGLang](https://github.com/sgl-project/sglang) - 高性能 LLM 推論エンジン。![GitHub stars](https://img.shields.io/github/stars/sgl-project/sglang?style=flat-square)
-- [llama.cpp](https://github.com/ggml-org/llama.cpp) - C/C++ 高性能 LLM 推論。![GitHub stars](https://img.shields.io/github/stars/ggml-org/llama.cpp?style=flat-square)
-- [Ollama](https://github.com/ollama/ollama) - ローカルで LLM を走らせる最も簡単な方法。![GitHub stars](https://img.shields.io/github/stars/ollama/ollama?style=flat-square)
+- [Hugging Face Transformers](https://github.com/huggingface/transformers) - モデルとトレーニングツールの事実上の標準ライブラリ。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fhuggingface%2Ftransformers&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [vLLM](https://github.com/vllm-project/vllm) - 高スループット LLM 推論・サービング。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fvllm-project%2Fvllm&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [SGLang](https://github.com/sgl-project/sglang) - 高性能 LLM 推論エンジン。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fsgl-project%2Fsglang&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [llama.cpp](https://github.com/ggml-org/llama.cpp) - C/C++ 高性能 LLM 推論。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fggml-org%2Fllama.cpp&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Ollama](https://github.com/ollama/ollama) - ローカルで LLM を走らせる最も簡単な方法。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Follama%2Follama&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [LM Studio](https://lmstudio.ai/) - デスクトップでローカル LLM を動かす GUI、複数プロバイダ。
 - [OpenRouter](https://openrouter.ai/) - 1 つの API で 100+ LLM を一括利用。
-- [Unsloth](https://github.com/unslothai/unsloth) - 2 倍高速、VRAM 70% 削減して LLM をファインチューニング。![GitHub stars](https://img.shields.io/github/stars/unslothai/unsloth?style=flat-square)
-- [MLX](https://github.com/ml-explore/mlx) - Apple Silicon 上の機械学習フレームワーク。![GitHub stars](https://img.shields.io/github/stars/ml-explore/mlx?style=flat-square)
+- [Unsloth](https://github.com/unslothai/unsloth) - 2 倍高速、VRAM 70% 削減して LLM をファインチューニング。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Funslothai%2Funsloth&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [MLX](https://github.com/ml-explore/mlx) - Apple Silicon 上の機械学習フレームワーク。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fml-explore%2Fmlx&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Weights & Biases](https://wandb.ai/) - ML 実験追跡 + モデル管理。
-- [Label Studio](https://github.com/HumanSignal/label-studio) - マルチ型データアノテーションプラットフォーム。![GitHub stars](https://img.shields.io/github/stars/HumanSignal/label-studio?style=flat-square)
-- [DSPy](https://github.com/stanfordnlp/dspy) - プロンプトではなくプログラミングして言語モデルを使うフレームワーク。![GitHub stars](https://img.shields.io/github/stars/stanfordnlp/dspy?style=flat-square)
+- [Label Studio](https://github.com/HumanSignal/label-studio) - マルチ型データアノテーションプラットフォーム。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FHumanSignal%2Flabel-studio&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [DSPy](https://github.com/stanfordnlp/dspy) - プロンプトではなくプログラミングして言語モデルを使うフレームワーク。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fstanfordnlp%2Fdspy&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Hugging Face](https://huggingface.co/) - AI コミュニティのプラットフォーム——モデル、データセット、Spaces を集約する ML 研究の事実上のハブ。
 - [SmithDB](https://www.langchain.com/blog/interrupt-2026-overview) - 🆕 **2026 年 5 月（Interrupt 2026）**。LangChain がエージェントオブザーバビリティ専用に設計したデータベース。Rust を Apache DataFusion + Vortex 上に構築し、オブジェクトストレージをバックエンドに —— エージェントトレースの容量とアクセスパターンに合わせて設計されている。
 
@@ -895,19 +895,19 @@
 - [DeepLearning.AI Short Courses](https://www.deeplearning.ai/short-courses/) - 主要フレームワーク / プロトコルをカバーする AI ショートコース。
 - [LLM Agents MOOC (Berkeley)](https://llmagents-learning.org/f24) - UC Berkeley の LLM エージェントコース。
 - [Microsoft Agent Framework Docs](https://learn.microsoft.com/en-us/agent-framework/) - 🆕 Microsoft 統合エージェントフレームワークの公式ドキュメント。
-- [Hugging Face Agents Course](https://github.com/huggingface/agents-course) - smolagents / LangGraph / Llama-Index でプロダクションエージェントを構築する 5 ユニットの無料コース。![GitHub stars](https://img.shields.io/github/stars/huggingface/agents-course?style=flat-square)
-- [Anthropic Cookbook](https://github.com/anthropics/anthropic-cookbook) - ツール使用、Computer Use、エージェントパターン、プロンプトエンジニアリング、Claude Code レシピの公式ノートブックス。![GitHub stars](https://img.shields.io/github/stars/anthropics/anthropic-cookbook?style=flat-square)
-- [Google Gemini Cookbook](https://github.com/google-gemini/cookbook) - grounding、関数呼び出し、マルチモーダル、ライブ音声をカバーする Gemini API 公式例。![GitHub stars](https://img.shields.io/github/stars/google-gemini/cookbook?style=flat-square)
-- [LLM Course (Maxime Labonne)](https://github.com/mlabonne/llm-course) - 基礎からファインチューニングまでのエンドツーエンド LLM カリキュラム、Colab ノートブック付き。79K star。![GitHub stars](https://img.shields.io/github/stars/mlabonne/llm-course?style=flat-square)
-- [Anthropic Courses](https://github.com/anthropics/courses) - Anthropic 公式のプロンプトエンジニアリング、実世界プロンプト、評価、ツール使用のコース。![GitHub stars](https://img.shields.io/github/stars/anthropics/courses?style=flat-square)
+- [Hugging Face Agents Course](https://github.com/huggingface/agents-course) - smolagents / LangGraph / Llama-Index でプロダクションエージェントを構築する 5 ユニットの無料コース。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fhuggingface%2Fagents-course&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Anthropic Cookbook](https://github.com/anthropics/anthropic-cookbook) - ツール使用、Computer Use、エージェントパターン、プロンプトエンジニアリング、Claude Code レシピの公式ノートブックス。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fanthropics%2Fanthropic-cookbook&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Google Gemini Cookbook](https://github.com/google-gemini/cookbook) - grounding、関数呼び出し、マルチモーダル、ライブ音声をカバーする Gemini API 公式例。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fgoogle-gemini%2Fcookbook&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [LLM Course (Maxime Labonne)](https://github.com/mlabonne/llm-course) - 基礎からファインチューニングまでのエンドツーエンド LLM カリキュラム、Colab ノートブック付き。79K star。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fmlabonne%2Fllm-course&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Anthropic Courses](https://github.com/anthropics/courses) - Anthropic 公式のプロンプトエンジニアリング、実世界プロンプト、評価、ツール使用のコース。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fanthropics%2Fcourses&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 
 ### キュレートされたリスト
 
-- [awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - 💤 **Stale**（2025-02 以降更新なし）。E2B 製、プレ 2026 の参考資料。![GitHub stars](https://img.shields.io/github/stars/e2b-dev/awesome-ai-agents?style=flat-square)
-- [awesome-llm-agents](https://github.com/kaushikb11/awesome-llm-agents) - LLM ベースのエージェントリソース。![GitHub stars](https://img.shields.io/github/stars/kaushikb11/awesome-llm-agents?style=flat-square)
-- [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - 🆕 MCP サーバー実装リスト。![GitHub stars](https://img.shields.io/github/stars/punkpeye/awesome-mcp-servers?style=flat-square)
-- [awesome-ai-agent-papers (VoltAgent)](https://github.com/VoltAgent/awesome-ai-agent-papers) - 🆕 2026 年の AI エージェント研究論文の厳選集——エージェント工学、メモリ、評価、ワークフロー、自律システムを網羅。arXiv から週次更新。![GitHub stars](https://img.shields.io/github/stars/VoltAgent/awesome-ai-agent-papers?style=flat-square)
-- [awesome-cli-coding-agents](https://github.com/bradAGI/awesome-cli-coding-agents) - 🆕 ターミナルネイティブな AI コーディングエージェント＋オーケストレーション harness の厳選ディレクトリ—— OSS ツール（Pi / OpenCode / Aider / Goose）、プラットフォームエージェント（Claude Code / Codex / Gemini CLI）、並列ランナー、自律ループ。![GitHub stars](https://img.shields.io/github/stars/bradAGI/awesome-cli-coding-agents?style=flat-square)
+- [awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - 💤 **Stale**（2025-02 以降更新なし）。E2B 製、プレ 2026 の参考資料。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fe2b-dev%2Fawesome-ai-agents&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [awesome-llm-agents](https://github.com/kaushikb11/awesome-llm-agents) - LLM ベースのエージェントリソース。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fkaushikb11%2Fawesome-llm-agents&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - 🆕 MCP サーバー実装リスト。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fpunkpeye%2Fawesome-mcp-servers&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [awesome-ai-agent-papers (VoltAgent)](https://github.com/VoltAgent/awesome-ai-agent-papers) - 🆕 2026 年の AI エージェント研究論文の厳選集——エージェント工学、メモリ、評価、ワークフロー、自律システムを網羅。arXiv から週次更新。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FVoltAgent%2Fawesome-ai-agent-papers&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [awesome-cli-coding-agents](https://github.com/bradAGI/awesome-cli-coding-agents) - 🆕 ターミナルネイティブな AI コーディングエージェント＋オーケストレーション harness の厳選ディレクトリ—— OSS ツール（Pi / OpenCode / Aider / Goose）、プラットフォームエージェント（Claude Code / Codex / Gemini CLI）、並列ランナー、自律ループ。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FbradAGI%2Fawesome-cli-coding-agents&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Agent Hospital](https://arxiv.org/abs/2405.02957) - 進化可能な医療エージェントを擁する仮想病院のシミュレータ。
 - [Multimodal Intelligence as the Dominant Paradigm in 2026 AI Systems](https://www.researchgate.net/publication/398878301) - 🆕 マルチモーダル AI が 2026 年のデフォルトパラダイムになるという研究レビュー。
 - [DeepLearning.AI — AI Agents in LangGraph](https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/) - LangGraph を用いてエージェントを構築する短期コース。
@@ -925,23 +925,23 @@
 
 ### エージェントプラットフォームとフレームワーク
 
-- [Dify](https://github.com/langgenius/dify) - ビジュアルエージェントビルダー付きオープンソース LLM アプリ開発プラットフォーム。中国テックで支配的なローコードエージェントキャンバス。![GitHub stars](https://img.shields.io/github/stars/langgenius/dify?style=flat-square)
-- [Lobe Chat](https://github.com/lobehub/lobe-chat) - マルチエージェントチャットワークスペース + プラグイン / エージェントマーケットプレイス。トップクラスの TypeScript AI プロジェクト。Apache-2.0。![GitHub stars](https://img.shields.io/github/stars/lobehub/lobe-chat?style=flat-square)
-- [Cozeloop](https://github.com/coze-dev/cozeloop) - 🆕 ByteDance Coze チームによるオープンソースエージェント最適化プラットフォーム。Apache-2.0。![GitHub stars](https://img.shields.io/github/stars/coze-dev/cozeloop?style=flat-square)
-- [AgentScope](https://github.com/modelscope/agentscope) - アリババ ModelScope のマルチエージェントフレームワーク + ビジュアルデバッグ + 分散実行。Apache-2.0。![GitHub stars](https://img.shields.io/github/stars/modelscope/agentscope?style=flat-square)
-- [Bisheng](https://github.com/dataelement/bisheng) - オープンエンタープライズ LLM DevOps プラットフォーム：ワークフローエディタ、RAG、エージェントオーケストレーション、ファインチューニング、評価。Apache-2.0。![GitHub stars](https://img.shields.io/github/stars/dataelement/bisheng?style=flat-square)
-- [MetaGPT](https://github.com/geekan/MetaGPT) - LLM に SOP 役割（PM / アーキテクト / エンジニア）を割り振るマルチエージェント。DeepWisdom。![GitHub stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=flat-square)
+- [Dify](https://github.com/langgenius/dify) - ビジュアルエージェントビルダー付きオープンソース LLM アプリ開発プラットフォーム。中国テックで支配的なローコードエージェントキャンバス。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Flanggenius%2Fdify&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Lobe Chat](https://github.com/lobehub/lobe-chat) - マルチエージェントチャットワークスペース + プラグイン / エージェントマーケットプレイス。トップクラスの TypeScript AI プロジェクト。Apache-2.0。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Flobehub%2Flobe-chat&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Cozeloop](https://github.com/coze-dev/cozeloop) - 🆕 ByteDance Coze チームによるオープンソースエージェント最適化プラットフォーム。Apache-2.0。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fcoze-dev%2Fcozeloop&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [AgentScope](https://github.com/modelscope/agentscope) - アリババ ModelScope のマルチエージェントフレームワーク + ビジュアルデバッグ + 分散実行。Apache-2.0。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fmodelscope%2Fagentscope&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Bisheng](https://github.com/dataelement/bisheng) - オープンエンタープライズ LLM DevOps プラットフォーム：ワークフローエディタ、RAG、エージェントオーケストレーション、ファインチューニング、評価。Apache-2.0。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fdataelement%2Fbisheng&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [MetaGPT](https://github.com/geekan/MetaGPT) - LLM に SOP 役割（PM / アーキテクト / エンジニア）を割り振るマルチエージェント。DeepWisdom。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fgeekan%2FMetaGPT&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 
 ### RAG / ナレッジ
 
-- [FastGPT](https://github.com/labring/FastGPT) - ナレッジベースを中心に設計された LLM プラットフォーム: データ取り込み、RAG、ビジュアルワークフロー。![GitHub stars](https://img.shields.io/github/stars/labring/FastGPT?style=flat-square)
-- [QAnything](https://github.com/netease-youdao/QAnything) - 💤 NetEase Youdao 製の任意のローカルドキュメントを対象にした質問応答。![GitHub stars](https://img.shields.io/github/stars/netease-youdao/QAnything?style=flat-square)
-- [RAGFlow](https://github.com/infiniflow/ragflow) - スキャン PDF、テーブル、図表に強い深いドキュメント理解 RAG エンジン。![GitHub stars](https://img.shields.io/github/stars/infiniflow/ragflow?style=flat-square)
-- [LightRAG](https://github.com/HKUDS/LightRAG) - 香港大学 HKUDS の軽量グラフ RAG エンジン。![GitHub stars](https://img.shields.io/github/stars/HKUDS/LightRAG?style=flat-square)
+- [FastGPT](https://github.com/labring/FastGPT) - ナレッジベースを中心に設計された LLM プラットフォーム: データ取り込み、RAG、ビジュアルワークフロー。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Flabring%2FFastGPT&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [QAnything](https://github.com/netease-youdao/QAnything) - 💤 NetEase Youdao 製の任意のローカルドキュメントを対象にした質問応答。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fnetease-youdao%2FQAnything&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [RAGFlow](https://github.com/infiniflow/ragflow) - スキャン PDF、テーブル、図表に強い深いドキュメント理解 RAG エンジン。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Finfiniflow%2Fragflow&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [LightRAG](https://github.com/HKUDS/LightRAG) - 香港大学 HKUDS の軽量グラフ RAG エンジン。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FHKUDS%2FLightRAG&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 
 ### パーソナルと生産性
 
-- [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AI ワークスペースエージェント付きオープンソース Notion 代替。AGPL-3.0。![GitHub stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=flat-square)
+- [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AI ワークスペースエージェント付きオープンソース Notion 代替。AGPL-3.0。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FAppFlowy-IO%2FAppFlowy&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Manus AI](https://manus.im/) - 汎用自律エージェント（北京 Butterfly Effect）。2026 年中国テックで最も注目されたエージェント製品の一つ。
 - [Coze (扣才)](https://www.coze.cn/) - ByteDance のノーコードエージェントビルダー。中国本土中心、国際版は coze.com。
 - [通义千問 Agent](https://tongyi.aliyun.com/) - アリババの大衆向けコンシューマーエージェント。淘宝 / DingTalk / Quark に統合。
@@ -951,10 +951,10 @@
 
 - [Kilo Code](https://www.kilocode.com/) - 2026 中国コミュニティで人気の Cursor 代替。デフォルトモデル: MiniMax。
 - [CoderPlan](https://coderplan.ai/) - 中国開発者向け統合 LLM API ゲートウェイ（Claude / OpenAI / Gemini、Claude Code 一行設定対応）、従量課金制・Alipay & WeChat Pay 対応。
-- [Cherry Studio](https://github.com/CherryHQ/cherry-studio) - 中国開発者サークルで最もインストールされているオープンソースデスクトップ LLM クライアント —— マルチプロバイダ会話 + ナレッジベース。![GitHub stars](https://img.shields.io/github/stars/CherryHQ/cherry-studio?style=flat-square)
+- [Cherry Studio](https://github.com/CherryHQ/cherry-studio) - 中国開発者サークルで最もインストールされているオープンソースデスクトップ LLM クライアント —— マルチプロバイダ会話 + ナレッジベース。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FCherryHQ%2Fcherry-studio&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [ScienceOne 100 / 磐石100](https://english.cas.cn/newsroom/cas-in-media/202604/t20260429_1158251.shtml) - 🆕 中国科学院の科学推論エージェントシステム。50+ 中科院研究所、100+ 研究シナリオ、付属 2,000+ 研究ツール。
-- [Kimi Code CLI](https://github.com/MoonshotAI/kimi-code) - 🆕 **2026 年 6 月 6 日**。Moonshot AI の TypeScript / MIT 製ターミナルコーディングエージェント —— 隔離コンテキストで動く coder / explore / plan サブエージェントを内蔵、`/mcp-config` で対話式に MCP を設定。![GitHub stars](https://img.shields.io/github/stars/MoonshotAI/kimi-code?style=flat-square)
-- [Coze Studio](https://github.com/coze-dev/coze-studio) - 🆕 ByteDance Coze.com のオープンソース対応版——オールインワン・ビジュアルエージェントビルダー、デバッグ＆デプロイツール付き。Apache-2.0、20K+ stars。![GitHub stars](https://img.shields.io/github/stars/coze-dev/coze-studio?style=flat-square)
+- [Kimi Code CLI](https://github.com/MoonshotAI/kimi-code) - 🆕 **2026 年 6 月 6 日**。Moonshot AI の TypeScript / MIT 製ターミナルコーディングエージェント —— 隔離コンテキストで動く coder / explore / plan サブエージェントを内蔵、`/mcp-config` で対話式に MCP を設定。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FMoonshotAI%2Fkimi-code&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Coze Studio](https://github.com/coze-dev/coze-studio) - 🆕 ByteDance Coze.com のオープンソース対応版——オールインワン・ビジュアルエージェントビルダー、デバッグ＆デプロイツール付き。Apache-2.0、20K+ stars。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fcoze-dev%2Fcoze-studio&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 
 ---
 
@@ -1448,20 +1448,20 @@
 
 *2026 年の AI エージェント状況を形作ったシグネチャーと出来事。*
 
-- [Model Context Protocol (MCP)](https://github.com/modelcontextprotocol/servers) - エージェントツール連携のユニバーサル標準となった。Linux Foundation へ寄贈された。![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=flat-square)
-- [A2A Protocol](https://github.com/google/A2A) - 🆕 Google の A2A プロトコルで 150+ パートナーとクロスフレームワーク連携を可能にした。![GitHub stars](https://img.shields.io/github/stars/google/A2A?style=flat-square)
+- [Model Context Protocol (MCP)](https://github.com/modelcontextprotocol/servers) - エージェントツール連携のユニバーサル標準となった。Linux Foundation へ寄贈された。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fmodelcontextprotocol%2Fservers&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [A2A Protocol](https://github.com/google/A2A) - 🆕 Google の A2A プロトコルで 150+ パートナーとクロスフレームワーク連携を可能にした。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fgoogle%2FA2A&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Claude Code](https://docs.anthropic.com/en/docs/claude-code) - SWE-bench 80.9% で 2026 年のターミナル型コーディングエージェントの選択肢となった。
 - [Kiro](https://kiro.dev/) - 🆕 AWS が 10 タスク同時管理可能な自律コーディングエージェントをローンチ。
 - [Devin 3.0](https://www.cognition.ai/) - 🆕 動的再プラン、自己修復コード、レガシーコードベース移行を含む進化。
 - [Microsoft Agent Framework](https://learn.microsoft.com/en-us/agent-framework/) - 🆕 AutoGen + Semantic Kernel が統一企業エージェントプラットフォームとして統合。
-- [OpenAI Codex CLI](https://github.com/openai/codex) - OpenAI のオープンソースターミナルエージェント参入。![GitHub stars](https://img.shields.io/github/stars/openai/codex?style=flat-square)
-- [Browser Use](https://github.com/browser-use/browser-use) - AI エージェントが Web と自然に対話できるようにしたブレイクスルー。![GitHub stars](https://img.shields.io/github/stars/browser-use/browser-use?style=flat-square)
+- [OpenAI Codex CLI](https://github.com/openai/codex) - OpenAI のオープンソースターミナルエージェント参入。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fopenai%2Fcodex&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Browser Use](https://github.com/browser-use/browser-use) - AI エージェントが Web と自然に対話できるようにしたブレイクスルー。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fbrowser-use%2Fbrowser-use&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Claude Computer Use](https://www.anthropic.com/) - 🆕 Desktop Intelligence により Claude が画面を見てあらゆるソフトウェアをコントロール。
 - [Manus AI](https://manus.im/) - 🇨🇳 🆕 調査、コーディング、複雑ワークフローを処理できる汎用自律エージェント。
-- [OpenHands](https://github.com/All-Hands-AI/OpenHands) - オープンソース AI ソフトウェアエンジニアリングプラットフォームが広く採用された。![GitHub stars](https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=flat-square)
-- [Dify](https://github.com/langgenius/dify) - 🇨🇳 ローコード LLM エージェントプラットフォームが主流に達した。![GitHub stars](https://img.shields.io/github/stars/langgenius/dify?style=flat-square)
-- [Cline](https://github.com/cline/cline) - VS Code の自律コーディングエージェントがコミュニティで急長。![GitHub stars](https://img.shields.io/github/stars/cline/cline?style=flat-square)
-- [Mem0](https://github.com/mem0ai/mem0) - AI のメモリ層がエージェントアーキテクチャの不可欠な要素になった。![GitHub stars](https://img.shields.io/github/stars/mem0ai/mem0?style=flat-square)
+- [OpenHands](https://github.com/All-Hands-AI/OpenHands) - オープンソース AI ソフトウェアエンジニアリングプラットフォームが広く採用された。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FAll-Hands-AI%2FOpenHands&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Dify](https://github.com/langgenius/dify) - 🇨🇳 ローコード LLM エージェントプラットフォームが主流に達した。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Flanggenius%2Fdify&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Cline](https://github.com/cline/cline) - VS Code の自律コーディングエージェントがコミュニティで急長。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fcline%2Fcline&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Mem0](https://github.com/mem0ai/mem0) - AI のメモリ層がエージェントアーキテクチャの不可欠な要素になった。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fmem0ai%2Fmem0&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Sora サービス終了](https://openai.com/) - 🆕 OpenAI が 2026 年 4 月に Sora を停止、エンタープライズ AI と推論への戦略転換を示した。
 - [Kling VIDEO 3.0](https://kling.ai/) - 🇨🇳 🆕 快手製動画生成が Sora 停止後の AI 動画プラットフォームをリード。
 - [Cohere + Aleph Alpha 合併](https://siliconangle.com/2026/04/24/ai-startups-cohere-aleph-alpha-merge-600m-new-funding/) - 🆕 **2026-04-24**。カナダとドイツの AI 企業が約 $20B 評価額で合併、Schwarz Group から $600M シリーズ E。跨大西洋「主権 AI」パワーハウス。

@@ -104,7 +104,7 @@
 - [GPT-4o](https://openai.com/index/hello-gpt-4o/) - Omni 模型，原生支持文本/视觉/音频。2026-02 从 ChatGPT 下线，API 仍可用。
 - [GPT-4.5](https://openai.com/) - ⚠️ **2026 年 6 月 27 日从 ChatGPT 退役**（API 继续可用）。最初于 2025 年 2 月作为研究预览发布，随着 GPT-5.5 家族的全面接管而退役；o3 也计划于 2026 年 8 月 26 日退役。
 - [o3 / o4-mini](https://openai.com/index/introducing-o3-and-o4-mini/) - 思维链推理模型。2025-04 发布。o3 将于 2026-08-26 退役。
-- [Codex CLI](https://github.com/openai/codex) - OpenAI 出品的开源终端编程 Agent。![GitHub stars](https://img.shields.io/github/stars/openai/codex?style=flat-square)
+- [Codex CLI](https://github.com/openai/codex) - OpenAI 出品的开源终端编程 Agent。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fopenai%2Fcodex&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [OpenAI Deployment Company (DeployCo)](https://openai.com/index/openai-launches-the-deployment-company/) - 🆕 **2026-05-11**。OpenAI 控股的企业 AI 落地服务公司，$4B+ 启动资金，TPG / Advent / Bain Capital / Brookfield / Goldman Sachs / SoftBank 与 Bain & Company / Capgemini / McKinsey 等共投。围绕 Forward Deployed Engineers 体系，并吸收 Tomoro 咨询团队（~150 人）。
 - [Codex on Mobile](https://9to5mac.com/2026/05/14/openai-brings-codex-control-to-chatgpt-for-iphone-and-android/) - 🆕 **2026-05-14**。ChatGPT iOS / Android 远程操控 Mac 上的 Codex 桌面 App —— 查看输出、批准操作、切换模型、启动新任务，文件 / 凭据 / 权限仍留在本机。Free / Plus / Go 预览。
 - [OpenAI ↔ Malta 合作](https://openai.com/index/malta-chatgpt-plus-partnership/) - 🆕 **2026-05-16**。首次国家级合作：完成马耳他大学开发的 2 小时 AI 素养课程后，所有 14 岁以上马耳他公民 / 居民可免费获得 1 年 ChatGPT Plus。"OpenAI for Countries" 计划的首站。
@@ -147,7 +147,7 @@
 - [Gemini 3.1 Flash / Flash Lite](https://deepmind.google/technologies/gemini/) - 高吞吐应用的高性价比选择。
 - [Gemini 4 (Open)](https://deepmind.google/technologies/gemini/) - 🆕 2026-04 发布。开源家族：2B / 4B / 26B / 31B 变体。科学推理与文档理解强，本地部署友好。
 - [Gemini 2.5 Pro / Flash](https://deepmind.google/technologies/gemini/) - 2025-06 GA。Thinking 模型，1M 上下文。
-- [Gemma 4 31B](https://github.com/google-deepmind/gemma) - 🆕 2026-04。GPQA Diamond 84.3%。端侧推理首选开源权重之一。![GitHub stars](https://img.shields.io/github/stars/google-deepmind/gemma?style=flat-square)
+- [Gemma 4 31B](https://github.com/google-deepmind/gemma) - 🆕 2026-04。GPQA Diamond 84.3%。端侧推理首选开源权重之一。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fgoogle-deepmind%2Fgemma&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Gemma 3](https://github.com/google-deepmind/gemma) - 上一代开源家族。
 - [Gemini Robotics ER-1.6](https://deepmind.google/) - 🆕 2026-04-14。机器人 AI 模型，空间与物理推理增强。Agile Robotics 实地部署。
 
@@ -189,7 +189,7 @@
 - [DeepSeek-V3.2](https://www.deepseek.com/) - 2025-12 发布。671B MoE，V3.2 Speciale 推理增强。
 - [DeepSeek-R2](https://www.deepseek.com/) - 2026 推理模型。R1 后继，对标 GPT-5、Gemini 3 Pro。
 - [DeepSeek-R1](https://www.deepseek.com/) - 2025-01 发布的思维链推理模型。
-- [DeepSeek-Coder-V2](https://github.com/deepseek-ai/DeepSeek-Coder-V2) - 编程模型，对标 GPT-4。![GitHub stars](https://img.shields.io/github/stars/deepseek-ai/DeepSeek-Coder-V2?style=flat-square)
+- [DeepSeek-Coder-V2](https://github.com/deepseek-ai/DeepSeek-Coder-V2) - 编程模型，对标 GPT-4。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fdeepseek-ai%2FDeepSeek-Coder-V2&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 
 ### Alibaba (Qwen) 🇨🇳
 
@@ -206,7 +206,7 @@
 - [Qwen3.5-Omni](https://qwen.ai/) - 2026-03。完全全模态：文/视/听/动。113 种语言识别，256K 上下文。
 - [Qwen3-Coder-Next](https://qwen.ai/) - 2026-02。开源编程 Agent 模型，MoE 80B 总 / 3B 激活。
 - [Qwen3 235B-A22B](https://qwen.ai/) - 双模式推理 MoE。数学、代码、常识强。
-- [Qwen2.5 Coder 32B](https://github.com/QwenLM/Qwen2.5-Coder) - 顶级开源编程模型。![GitHub stars](https://img.shields.io/github/stars/QwenLM/Qwen2.5-Coder?style=flat-square)
+- [Qwen2.5 Coder 32B](https://github.com/QwenLM/Qwen2.5-Coder) - 顶级开源编程模型。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FQwenLM%2FQwen2.5-Coder&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 
 ### xAI (Grok)
 
@@ -283,7 +283,7 @@
 
 ### Tencent (Hunyuan) 🇨🇳
 
-- [Hunyuan Hy3 Preview](https://hy.tencent.com/research/hy3) - 🆕 **2026-04-23**。295B 总 / 21B 激活 MoE，256K 上下文。GitHub / Hugging Face / ModelScope / GitCode 同步开源。"快慢思维融合" 架构，推理效率提升 40%。原生支持 vLLM 与 SGLang。腾讯元宝 / CodeBuddy / QQ / 腾讯文档已集成。OpenRouter 免费预览中。![GitHub stars](https://img.shields.io/github/stars/Tencent-Hunyuan/Hunyuan-A13B?style=flat-square)
+- [Hunyuan Hy3 Preview](https://hy.tencent.com/research/hy3) - 🆕 **2026-04-23**。295B 总 / 21B 激活 MoE，256K 上下文。GitHub / Hugging Face / ModelScope / GitCode 同步开源。"快慢思维融合" 架构，推理效率提升 40%。原生支持 vLLM 与 SGLang。腾讯元宝 / CodeBuddy / QQ / 腾讯文档已集成。OpenRouter 免费预览中。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FTencent-Hunyuan%2FHunyuan-A13B&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 
 ### Apple
 
@@ -337,7 +337,7 @@
 - [DALL·E 3](https://openai.com/dall-e-3) - 集成在 ChatGPT 中迭代生成。
 - [Midjourney V7](https://www.midjourney.com/) - 仍是艺术风格生成第一梯队。
 - [Stable Diffusion 3.5](https://stability.ai/) - 开源图像生成，连贯性与提示跟随增强。
-- [Flux](https://github.com/black-forest-labs/flux) - 💤 **Stale**（2025-07 起无更新）。Black Forest Labs 开源模型。![GitHub stars](https://img.shields.io/github/stars/black-forest-labs/flux?style=flat-square)
+- [Flux](https://github.com/black-forest-labs/flux) - 💤 **Stale**（2025-07 起无更新）。Black Forest Labs 开源模型。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fblack-forest-labs%2Fflux&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Ideogram 3.0](https://ideogram.ai/) - 文字渲染与设计向特别强。
 - [Gemini 3 Pro Image](https://deepmind.google/technologies/gemini/) - Gemini 内原生图像生成。
 - [Recraft V3](https://www.recraft.ai/) - 设计师向专业图像生成。
@@ -362,7 +362,7 @@
 - [Udio](https://www.udio.com/) - 🆕 商用级音乐生成。
 - [OpenAI Audio Models](https://openai.com/) - GPT-4o 内的原生音频理解 + 生成。
 - [Stability Audio](https://stability.ai/) - 开源音频音乐生成。
-- [Bark](https://github.com/suno-ai/bark) - 💤 **Stale**（2024-08 起无更新）。开源文本到音频。![GitHub stars](https://img.shields.io/github/stars/suno-ai/bark?style=flat-square)
+- [Bark](https://github.com/suno-ai/bark) - 💤 **Stale**（2024-08 起无更新）。开源文本到音频。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fsuno-ai%2Fbark&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Midjourney V8.1](https://en.wikipedia.org/wiki/Midjourney) - 🆕 **2026 年 4 月 30 日**。新增 2K 高清出图与新版 Raw 模式选项；V8（含 3D 生成）据传将于 2026 年晚些时候发布。
 - [Flux 2 Pro / Flex / Dev / Klein](https://ropewalk.ai/blog/flux-2-ai-image-generation-2026) - 🆕 **2025 年 11 月**。Black Forest Labs 的下一代家族；SOTA 画质、多参考一致性，文本渲染显著提升。
 - [Recraft V4](https://en.wikipedia.org/wiki/Recraft) - 🆕 **2026 年 2 月 17 日**。从零重构；提示准确度大幅改进；支持可编辑 SVG 矢量输出。
@@ -374,7 +374,7 @@
 - [Deepgram Nova-3 + Aura-2 + Flux Multilingual](https://deepgram.com/learn/best-voice-ai-agents-2026-buyers-guide) - 🆕 **2026 年 4 月**。45+ 语言的 STT，TTS 延迟低于 200ms，会话式 STT 支持通话中 10 种语言的实时切换。
 - [MiniMax Music 2.6](https://aimlapi.com/blog/the-ultimate-guide-to-minimax-models-2026-m2-7-music-2-6-hailuo-video-advanced-tts) - 🇨🇳 🆕 **2026 年 4 月**。主打翻唱生成方向，低频还原显著改进。
 - [Voxtral TTS](https://www.forbes.com/sites/ronschmelzer/2026/03/26/mistral-releases-open-weight-voice-ai-built-for-speed/) - 🆕 **2026 年 3 月 26 日**。Mistral 开放权重的 4B TTS，专为语音 Agent 的低延迟而生。
-- [Hume TADA](https://github.com/HumeAI/tada) - 🆕 **2026 年 3 月 10 日**。Hume AI 首个开源 TTS，MIT 许可。Text-Acoustic Dual Alignment 架构把文本 token 直接对齐到音频 token —— 测试中零转录错误，比同类快约 5×，支持 8 种语言，能在手机上跑。基于 Llama。![GitHub stars](https://img.shields.io/github/stars/HumeAI/tada?style=flat-square)
+- [Hume TADA](https://github.com/HumeAI/tada) - 🆕 **2026 年 3 月 10 日**。Hume AI 首个开源 TTS，MIT 许可。Text-Acoustic Dual Alignment 架构把文本 token 直接对齐到音频 token —— 测试中零转录错误，比同类快约 5×，支持 8 种语言，能在手机上跑。基于 Llama。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FHumeAI%2Ftada&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 
 ---
 
@@ -386,20 +386,20 @@
 
 - [MCP Specification](https://modelcontextprotocol.io/) - 🆕 "AI 的 USB-C" —— Anthropic 主推、用于让 LLM 接入工具与数据源的开放协议。2025-12 捐赠给 Linux Foundation 旗下 Agentic AI Foundation。
 - [MCP 2026-07 Release Candidate](https://blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate/) - 🆕 **2026 年 5 月发布，正式版计划 7 月 28 日上线**。MCP 下一大版升级候选版：**无状态协议核心**（可横向扩展、服务端更简单）、新增**扩展机制**、服务端渲染 UI 的 **MCP Apps**能力、Tasks 下沉为扩展、与 OAuth / OpenID Connect 对齐的授权强化。
-- [MCP Servers](https://github.com/modelcontextprotocol/servers) - 官方参考 MCP 服务实现。![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=flat-square)
-- [MCP TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk) - 官方 TypeScript SDK。![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/typescript-sdk?style=flat-square)
-- [MCP Python SDK](https://github.com/modelcontextprotocol/python-sdk) - 官方 Python SDK。![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/python-sdk?style=flat-square)
+- [MCP Servers](https://github.com/modelcontextprotocol/servers) - 官方参考 MCP 服务实现。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fmodelcontextprotocol%2Fservers&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [MCP TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk) - 官方 TypeScript SDK。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fmodelcontextprotocol%2Ftypescript-sdk&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [MCP Python SDK](https://github.com/modelcontextprotocol/python-sdk) - 官方 Python SDK。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fmodelcontextprotocol%2Fpython-sdk&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [mcp.so](https://mcp.so/) - 🆕 社区 MCP 服务目录。
-- [mcp-gateway](https://github.com/Zijian-Ni/mcp-gateway) - MCP 网关，统一路由 / 认证 / 限流。![GitHub stars](https://img.shields.io/github/stars/Zijian-Ni/mcp-gateway?style=flat-square)
+- [mcp-gateway](https://github.com/Zijian-Ni/mcp-gateway) - MCP 网关，统一路由 / 认证 / 限流。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FZijian-Ni%2Fmcp-gateway&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 
 ### Agent-to-Agent Protocol (A2A)
 
-- [A2A Protocol](https://github.com/google/A2A) - 🆕 Google 主导的 Agent 间通信开放标准。让不同框架的 Agent 互相发现、委派、协作。Linux Foundation 治理，2026 年已有 150+ 合作组织。![GitHub stars](https://img.shields.io/github/stars/google/A2A?style=flat-square)
+- [A2A Protocol](https://github.com/google/A2A) - 🆕 Google 主导的 Agent 间通信开放标准。让不同框架的 Agent 互相发现、委派、协作。Linux Foundation 治理，2026 年已有 150+ 合作组织。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fgoogle%2FA2A&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [A2A Course (DeepLearning.AI)](https://www.deeplearning.ai/short-courses/a2a-the-agent2agent-protocol/) - 🆕 免费课程：用 A2A 构建多 Agent 系统。
 
 ### 其他标准
 
-- [OpenAI Agents SDK](https://github.com/openai/openai-agents-python) - 🆕 [2026-04-15 大更新](https://openai.com/index/the-next-evolution-of-the-agents-sdk/)：原生沙箱执行、MCP 一等公民、子 Agent / handoff 模式、Codex 风格文件系统工具，生产级多 Agent。![GitHub stars](https://img.shields.io/github/stars/openai/openai-agents-python?style=flat-square)
+- [OpenAI Agents SDK](https://github.com/openai/openai-agents-python) - 🆕 [2026-04-15 大更新](https://openai.com/index/the-next-evolution-of-the-agents-sdk/)：原生沙箱执行、MCP 一等公民、子 Agent / handoff 模式、Codex 风格文件系统工具，生产级多 Agent。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fopenai%2Fopenai-agents-python&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Agentic AI Foundation](https://www.linuxfoundation.org/) - 🆕 Linux Foundation 治理基金，由 Anthropic、Block、OpenAI 共同发起。
 - [Coinbase Base MCP](https://fortune.com/2026/05/26/coinbase-pushes-further-into-ai-payments-with-new-mcp-for-base-network/) - 🆕 **2026 年 5 月 26 日**。Coinbase 为 Base 公链发布 MCP 服务器，让 Claude / Cursor / ChatGPT Agent 直接执行加密资产交易与借贷。首个交易所级、面向链上自动化的 MCP 端点。
 - [Robinhood Agentic Trading MCP](https://robinhood.com/us/en/newsroom/robinhood-is-now-open-to-agents/) - 🆕 **2026 年 5 月 27 日**（beta）。首家通过 MCP 把股票交易开放给 AI Agent 的美国券商：Agent（Claude / Codex / Cursor）对账户只读，仅可在专门隔离的 Agentic 账户内交易；每笔交易推送，一键断开。
@@ -410,37 +410,37 @@
 
 *用来构建自主 AI Agent 的框架与库。*
 
-- [Koog 1.0](https://github.com/JetBrains/koog) - 🆕 **2026-05-28 · KotlinConf 2026**。JetBrains 针对 **Kotlin + Java** 的开源 Agent 框架进入稳定 1.0，并带有一年的 API 稳定性保证。Kotlin Multiplatform 跨端部署（JVM / Android / iOS / JS / WASM）、Java 互操作无需包装模块、Android 本地 LiteRT、OpenTelemetry 跨端可观测、图状工作流、Spring Boot / Ktor 集成，提供商 OpenAI / Anthropic / Google / Bedrock 均原生支持。Apache-2.0。 ![GitHub stars](https://img.shields.io/github/stars/JetBrains/koog?style=flat-square)
-- [LangChain](https://github.com/langchain-ai/langchain) - 上下文感知推理应用的基础框架。![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=flat-square)
-- [LangGraph](https://github.com/langchain-ai/langgraph) - 把 Agent 建模为有状态、多 actor 协作的图。v0.3.19（2026-04-27）：预制 Agent 拆出 `langgraph-prebuilt` —— Supervisor / Swarm / LangMem / Trustcall。Agent 工作流的生产级标准。![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langgraph?style=flat-square)
-- [CrewAI](https://github.com/crewAIInc/crewAI) - 角色扮演式 Agent 团队编排。![GitHub stars](https://img.shields.io/github/stars/crewAIInc/crewAI?style=flat-square)
+- [Koog 1.0](https://github.com/JetBrains/koog) - 🆕 **2026-05-28 · KotlinConf 2026**。JetBrains 针对 **Kotlin + Java** 的开源 Agent 框架进入稳定 1.0，并带有一年的 API 稳定性保证。Kotlin Multiplatform 跨端部署（JVM / Android / iOS / JS / WASM）、Java 互操作无需包装模块、Android 本地 LiteRT、OpenTelemetry 跨端可观测、图状工作流、Spring Boot / Ktor 集成，提供商 OpenAI / Anthropic / Google / Bedrock 均原生支持。Apache-2.0。 ![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FJetBrains%2Fkoog&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [LangChain](https://github.com/langchain-ai/langchain) - 上下文感知推理应用的基础框架。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Flangchain-ai%2Flangchain&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [LangGraph](https://github.com/langchain-ai/langgraph) - 把 Agent 建模为有状态、多 actor 协作的图。v0.3.19（2026-04-27）：预制 Agent 拆出 `langgraph-prebuilt` —— Supervisor / Swarm / LangMem / Trustcall。Agent 工作流的生产级标准。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Flangchain-ai%2Flanggraph&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [CrewAI](https://github.com/crewAIInc/crewAI) - 角色扮演式 Agent 团队编排。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FcrewAIInc%2FcrewAI&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Microsoft Agent Framework](https://learn.microsoft.com/en-us/agent-framework/) - 🆕 AutoGen + Semantic Kernel 合并的统一框架。多 Agent + 企业能力。2026 Q1 GA。
-- [AutoGen](https://github.com/microsoft/autogen) - 微软多 Agent 对话框架（已并入 Microsoft Agent Framework）。![GitHub stars](https://img.shields.io/github/stars/microsoft/autogen?style=flat-square)
-- [Google Agent Development Kit (ADK)](https://github.com/google/adk-python) - 🆕 与 Gemini + Vertex AI 深度集成的模块化框架。层级 Agent 组合。![GitHub stars](https://img.shields.io/github/stars/google/adk-python?style=flat-square)
-- [OpenAI Agents SDK](https://github.com/openai/openai-agents-python) - 🆕 [2026-04-15 升级](https://openai.com/index/the-next-evolution-of-the-agents-sdk/) —— 原生沙箱、MCP、子 Agent handoff、Codex 文件操作。生产级多 Agent。![GitHub stars](https://img.shields.io/github/stars/openai/openai-agents-python?style=flat-square)
-- [MetaGPT](https://github.com/geekan/MetaGPT) - 🇨🇳 给 LLM 分配 SOP 软件团队角色（PM / 架构师 / 工程师）。![GitHub stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=flat-square)
-- [Mastra](https://github.com/mastra-ai/mastra) - 🆕 TypeScript 优先的 Agent 框架，工作流驱动 + 内置可观测性。![GitHub stars](https://img.shields.io/github/stars/mastra-ai/mastra?style=flat-square)
-- [AgentGPT](https://github.com/reworkd/AgentGPT) - 📦 **Archived**（2025-04）。浏览器中部署 Agent。第一波代表项目，仅作历史参考。![GitHub stars](https://img.shields.io/github/stars/reworkd/AgentGPT?style=flat-square)
-- [BabyAGI](https://github.com/yoheinakajima/babyagi) - 用 LLM 创建、排序、执行任务的 AI 任务管理。![GitHub stars](https://img.shields.io/github/stars/yoheinakajima/babyagi?style=flat-square)
-- [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - 💤 **Stale**（2025-01 起无更新）。开源自主 Agent 框架。![GitHub stars](https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=flat-square)
-- [Semantic Kernel](https://github.com/microsoft/semantic-kernel) - 把 LLM 嵌入应用。C# / Python / Java。![GitHub stars](https://img.shields.io/github/stars/microsoft/semantic-kernel?style=flat-square)
-- [Phidata (Agno)](https://github.com/phidatahq/phidata) - 多模态 Agent + 记忆 + 知识 + 工具 + 推理。![GitHub stars](https://img.shields.io/github/stars/phidatahq/phidata?style=flat-square)
-- [DSPy](https://github.com/stanfordnlp/dspy) - "编程而不是写 prompt" 的语言模型框架。![GitHub stars](https://img.shields.io/github/stars/stanfordnlp/dspy?style=flat-square)
-- [OpenClaw](https://github.com/openclaw/openclaw) - 🆕 个人 AI Agent 平台：技能、记忆、多渠道消息、Dreaming（三阶段记忆巩固）、Canvas / A2UI、ACP 编程 harness 集成、Standing Orders。**v2026.5.12**（2026-05-14）支持 Opus 4.7、Kimi K2.6、`/think xhigh`，新增 native model identity 注入、隔离 Telegram polling worker、MEMORY.md 自动压缩、protected config paths。![GitHub stars](https://img.shields.io/github/stars/openclaw/openclaw?style=flat-square)
-- [Dify](https://github.com/langgenius/dify) - 🇨🇳 开源 LLM 应用开发平台 + 可视化 Agent 构建。![GitHub stars](https://img.shields.io/github/stars/langgenius/dify?style=flat-square)
-- [Haystack Agents](https://github.com/deepset-ai/haystack) - 端到端 LLM 框架，Agent 流水线。![GitHub stars](https://img.shields.io/github/stars/deepset-ai/haystack?style=flat-square)
+- [AutoGen](https://github.com/microsoft/autogen) - 微软多 Agent 对话框架（已并入 Microsoft Agent Framework）。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fmicrosoft%2Fautogen&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Google Agent Development Kit (ADK)](https://github.com/google/adk-python) - 🆕 与 Gemini + Vertex AI 深度集成的模块化框架。层级 Agent 组合。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fgoogle%2Fadk-python&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [OpenAI Agents SDK](https://github.com/openai/openai-agents-python) - 🆕 [2026-04-15 升级](https://openai.com/index/the-next-evolution-of-the-agents-sdk/) —— 原生沙箱、MCP、子 Agent handoff、Codex 文件操作。生产级多 Agent。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fopenai%2Fopenai-agents-python&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [MetaGPT](https://github.com/geekan/MetaGPT) - 🇨🇳 给 LLM 分配 SOP 软件团队角色（PM / 架构师 / 工程师）。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fgeekan%2FMetaGPT&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Mastra](https://github.com/mastra-ai/mastra) - 🆕 TypeScript 优先的 Agent 框架，工作流驱动 + 内置可观测性。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fmastra-ai%2Fmastra&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [AgentGPT](https://github.com/reworkd/AgentGPT) - 📦 **Archived**（2025-04）。浏览器中部署 Agent。第一波代表项目，仅作历史参考。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Freworkd%2FAgentGPT&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [BabyAGI](https://github.com/yoheinakajima/babyagi) - 用 LLM 创建、排序、执行任务的 AI 任务管理。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fyoheinakajima%2Fbabyagi&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - 💤 **Stale**（2025-01 起无更新）。开源自主 Agent 框架。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FTransformerOptimus%2FSuperAGI&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Semantic Kernel](https://github.com/microsoft/semantic-kernel) - 把 LLM 嵌入应用。C# / Python / Java。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fmicrosoft%2Fsemantic-kernel&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Phidata (Agno)](https://github.com/phidatahq/phidata) - 多模态 Agent + 记忆 + 知识 + 工具 + 推理。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fphidatahq%2Fphidata&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [DSPy](https://github.com/stanfordnlp/dspy) - "编程而不是写 prompt" 的语言模型框架。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fstanfordnlp%2Fdspy&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [OpenClaw](https://github.com/openclaw/openclaw) - 🆕 个人 AI Agent 平台：技能、记忆、多渠道消息、Dreaming（三阶段记忆巩固）、Canvas / A2UI、ACP 编程 harness 集成、Standing Orders。**v2026.5.12**（2026-05-14）支持 Opus 4.7、Kimi K2.6、`/think xhigh`，新增 native model identity 注入、隔离 Telegram polling worker、MEMORY.md 自动压缩、protected config paths。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fopenclaw%2Fopenclaw&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Dify](https://github.com/langgenius/dify) - 🇨🇳 开源 LLM 应用开发平台 + 可视化 Agent 构建。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Flanggenius%2Fdify&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Haystack Agents](https://github.com/deepset-ai/haystack) - 端到端 LLM 框架，Agent 流水线。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fdeepset-ai%2Fhaystack&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Vellum AI](https://www.vellum.ai/) - 🆕 闭源 SaaS 生产级 Agent 框架：Prompt 构建 / 评测 / 版本 / 可观测性一体。
-- [FastAgency](https://github.com/airtai/fastagency) - 🆕 高速推理 + 生产规模化框架。![GitHub stars](https://img.shields.io/github/stars/airtai/fastagency?style=flat-square)
-- [Rasa](https://github.com/RasaHQ/rasa) - 强意图识别 + 对话管理的开源对话 AI。![GitHub stars](https://img.shields.io/github/stars/RasaHQ/rasa?style=flat-square)
+- [FastAgency](https://github.com/airtai/fastagency) - 🆕 高速推理 + 生产规模化框架。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fairtai%2Ffastagency&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Rasa](https://github.com/RasaHQ/rasa) - 强意图识别 + 对话管理的开源对话 AI。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FRasaHQ%2Frasa&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Lindy](https://www.lindy.ai/) - 🆕 商务用户向无代码 Agent，可视化工作流。
-- [Octomind](https://github.com/muvon/octomind) - 🆕 Rust 开源 AI Agent 运行时。多模型（13+），社区贡献的领域 Agent（开发 / 医疗 / 法律 / DevOps），支持 MCP 运行时自扩展。Apache 2.0。![GitHub stars](https://img.shields.io/github/stars/muvon/octomind?style=flat-square)
+- [Octomind](https://github.com/muvon/octomind) - 🆕 Rust 开源 AI Agent 运行时。多模型（13+），社区贡献的领域 Agent（开发 / 医疗 / 法律 / DevOps），支持 MCP 运行时自扩展。Apache 2.0。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fmuvon%2Foctomind&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Microsoft AI Agent Governance Toolkit](https://www.helpnetsecurity.com/2026/04/03/microsoft-ai-agent-governance-toolkit/) - 🆕 **2026-04-03**。开源治理工具包，把运行时安全策略以策略即代码方式应用到 LangChain / AutoGen 等框架。
-- [Bernstein](https://github.com/sipyourdrink-ltd/bernstein) - 🆕 Python 编排器，统一管理 40+ 个 CLI 编程 Agent（Claude Code、Codex、Gemini CLI、Cursor、Aider 等）。一次 LLM 计划调用后，调度、git worktree 隔离、质量闸门、HMAC 链式审计都是确定性的。Apache 2.0。![GitHub stars](https://img.shields.io/github/stars/sipyourdrink-ltd/bernstein?style=flat-square)
+- [Bernstein](https://github.com/sipyourdrink-ltd/bernstein) - 🆕 Python 编排器，统一管理 40+ 个 CLI 编程 Agent（Claude Code、Codex、Gemini CLI、Cursor、Aider 等）。一次 LLM 计划调用后，调度、git worktree 隔离、质量闸门、HMAC 链式审计都是确定性的。Apache 2.0。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fsipyourdrink-ltd%2Fbernstein&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Genkit Middleware](https://developers.googleblog.com/announcing-genkit-middleware-intercept-extend-and-harden-your-agentic-apps/) - 🆕 **2026-05-14**。Google 为开源 Genkit 框架增加中间件体系 —— 在 generate / model / tool 三层给出可组合 hooks：重试、模型降级、工具人工审批、SKILL.md 技能注入、限定范围的文件访问。先支持 TS / Go / Dart，Python 跟进中。
 - [LlamaIndex ↔ Google Agents API 集成](https://www.kucoin.com/news/flash/google-launches-agents-api-llama-index-integrates-llamaparse-for-unstructured-document-processing) - 🆕 **2026-05-20**。LlamaIndex 为 Google 刚发布的 Agents API 交付模板，在沙箱化 Linux 环境里暴露 **LlamaParse** / **LiteParse** 处理非结构化文档；同期上线的还有沙箱运行时 **Sandboxed-Lit** 与面向 Agent 的首个 OCR 评测集 **ParseBench**。
 - [Microsoft Agent 365](https://techcommunity.microsoft.com/blog/agent-365-blog/what%E2%80%99s-new-in-agent-365-may-2026/4516340) - 🆕 **2026 年 5 月 1 日 GA**。面向 AI Agent 的企业级可观测、治理与安全平台；2026 年 5 月更新加入面向 Agent 的 SASE、威胁检测/阻断与 Agent 威胁狩猎工作流。
-- [Ontheia](https://github.com/Ontheia/ontheia) - 自托管开源 AI Agent 平台。多模型供应商（Claude / OpenAI / Gemini / Ollama），原生支持 MCP，Chain Engine 可视化工作流编排，长期记忆（pgvector），多用户 RBAC，架构层面合规 GDPR。AGPL-3.0。 ![GitHub stars](https://img.shields.io/github/stars/Ontheia/ontheia?style=flat-square)
-- [Coze Studio](https://github.com/coze-dev/coze-studio) - 🆕 🇨🇳 字节跳动开源的 AI Agent 开发平台——一体化可视化工具，简化 Agent 的创建、调试、部署。Apache-2.0，20K+ stars；Coze.com 的开源对照版。![GitHub stars](https://img.shields.io/github/stars/coze-dev/coze-studio?style=flat-square)
+- [Ontheia](https://github.com/Ontheia/ontheia) - 自托管开源 AI Agent 平台。多模型供应商（Claude / OpenAI / Gemini / Ollama），原生支持 MCP，Chain Engine 可视化工作流编排，长期记忆（pgvector），多用户 RBAC，架构层面合规 GDPR。AGPL-3.0。 ![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FOntheia%2Fontheia&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Coze Studio](https://github.com/coze-dev/coze-studio) - 🆕 🇨🇳 字节跳动开源的 AI Agent 开发平台——一体化可视化工具，简化 Agent 的创建、调试、部署。Apache-2.0，20K+ stars；Coze.com 的开源对照版。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fcoze-dev%2Fcoze-studio&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 
 ---
 
@@ -449,16 +449,16 @@
 *用来设计、调试、上线 Agent 工作流的可视化（或低代码）环境。*
 
 - [LangGraph Studio](https://www.langchain.com/langgraph) - LangGraph 的可视化调试器：步进状态、回放回合、中途改写消息。
-- [Dify](https://github.com/langgenius/dify) - 🇨🇳 拖拽式 Agent 工作流构建。生产级使用最广。![GitHub stars](https://img.shields.io/github/stars/langgenius/dify?style=flat-square)
-- [Agenta](https://github.com/agenta-ai/agenta) - 🆕 一体化 LLMOps：prompt playground + 管理 + 评测 + 可观测性。![GitHub stars](https://img.shields.io/github/stars/agenta-ai/agenta?style=flat-square)
+- [Dify](https://github.com/langgenius/dify) - 🇨🇳 拖拽式 Agent 工作流构建。生产级使用最广。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Flanggenius%2Fdify&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Agenta](https://github.com/agenta-ai/agenta) - 🆕 一体化 LLMOps：prompt playground + 管理 + 评测 + 可观测性。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fagenta-ai%2Fagenta&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Vellum AI](https://www.vellum.ai/) - 闭源 SaaS。
-- [Cozeloop](https://github.com/coze-dev/cozeloop) - 🇨🇳 🆕 字节 Coze 团队开源的 Agent 优化平台。Apache 2.0。![GitHub stars](https://img.shields.io/github/stars/coze-dev/cozeloop?style=flat-square)
+- [Cozeloop](https://github.com/coze-dev/cozeloop) - 🇨🇳 🆕 字节 Coze 团队开源的 Agent 优化平台。Apache 2.0。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fcoze-dev%2Fcozeloop&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Restack](https://www.restack.io/) - 持久化 Agent 运行时 + 可视化编辑（Temporal 风格 replay）。开源示例：[restackio/examples-python](https://github.com/restackio/examples-python)。
-- [Bisheng](https://github.com/dataelement/bisheng) - 🇨🇳 企业级开源 LLM DevOps：工作流 / RAG / Agent / 微调 / 数据集 / 评测 / 可观测性。Apache 2.0。![GitHub stars](https://img.shields.io/github/stars/dataelement/bisheng?style=flat-square)
-- [n8n](https://github.com/n8n-io/n8n) - 通用工作流自动化，2026 年常被当作 Agent 画布用。400+ 集成 + 原生 AI 节点。Fair-code。![GitHub stars](https://img.shields.io/github/stars/n8n-io/n8n?style=flat-square)
-- [Mastra](https://github.com/mastra-ai/mastra) - 🆕 强约束风格的 TypeScript Agent 框架，自带 RAG、可观测性、MCP 与可视化工作流构建器；21K+ stars。 ![GitHub stars](https://img.shields.io/github/stars/mastra-ai/mastra?style=flat-square)
-- [VoltAgent](https://github.com/VoltAgent/voltagent) - 🆕 端到端 TypeScript AI Agent 工程平台，覆盖记忆、RAG、guardrail、MCP、语音与工作流。 ![GitHub stars](https://img.shields.io/github/stars/VoltAgent/voltagent?style=flat-square)
-- [Coze Studio](https://github.com/coze-dev/coze-studio) - 🆕 🇨🇳 字节 Coze 团队的开源 Agent IDE / 可视化构建器。拖拽式工作流、插件市场、调试面板、多 LLM 供应商支持。Apache-2.0。![GitHub stars](https://img.shields.io/github/stars/coze-dev/coze-studio?style=flat-square)
+- [Bisheng](https://github.com/dataelement/bisheng) - 🇨🇳 企业级开源 LLM DevOps：工作流 / RAG / Agent / 微调 / 数据集 / 评测 / 可观测性。Apache 2.0。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fdataelement%2Fbisheng&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [n8n](https://github.com/n8n-io/n8n) - 通用工作流自动化，2026 年常被当作 Agent 画布用。400+ 集成 + 原生 AI 节点。Fair-code。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fn8n-io%2Fn8n&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Mastra](https://github.com/mastra-ai/mastra) - 🆕 强约束风格的 TypeScript Agent 框架，自带 RAG、可观测性、MCP 与可视化工作流构建器；21K+ stars。 ![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fmastra-ai%2Fmastra&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [VoltAgent](https://github.com/VoltAgent/voltagent) - 🆕 端到端 TypeScript AI Agent 工程平台，覆盖记忆、RAG、guardrail、MCP、语音与工作流。 ![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FVoltAgent%2Fvoltagent&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Coze Studio](https://github.com/coze-dev/coze-studio) - 🆕 🇨🇳 字节 Coze 团队的开源 Agent IDE / 可视化构建器。拖拽式工作流、插件市场、调试面板、多 LLM 供应商支持。Apache-2.0。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fcoze-dev%2Fcoze-studio&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 
 ---
 
@@ -466,21 +466,21 @@
 
 *让 Agent 拥有持久记忆与上下文管理的系统。*
 
-- [Letta (MemGPT)](https://github.com/letta-ai/letta) - 长期记忆 + 自定义工具的 LLM 服务。![GitHub stars](https://img.shields.io/github/stars/letta-ai/letta?style=flat-square)
-- [Mem0](https://github.com/mem0ai/mem0) - LLM 应用的自我提升记忆层。![GitHub stars](https://img.shields.io/github/stars/mem0ai/mem0?style=flat-square)
-- [Zep](https://github.com/getzep/zep) - AI 助理与 Agent 的长期记忆。![GitHub stars](https://img.shields.io/github/stars/getzep/zep?style=flat-square)
-- [agent-memory](https://github.com/Zijian-Ni/agent-memory) - 跨会话上下文持久化的轻量 Agent 记忆框架。![GitHub stars](https://img.shields.io/github/stars/Zijian-Ni/agent-memory?style=flat-square)
-- [LangMem](https://github.com/langchain-ai/langmem) - 🆕 从 LangGraph 0.3.19（2026 年 4 月）拆出的独立库；为 Agent 提供长期情景记忆 + 程序性记忆原语。![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langmem?style=flat-square)
-- [Motorhead](https://github.com/getmetal/motorhead) - 💤 **Stale**（2025-07 起无更新）。LLM 的记忆 + 上下文管理服务。![GitHub stars](https://img.shields.io/github/stars/getmetal/motorhead?style=flat-square)
-- [ChromaDB](https://github.com/chroma-core/chroma) - AI 原生开源向量数据库。![GitHub stars](https://img.shields.io/github/stars/chroma-core/chroma?style=flat-square)
-- [Cognee](https://github.com/topoteretes/cognee) - 用图 + LLM + 向量检索得到确定性输出。![GitHub stars](https://img.shields.io/github/stars/topoteretes/cognee?style=flat-square)
-- [LangGraph Memory](https://github.com/langchain-ai/langgraph) - 🆕 LangGraph 内置的持久化与 checkpoint。![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langgraph?style=flat-square)
-- [Graphiti](https://github.com/getzep/graphiti) - 🆕 时序感知的知识图记忆。![GitHub stars](https://img.shields.io/github/stars/getzep/graphiti?style=flat-square)
+- [Letta (MemGPT)](https://github.com/letta-ai/letta) - 长期记忆 + 自定义工具的 LLM 服务。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fletta-ai%2Fletta&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Mem0](https://github.com/mem0ai/mem0) - LLM 应用的自我提升记忆层。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fmem0ai%2Fmem0&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Zep](https://github.com/getzep/zep) - AI 助理与 Agent 的长期记忆。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fgetzep%2Fzep&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [agent-memory](https://github.com/Zijian-Ni/agent-memory) - 跨会话上下文持久化的轻量 Agent 记忆框架。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FZijian-Ni%2Fagent-memory&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [LangMem](https://github.com/langchain-ai/langmem) - 🆕 从 LangGraph 0.3.19（2026 年 4 月）拆出的独立库；为 Agent 提供长期情景记忆 + 程序性记忆原语。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Flangchain-ai%2Flangmem&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Motorhead](https://github.com/getmetal/motorhead) - 💤 **Stale**（2025-07 起无更新）。LLM 的记忆 + 上下文管理服务。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fgetmetal%2Fmotorhead&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [ChromaDB](https://github.com/chroma-core/chroma) - AI 原生开源向量数据库。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fchroma-core%2Fchroma&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Cognee](https://github.com/topoteretes/cognee) - 用图 + LLM + 向量检索得到确定性输出。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Ftopoteretes%2Fcognee&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [LangGraph Memory](https://github.com/langchain-ai/langgraph) - 🆕 LangGraph 内置的持久化与 checkpoint。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Flangchain-ai%2Flanggraph&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Graphiti](https://github.com/getzep/graphiti) - 🆕 时序感知的知识图记忆。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fgetzep%2Fgraphiti&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Claude Managed Agents Memory](https://platform.claude.com/docs/en/release-notes/overview) - 🆕 **2026-04-23** 公测。把读写记忆挂载到 Agent 文件系统，实现跨会话学习。
 - [Mem0g (graph variant)](https://mem0.ai/blog/state-of-ai-agent-memory-2026) - 🆕 Mem0 的图增强姊妹版，擅长多跳问答；截至 2026 年初已有 21+ 框架集成。
-- [OpenViking](https://github.com/volcengine/OpenViking) - 🆕 🇨🇳 字节火山引擎开源的 Agent 上下文数据库（适配 OpenClaw 等）。用文件系统范式统一管理记忆、资源与技能，实现分层上下文交付与自演化。AGPL-3.0，25K+ stars。![GitHub stars](https://img.shields.io/github/stars/volcengine/OpenViking?style=flat-square)
-- [ReMe](https://github.com/agentscope-ai/ReMe) - 🆕 🇨🇳 阿里 AgentScope 出品的 Agent 记忆管理工具包——文件系记忆 + 向量记忆双轨，专门处理上下文窗口受限与无状态会话两大痛点。Apache-2.0。![GitHub stars](https://img.shields.io/github/stars/agentscope-ai/ReMe?style=flat-square)
-- [taOSmd](https://github.com/jaylfc/taosmd) - 🆕 ⚠️ **Unverified.** 本地优先、基于追加式转录的 Agent 记忆：类型化时序知识图（修正后的新事实自动覆盖旧事实）+ 向量与 BM25 混合检索。面向小型本地模型调优，完全离线（8 GB 单板机即可运行）。作者声称 LongMemEval-S 端到端 Judge 97%；单作者维护，审核时 44 stars，基准可按 `docs/benchmarks.md` 复现。MIT。![GitHub stars](https://img.shields.io/github/stars/jaylfc/taosmd?style=flat-square)
+- [OpenViking](https://github.com/volcengine/OpenViking) - 🆕 🇨🇳 字节火山引擎开源的 Agent 上下文数据库（适配 OpenClaw 等）。用文件系统范式统一管理记忆、资源与技能，实现分层上下文交付与自演化。AGPL-3.0，25K+ stars。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fvolcengine%2FOpenViking&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [ReMe](https://github.com/agentscope-ai/ReMe) - 🆕 🇨🇳 阿里 AgentScope 出品的 Agent 记忆管理工具包——文件系记忆 + 向量记忆双轨，专门处理上下文窗口受限与无状态会话两大痛点。Apache-2.0。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fagentscope-ai%2FReMe&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [taOSmd](https://github.com/jaylfc/taosmd) - 🆕 ⚠️ **Unverified.** 本地优先、基于追加式转录的 Agent 记忆：类型化时序知识图（修正后的新事实自动覆盖旧事实）+ 向量与 BM25 混合检索。面向小型本地模型调优，完全离线（8 GB 单板机即可运行）。作者声称 LongMemEval-S 端到端 Judge 97%；单作者维护，审核时 44 stars，基准可按 `docs/benchmarks.md` 复现。MIT。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fjaylfc%2Ftaosmd&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 
 ---
 
@@ -488,26 +488,26 @@
 
 *让 Agent 接入外部服务与 API 的协议与工具。*
 
-- [Model Context Protocol (MCP)](https://github.com/modelcontextprotocol/servers) - 工具调用的事实标准。![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=flat-square)
-- [mcp-gateway](https://github.com/Zijian-Ni/mcp-gateway) - MCP 网关。![GitHub stars](https://img.shields.io/github/stars/Zijian-Ni/mcp-gateway?style=flat-square)
-- [Composio](https://github.com/ComposioHQ/composio) - 150+ 工具 + 托管认证一体化 Agent 集成平台。![GitHub stars](https://img.shields.io/github/stars/ComposioHQ/composio?style=flat-square)
+- [Model Context Protocol (MCP)](https://github.com/modelcontextprotocol/servers) - 工具调用的事实标准。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fmodelcontextprotocol%2Fservers&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [mcp-gateway](https://github.com/Zijian-Ni/mcp-gateway) - MCP 网关。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FZijian-Ni%2Fmcp-gateway&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Composio](https://github.com/ComposioHQ/composio) - 150+ 工具 + 托管认证一体化 Agent 集成平台。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FComposioHQ%2Fcomposio&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Toolhouse](https://toolhouse.ai/) - AI 工具云：存储、管理、执行工具。
-- [LangChain Tools](https://github.com/langchain-ai/langchain) - LangChain 生态广泛的工具集成。![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=flat-square)
-- [Arcade AI](https://github.com/ArcadeAI/arcade-ai) - AI Agent 工具调用平台。![GitHub stars](https://img.shields.io/github/stars/ArcadeAI/arcade-ai?style=flat-square)
-- [E2B](https://github.com/e2b-dev/e2b) - AI Agent 的开源云沙箱。![GitHub stars](https://img.shields.io/github/stars/e2b-dev/e2b?style=flat-square)
-- [Browser Use](https://github.com/browser-use/browser-use) - 让 AI Agent 操控浏览器。![GitHub stars](https://img.shields.io/github/stars/browser-use/browser-use?style=flat-square)
-- [Firecrawl](https://github.com/mendableai/firecrawl) - 🆕 把网站变成 LLM-ready 数据。![GitHub stars](https://img.shields.io/github/stars/mendableai/firecrawl?style=flat-square)
-- [Crawl4AI](https://github.com/unclecode/crawl4ai) - 🆕 LLM 友好的开源爬虫。![GitHub stars](https://img.shields.io/github/stars/unclecode/crawl4ai?style=flat-square)
-- [Stagehand](https://github.com/browserbase/stagehand) - 🆕 Browserbase 出品的 AI 浏览器自动化。![GitHub stars](https://img.shields.io/github/stars/browserbase/stagehand?style=flat-square)
+- [LangChain Tools](https://github.com/langchain-ai/langchain) - LangChain 生态广泛的工具集成。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Flangchain-ai%2Flangchain&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Arcade AI](https://github.com/ArcadeAI/arcade-ai) - AI Agent 工具调用平台。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FArcadeAI%2Farcade-ai&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [E2B](https://github.com/e2b-dev/e2b) - AI Agent 的开源云沙箱。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fe2b-dev%2Fe2b&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Browser Use](https://github.com/browser-use/browser-use) - 让 AI Agent 操控浏览器。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fbrowser-use%2Fbrowser-use&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Firecrawl](https://github.com/mendableai/firecrawl) - 🆕 把网站变成 LLM-ready 数据。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fmendableai%2Ffirecrawl&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Crawl4AI](https://github.com/unclecode/crawl4ai) - 🆕 LLM 友好的开源爬虫。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Funclecode%2Fcrawl4ai&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Stagehand](https://github.com/browserbase/stagehand) - 🆕 Browserbase 出品的 AI 浏览器自动化。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fbrowserbase%2Fstagehand&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [AgentQL](https://www.agentql.com/) - 🆕 用语义化查询语言操控网页。
 - [StackOne](https://www.stackone.com/) - 🆕 HR / CRM / ATS 统一 API。
-- [The Colony](https://thecolony.cc) - ⚠️ **Unverified**。自称 Agent 间社交网络 + REST API + Python / TS / Go SDK + MCP server。组织与 SDK 仓库均 <30 天，0~2 star，单维护者；同款 PR 投了 15+ 个 awesome 列表。**仅作可见性收录**，使用前请自行评估。![GitHub stars](https://img.shields.io/github/stars/TheColonyCC/colony-sdk-python?style=flat-square)
+- [The Colony](https://thecolony.cc) - ⚠️ **Unverified**。自称 Agent 间社交网络 + REST API + Python / TS / Go SDK + MCP server。组织与 SDK 仓库均 <30 天，0~2 star，单维护者；同款 PR 投了 15+ 个 awesome 列表。**仅作可见性收录**，使用前请自行评估。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FTheColonyCC%2Fcolony-sdk-python&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [AWS MCP Server](https://aws.amazon.com/about-aws/whats-new/2026/05/aws-mcp-server/) - 🆕 **2026 年 5 月 6 日 GA**。AWS 官方托管的 MCP 服务器，让编码 Agent 安全可审计地调用任意 AWS API；多步操作可在沙箱化 Python 环境中执行，用 agent skills 取代传统 "agent SOP"。AWS 第一方出品。
 - [Google Workspace MCP Server](https://workspaceupdates.googleblog.com/2026/05/agent-tools-and-security-updates-for-workspace-developers.html) - 🆕 **2026 年 5 月 1 日起逐步上线**。Workspace 原生 MCP 服务器，将 Gmail / Drive / Calendar / Docs / Sheets 暴露给 MCP 客户端，OAuth 范围由管理员控制并带审计日志。
 - [iManage MCP Server](https://imanage.com/resources/resource-center/news/mcp-server-available-broader-ai-ecosystem/) - 🆕 **2026 年 5 月 14 日**。iManage 知识工作平台的原生 MCP 入口，任何 AI 客户端无需定制即可安全读写 iManage 文档。首家面向公众的法律/专业服务 SaaS MCP server。
 - [Power Platform Canvas Authoring MCP Server](https://www.microsoft.com/en-us/power-platform/blog/2026/05/14/whats-new-in-power-platform-may-2026-feature-update/) - 🆕 **2026 年 5 月 14 日**。Microsoft Power Platform 将 Canvas Apps 的 authoring 能力暴露为 MCP 服务器，Copilot / Claude Code 可通过自然语言驱动 InfoPath → Canvas Apps 迁移。
-- [Coinbase AgentKit](https://github.com/coinbase/agentkit) - 🆕 "每个 AI Agent 都该有自己的钱包"。Coinbase 官方 SDK 给 Agent 配一个 EVM 钱包，可支付 API、签署交易、在 Base / Ethereum 上链交易。Apache-2.0。![GitHub stars](https://img.shields.io/github/stars/coinbase/agentkit?style=flat-square)
-- [Bifrost (Maxim AI)](https://github.com/maximhq/bifrost) - 🆕 开源企业级 AI 网关（Apache-2.0）——支持 1000+ 模型，自适应负载均衡、集群模式、guardrail、OAuth 2.0 + PKCE、网关层提示注入防御；5k RPS 下额外开销 <100µs。![GitHub stars](https://img.shields.io/github/stars/maximhq/bifrost?style=flat-square)
+- [Coinbase AgentKit](https://github.com/coinbase/agentkit) - 🆕 "每个 AI Agent 都该有自己的钱包"。Coinbase 官方 SDK 给 Agent 配一个 EVM 钱包，可支付 API、签署交易、在 Base / Ethereum 上链交易。Apache-2.0。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fcoinbase%2Fagentkit&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Bifrost (Maxim AI)](https://github.com/maximhq/bifrost) - 🆕 开源企业级 AI 网关（Apache-2.0）——支持 1000+ 模型，自适应负载均衡、集群模式、guardrail、OAuth 2.0 + PKCE、网关层提示注入防御；5k RPS 下额外开销 <100µs。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fmaximhq%2Fbifrost&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Anthropic 创意工具连接器](https://www.anthropic.com/news/claude-for-creative-work) - 🆕 **2026 年 4 月 28 日**。9 个基于 MCP 的 Claude 连接器，对接 Adobe（Creative Cloud 50+ 工具，含 Photoshop / Premiere / Express）、Blender、Autodesk Fusion、Ableton、Splice、Canva Affinity、SketchUp、Resolume。建立在 MCP 开放标准上，其他 LLM 客户端也能直接使用。
 
 ---
@@ -516,13 +516,13 @@
 
 *让 Agent 安全执行生成代码 / shell 命令的隔离运行时。一旦让 Agent 自由活动，这是必备基础设施。*
 
-- [E2B](https://github.com/e2b-dev/E2B) - AI 生成代码的开源云沙箱。OpenAI Agents SDK 默认执行层。![GitHub stars](https://img.shields.io/github/stars/e2b-dev/E2B?style=flat-square)
-- [Daytona](https://github.com/daytonaio/daytona) - 🆕 弹性、安全的 AI 生成代码运行基础设施。每个 Agent 任务一个隔离的开发环境。AGPL-3.0。![GitHub stars](https://img.shields.io/github/stars/daytonaio/daytona?style=flat-square)
-- [Modal](https://modal.com/) - 流行的 Agent 计算 + GPU 任务 + Python 沙箱 Serverless 平台。`modal-client` 是官方 SDK。![GitHub stars](https://img.shields.io/github/stars/modal-labs/modal-client?style=flat-square)
-- [Microsandbox](https://github.com/superradcompany/microsandbox) - 🆕 本地、可编程的 microVM 沙箱。隐私优先，本机执行，不依赖云。![GitHub stars](https://img.shields.io/github/stars/superradcompany/microsandbox?style=flat-square)
-- [SandboxFusion](https://github.com/bytedance/SandboxFusion) - 🇨🇳 字节多语言代码执行沙箱，面向 Agent / 模型评测流水线。Apache 2.0。![GitHub stars](https://img.shields.io/github/stars/bytedance/SandboxFusion?style=flat-square)
+- [E2B](https://github.com/e2b-dev/E2B) - AI 生成代码的开源云沙箱。OpenAI Agents SDK 默认执行层。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fe2b-dev%2FE2B&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Daytona](https://github.com/daytonaio/daytona) - 🆕 弹性、安全的 AI 生成代码运行基础设施。每个 Agent 任务一个隔离的开发环境。AGPL-3.0。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fdaytonaio%2Fdaytona&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Modal](https://modal.com/) - 流行的 Agent 计算 + GPU 任务 + Python 沙箱 Serverless 平台。`modal-client` 是官方 SDK。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fmodal-labs%2Fmodal-client&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Microsandbox](https://github.com/superradcompany/microsandbox) - 🆕 本地、可编程的 microVM 沙箱。隐私优先，本机执行，不依赖云。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fsuperradcompany%2Fmicrosandbox&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [SandboxFusion](https://github.com/bytedance/SandboxFusion) - 🇨🇳 字节多语言代码执行沙箱，面向 Agent / 模型评测流水线。Apache 2.0。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fbytedance%2FSandboxFusion&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Northflank](https://northflank.com/) - 通用容器 PaaS，常被用作 Agent 运行时（每任务临时环境 + GPU 池）。
-- [Firecracker](https://github.com/firecracker-microvm/firecracker) - E2B / Daytona / 多数 Agent 沙箱底层的 microVM 内核。自建沙箱时是基础原语。![GitHub stars](https://img.shields.io/github/stars/firecracker-microvm/firecracker?style=flat-square)
+- [Firecracker](https://github.com/firecracker-microvm/firecracker) - E2B / Daytona / 多数 Agent 沙箱底层的 microVM 内核。自建沙箱时是基础原语。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Ffirecracker-microvm%2Ffirecracker&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 
 ---
 
@@ -530,25 +530,25 @@
 
 *抵御 prompt 注入、数据泄漏、滥用的工具与框架。*
 
-- [prompt-firewall](https://github.com/Zijian-Ni/prompt-firewall) - LLM prompt 防火墙：检测 + 拦截注入。![GitHub stars](https://img.shields.io/github/stars/Zijian-Ni/prompt-firewall?style=flat-square)
-- [LLM Guard](https://github.com/protectai/llm-guard) - LLM 输入输出扫描安全工具包。![GitHub stars](https://img.shields.io/github/stars/protectai/llm-guard?style=flat-square)
-- [Rebuff](https://github.com/protectai/rebuff) - 📦 **Archived**（2024-08）。自我加固 prompt 注入检测器。![GitHub stars](https://img.shields.io/github/stars/protectai/rebuff?style=flat-square)
-- [Guardrails AI](https://github.com/guardrails-ai/guardrails) - LLM 输出验证与纠正。![GitHub stars](https://img.shields.io/github/stars/guardrails-ai/guardrails?style=flat-square)
-- [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) - 给 LLM 对话系统加可编程护栏的工具包。![GitHub stars](https://img.shields.io/github/stars/NVIDIA/NeMo-Guardrails?style=flat-square)
-- [Vigil](https://github.com/deadbits/vigil-llm) - 💤 **Stale**（2024-01 起无更新）。LLM 安全扫描器。![GitHub stars](https://img.shields.io/github/stars/deadbits/vigil-llm?style=flat-square)
+- [prompt-firewall](https://github.com/Zijian-Ni/prompt-firewall) - LLM prompt 防火墙：检测 + 拦截注入。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FZijian-Ni%2Fprompt-firewall&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [LLM Guard](https://github.com/protectai/llm-guard) - LLM 输入输出扫描安全工具包。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fprotectai%2Fllm-guard&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Rebuff](https://github.com/protectai/rebuff) - 📦 **Archived**（2024-08）。自我加固 prompt 注入检测器。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fprotectai%2Frebuff&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Guardrails AI](https://github.com/guardrails-ai/guardrails) - LLM 输出验证与纠正。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fguardrails-ai%2Fguardrails&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) - 给 LLM 对话系统加可编程护栏的工具包。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FNVIDIA%2FNeMo-Guardrails&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Vigil](https://github.com/deadbits/vigil-llm) - 💤 **Stale**（2024-01 起无更新）。LLM 安全扫描器。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fdeadbits%2Fvigil-llm&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Lakera Guard](https://www.lakera.ai/) - 企业级 AI 安全平台。
-- [Garak](https://github.com/NVIDIA/garak) - NVIDIA 出品的 LLM 漏洞扫描器。![GitHub stars](https://img.shields.io/github/stars/NVIDIA/garak?style=flat-square)
-- [Invariant Guardrails](https://github.com/invariantlabs-ai/invariant) - 🆕 Agent 运行时策略执行 + 安全检查。![GitHub stars](https://img.shields.io/github/stars/invariantlabs-ai/invariant?style=flat-square)
+- [Garak](https://github.com/NVIDIA/garak) - NVIDIA 出品的 LLM 漏洞扫描器。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FNVIDIA%2Fgarak&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Invariant Guardrails](https://github.com/invariantlabs-ai/invariant) - 🆕 Agent 运行时策略执行 + 安全检查。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Finvariantlabs-ai%2Finvariant&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Prompt Armor](https://promptarmor.com/) - 🆕 企业级 prompt 注入实时检测。
 - [Descope MCP Auth](https://www.descope.com/) - 🆕 MCP 服务的认证与授权层。
-- [AgentDojo](https://github.com/ethz-spylab/agentdojo) - 🆕 ETH 苏黎世评测工具调用 Agent 的 prompt 注入攻防的研究基准。![GitHub stars](https://img.shields.io/github/stars/ethz-spylab/agentdojo?style=flat-square)
-- [ModelScan](https://github.com/protectai/modelscan) - 扫描 ML 模型权重文件（Pickle / PyTorch / TF）的反序列化攻击。![GitHub stars](https://img.shields.io/github/stars/protectai/modelscan?style=flat-square)
-- [PyRIT](https://github.com/Azure/PyRIT) - 微软自动化红队框架。![GitHub stars](https://img.shields.io/github/stars/Azure/PyRIT?style=flat-square)
-- [RAMPART](https://github.com/microsoft/RAMPART) - 🆕 **2026 年 5 月 20 日**。Microsoft 出品的 pytest 原生、面向 Agentic AI 的安全/可靠性测试框架。开发者侧白盒，与 PyRIT 互补——跨提示注入探针、良性失败断言、危害类别覆盖、统计阈值（如 80%+ 的运行需达到安全标准）。可直接接入 CI/CD。MIT。 ![GitHub stars](https://img.shields.io/github/stars/microsoft/RAMPART?style=flat-square)
+- [AgentDojo](https://github.com/ethz-spylab/agentdojo) - 🆕 ETH 苏黎世评测工具调用 Agent 的 prompt 注入攻防的研究基准。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fethz-spylab%2Fagentdojo&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [ModelScan](https://github.com/protectai/modelscan) - 扫描 ML 模型权重文件（Pickle / PyTorch / TF）的反序列化攻击。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fprotectai%2Fmodelscan&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [PyRIT](https://github.com/Azure/PyRIT) - 微软自动化红队框架。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FAzure%2FPyRIT&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [RAMPART](https://github.com/microsoft/RAMPART) - 🆕 **2026 年 5 月 20 日**。Microsoft 出品的 pytest 原生、面向 Agentic AI 的安全/可靠性测试框架。开发者侧白盒，与 PyRIT 互补——跨提示注入探针、良性失败断言、危害类别覆盖、统计阈值（如 80%+ 的运行需达到安全标准）。可直接接入 CI/CD。MIT。 ![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fmicrosoft%2FRAMPART&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Clarity (Microsoft)](https://www.microsoft.com/en-us/security/blog/2026/05/20/introducing-rampart-and-clarity-open-source-tools-to-bring-safety-into-agent-development-workflow/) - 🆕 **2026 年 5 月 20 日**。RAMPART 的姊妹工具。AI Agent 的结构化设计评审工具——在写代码前生成关于意图、风险与行为的 "living artifacts"。Microsoft AI Red Team 的内部实践开源版。
-- [MCP Gateway & Registry](https://github.com/agentic-community/mcp-gateway-registry) - 🆕 企业级 MCP 网关与注册中心：集中托管 AI 开发工具，OAuth 认证、动态工具发现、审计链、Keycloak / Entra 集成。Apache-2.0。![GitHub stars](https://img.shields.io/github/stars/agentic-community/mcp-gateway-registry?style=flat-square)
+- [MCP Gateway & Registry](https://github.com/agentic-community/mcp-gateway-registry) - 🆕 企业级 MCP 网关与注册中心：集中托管 AI 开发工具，OAuth 认证、动态工具发现、审计链、Keycloak / Entra 集成。Apache-2.0。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fagentic-community%2Fmcp-gateway-registry&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [LangSmith Sandboxes](https://www.langchain.com/blog/interrupt-2026-overview) - 🆕 **2026 年 5 月（Interrupt 2026）**。LangChain 托管的 Agent 安全代码执行环境——文件系统、shell、包管理、持久态、网络隔离。与 LangSmith Engine、Managed Deep Agents 同期发布。
-- [Nobulex](https://github.com/arian-gogani/nobulex) - ⚠️ **未验证。** AI Agent 行为的密码学回执（Ed25519 双签名 + 哈希链审计日志）。MIT。其双向回执原语已 [合并](https://github.com/microsoft/agent-governance-toolkit/pull/1333) 进 Microsoft Agent Governance Toolkit（PR #1302、#1333）。同一份投稿同期发往 15+ awesome list；提交者宣称的 "4,500 npm 月下载" 与 registry 实际数据不符（`@nobulex/mcp-server` 审计时仅约 19/月）。基于 Microsoft 的采用列入，仅作可见度参考，依赖前请自行评估。 ![GitHub stars](https://img.shields.io/github/stars/arian-gogani/nobulex?style=flat-square)
+- [Nobulex](https://github.com/arian-gogani/nobulex) - ⚠️ **未验证。** AI Agent 行为的密码学回执（Ed25519 双签名 + 哈希链审计日志）。MIT。其双向回执原语已 [合并](https://github.com/microsoft/agent-governance-toolkit/pull/1333) 进 Microsoft Agent Governance Toolkit（PR #1302、#1333）。同一份投稿同期发往 15+ awesome list；提交者宣称的 "4,500 npm 月下载" 与 registry 实际数据不符（`@nobulex/mcp-server` 审计时仅约 19/月）。基于 Microsoft 的采用列入，仅作可见度参考，依赖前请自行评估。 ![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Farian-gogani%2Fnobulex&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 
 ---
 
@@ -556,24 +556,24 @@
 
 *Agent 的检索增强生成与知识管理系统。*
 
-- [LlamaIndex](https://github.com/run-llama/llama_index) - LLM 应用的数据框架：摄取 / 结构化 / 访问私有数据。![GitHub stars](https://img.shields.io/github/stars/run-llama/llama_index?style=flat-square)
-- [LangChain Retrievers](https://github.com/langchain-ai/langchain) - LangChain 的检索器与文档加载器集合。![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=flat-square)
-- [Haystack](https://github.com/deepset-ai/haystack) - 端到端 RAG。![GitHub stars](https://img.shields.io/github/stars/deepset-ai/haystack?style=flat-square)
-- [Unstructured](https://github.com/Unstructured-IO/unstructured) - 文档预处理与提取。![GitHub stars](https://img.shields.io/github/stars/Unstructured-IO/unstructured?style=flat-square)
-- [Weaviate](https://github.com/weaviate/weaviate) - 开源向量数据库。![GitHub stars](https://img.shields.io/github/stars/weaviate/weaviate?style=flat-square)
-- [Qdrant](https://github.com/qdrant/qdrant) - Rust 实现的高性能向量搜索。![GitHub stars](https://img.shields.io/github/stars/qdrant/qdrant?style=flat-square)
-- [Milvus](https://github.com/milvus-io/milvus) - 大规模向量数据库。![GitHub stars](https://img.shields.io/github/stars/milvus-io/milvus?style=flat-square)
+- [LlamaIndex](https://github.com/run-llama/llama_index) - LLM 应用的数据框架：摄取 / 结构化 / 访问私有数据。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Frun-llama%2Fllama_index&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [LangChain Retrievers](https://github.com/langchain-ai/langchain) - LangChain 的检索器与文档加载器集合。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Flangchain-ai%2Flangchain&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Haystack](https://github.com/deepset-ai/haystack) - 端到端 RAG。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fdeepset-ai%2Fhaystack&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Unstructured](https://github.com/Unstructured-IO/unstructured) - 文档预处理与提取。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FUnstructured-IO%2Funstructured&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Weaviate](https://github.com/weaviate/weaviate) - 开源向量数据库。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fweaviate%2Fweaviate&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Qdrant](https://github.com/qdrant/qdrant) - Rust 实现的高性能向量搜索。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fqdrant%2Fqdrant&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Milvus](https://github.com/milvus-io/milvus) - 大规模向量数据库。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fmilvus-io%2Fmilvus&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Pinecone](https://www.pinecone.io/) - 托管向量数据库 SaaS。
-- [Chroma](https://github.com/chroma-core/chroma) - AI 原生开源向量数据库。![GitHub stars](https://img.shields.io/github/stars/chroma-core/chroma?style=flat-square)
-- [Vanna](https://github.com/vanna-ai/vanna) - 📦 **Archived**（2026-02）。RAG-for-SQL：自然语言对话数据库。![GitHub stars](https://img.shields.io/github/stars/vanna-ai/vanna?style=flat-square)
-- [LightRAG](https://github.com/HKUDS/LightRAG) - 🇨🇳 港大 HKUDS 的图式 RAG。![GitHub stars](https://img.shields.io/github/stars/HKUDS/LightRAG?style=flat-square)
-- [Docling](https://github.com/DS4SD/docling) - IBM 文档转换工具，PDF / DOCX / HTML 等。![GitHub stars](https://img.shields.io/github/stars/DS4SD/docling?style=flat-square)
-- [Kotaemon](https://github.com/Cinnamon/kotaemon) - 开源 RAG UI。![GitHub stars](https://img.shields.io/github/stars/Cinnamon/kotaemon?style=flat-square)
-- [R2R](https://github.com/SciPhi-AI/R2R) - 端到端 RAG 服务，企业级。![GitHub stars](https://img.shields.io/github/stars/SciPhi-AI/R2R?style=flat-square)
-- [RAGFlow](https://github.com/infiniflow/ragflow) - 🇨🇳 深度文档理解 RAG。![GitHub stars](https://img.shields.io/github/stars/infiniflow/ragflow?style=flat-square)
-- [Morphik](https://github.com/morphik-org/morphik-core) - 🆕 面向包含表格、图表的多模态文档的 RAG 引擎；2026 年快速崛起，是处理复杂 PDF 的 LlamaIndex 替代方案。 ![GitHub stars](https://img.shields.io/github/stars/morphik-org/morphik-core?style=flat-square)
-- [Cognee](https://github.com/topoteretes/cognee) - 🆕 在 Agent 摄取文档过程中实时构建知识图谱的记忆 + 推理引擎；2026 年长时研究型 Agent 栈的热门选择。 ![GitHub stars](https://img.shields.io/github/stars/topoteretes/cognee?style=flat-square)
-- [RAG-Anything](https://github.com/HKUDS/RAG-Anything) - 🆕 港大数据科学实验室出品的一体化多模态 RAG 框架。基于 LightRAG 构建；文本与多模态并行流水线；可查询同时包含文本、图示、表格、公式的文档。MIT，21K+ stars。![GitHub stars](https://img.shields.io/github/stars/HKUDS/RAG-Anything?style=flat-square)
+- [Chroma](https://github.com/chroma-core/chroma) - AI 原生开源向量数据库。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fchroma-core%2Fchroma&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Vanna](https://github.com/vanna-ai/vanna) - 📦 **Archived**（2026-02）。RAG-for-SQL：自然语言对话数据库。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fvanna-ai%2Fvanna&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [LightRAG](https://github.com/HKUDS/LightRAG) - 🇨🇳 港大 HKUDS 的图式 RAG。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FHKUDS%2FLightRAG&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Docling](https://github.com/DS4SD/docling) - IBM 文档转换工具，PDF / DOCX / HTML 等。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FDS4SD%2Fdocling&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Kotaemon](https://github.com/Cinnamon/kotaemon) - 开源 RAG UI。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FCinnamon%2Fkotaemon&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [R2R](https://github.com/SciPhi-AI/R2R) - 端到端 RAG 服务，企业级。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FSciPhi-AI%2FR2R&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [RAGFlow](https://github.com/infiniflow/ragflow) - 🇨🇳 深度文档理解 RAG。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Finfiniflow%2Fragflow&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Morphik](https://github.com/morphik-org/morphik-core) - 🆕 面向包含表格、图表的多模态文档的 RAG 引擎；2026 年快速崛起，是处理复杂 PDF 的 LlamaIndex 替代方案。 ![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fmorphik-org%2Fmorphik-core&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Cognee](https://github.com/topoteretes/cognee) - 🆕 在 Agent 摄取文档过程中实时构建知识图谱的记忆 + 推理引擎；2026 年长时研究型 Agent 栈的热门选择。 ![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Ftopoteretes%2Fcognee&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [RAG-Anything](https://github.com/HKUDS/RAG-Anything) - 🆕 港大数据科学实验室出品的一体化多模态 RAG 框架。基于 LightRAG 构建；文本与多模态并行流水线；可查询同时包含文本、图示、表格、公式的文档。MIT，21K+ stars。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FHKUDS%2FRAG-Anything&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 
 ---
 
@@ -582,9 +582,9 @@
 ### 终端 / CLI Agent
 
 - [Claude Code](https://docs.anthropic.com/en/docs/claude-code) - 直接在终端里运行的 Agent 编程工具。Opus 4.7 + `/think xhigh`。SWE-bench 80.9%。
-- [Codex CLI](https://github.com/openai/codex) - OpenAI 出品，开源终端编程 Agent。![GitHub stars](https://img.shields.io/github/stars/openai/codex?style=flat-square)
-- [Aider](https://github.com/Aider-AI/aider) - Git-aware 终端 AI 编程伙伴。![GitHub stars](https://img.shields.io/github/stars/Aider-AI/aider?style=flat-square)
-- [Goose](https://github.com/block/goose) - Block 出品的开源 Agent 编程 CLI。![GitHub stars](https://img.shields.io/github/stars/block/goose?style=flat-square)
+- [Codex CLI](https://github.com/openai/codex) - OpenAI 出品，开源终端编程 Agent。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fopenai%2Fcodex&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Aider](https://github.com/Aider-AI/aider) - Git-aware 终端 AI 编程伙伴。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FAider-AI%2Faider&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Goose](https://github.com/block/goose) - Block 出品的开源 Agent 编程 CLI。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fblock%2Fgoose&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 
 ### IDE Agent
 
@@ -592,8 +592,8 @@
 - [Kilo Code](https://www.kilocode.com/) - 🇨🇳 🆕 2026-04 中文社区流行的 Cursor 替代。默认 MiniMax 模型。
 - [Cursor](https://www.cursor.com/) - 2026-02 更新支持 8 个并行 Agent。
 - [Windsurf](https://codeium.com/windsurf) - Codeium 的 Agent 化 IDE。
-- [Cline](https://github.com/cline/cline) - VS Code 自主编程 Agent。![GitHub stars](https://img.shields.io/github/stars/cline/cline?style=flat-square)
-- [Continue](https://github.com/continuedev/continue) - 开源 AI 编程助手（VS Code + JetBrains）。![GitHub stars](https://img.shields.io/github/stars/continuedev/continue?style=flat-square)
+- [Cline](https://github.com/cline/cline) - VS Code 自主编程 Agent。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fcline%2Fcline&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Continue](https://github.com/continuedev/continue) - 开源 AI 编程助手（VS Code + JetBrains）。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fcontinuedev%2Fcontinue&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [GitHub Copilot](https://github.com/features/copilot) - 2026 初支持 Agent 模式，`gh copilot` 终端集成。
 - [Kiro](https://kiro.dev/) - AWS 自主 Agent。Spec-driven，最多 10 个并发任务。
 - [Amazon Q Developer](https://aws.amazon.com/q/developer/) - AWS 生态深度集成。
@@ -603,21 +603,21 @@
 
 - [Cursor 3.4 云 Agent 环境](https://cursor.com/changelog) - 🆕 **2026-05-13**。为云上 Agent / 自动化提供多仓库环境、带 build secrets 的 Dockerfile 配置、快 70% 的镜像层缓存、每个环境独立的版本历史 + 回滚、审计日志、限定范围的出网 / secrets。
 - [Devin 3.0](https://www.cognition.ai/) - 🆕 Cognition。动态重新规划、自愈代码、遗留代码迁移。多模态输入（UI 截图、视频）。
-- [OpenHands](https://github.com/All-Hands-AI/OpenHands) - 自托管的开源 Agent 软件开发平台。![GitHub stars](https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=flat-square)
-- [SWE-agent](https://github.com/SWE-agent/SWE-agent) - 把 LLM 变成能修复 GitHub issue 的工程师。![GitHub stars](https://img.shields.io/github/stars/SWE-agent/SWE-agent?style=flat-square)
-- [Devika](https://github.com/stitionai/devika) - 💤 **Stale**（2025-09 起无更新）。开源 Devin 替代。![GitHub stars](https://img.shields.io/github/stars/stitionai/devika?style=flat-square)
-- [GPT Engineer](https://github.com/gpt-engineer-org/gpt-engineer) - 📦 **Archived**（2025-05）。第一波自主编程项目，仅作历史参考。![GitHub stars](https://img.shields.io/github/stars/gpt-engineer-org/gpt-engineer?style=flat-square)
-- [Codegen](https://github.com/codegen-sh/codegen-sdk) - 🆕 程序化代码操作 + 跨文件重构 SDK。![GitHub stars](https://img.shields.io/github/stars/codegen-sh/codegen-sdk?style=flat-square)
+- [OpenHands](https://github.com/All-Hands-AI/OpenHands) - 自托管的开源 Agent 软件开发平台。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FAll-Hands-AI%2FOpenHands&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [SWE-agent](https://github.com/SWE-agent/SWE-agent) - 把 LLM 变成能修复 GitHub issue 的工程师。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FSWE-agent%2FSWE-agent&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Devika](https://github.com/stitionai/devika) - 💤 **Stale**（2025-09 起无更新）。开源 Devin 替代。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fstitionai%2Fdevika&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [GPT Engineer](https://github.com/gpt-engineer-org/gpt-engineer) - 📦 **Archived**（2025-05）。第一波自主编程项目，仅作历史参考。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fgpt-engineer-org%2Fgpt-engineer&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Codegen](https://github.com/codegen-sh/codegen-sdk) - 🆕 程序化代码操作 + 跨文件重构 SDK。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fcodegen-sh%2Fcodegen-sdk&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Qodo](https://www.qodo.ai/) - 🆕 AI 代码评审平台：质量 + 安全 + 测试生成。
 - [Codex Security](https://developers.openai.com/codex/changelog) - 🆕 **2026 年 3 月**。应用安全 Agent，负责发现并修复软件漏洞；OSS 维护者可通过 Codex-for-OSS 计划使用。
-- [Gemini CLI](https://github.com/google-gemini/gemini-cli) - 🆕 Google 的终端优先编码 Agent，擅长大上下文重构。 ![GitHub stars](https://img.shields.io/github/stars/google-gemini/gemini-cli?style=flat-square)
-- [OpenCode](https://github.com/opencode-ai/opencode) - 🆕 开源终端优先编码 Agent，内置原生 TUI。支持 OpenAI、Claude、Gemini、Ollama 等模型以及代码智能提示 (LSP)。基于 Go，架构解耦。MIT。 ![GitHub stars](https://img.shields.io/github/stars/opencode-ai/opencode?style=flat-square)
+- [Gemini CLI](https://github.com/google-gemini/gemini-cli) - 🆕 Google 的终端优先编码 Agent，擅长大上下文重构。 ![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fgoogle-gemini%2Fgemini-cli&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [OpenCode](https://github.com/opencode-ai/opencode) - 🆕 开源终端优先编码 Agent，内置原生 TUI。支持 OpenAI、Claude、Gemini、Ollama 等模型以及代码智能提示 (LSP)。基于 Go，架构解耦。MIT。 ![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fopencode-ai%2Fopencode&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Grok Build](https://x.ai/news/grok-build-cli) - 🆕 **2026 年 5 月 14 日（早期 beta）**。xAI 的 Agent 化 CLI 编码工具，由 **grok-code-fast-1** 驱动。子 Agent 并行运行于隔离环境，每日发布 release notes，仅 SuperGrok Heavy 订阅可用（首 6 个月每月 99 美元，之后 300 美元）。xAI 对 Claude Code / Codex CLI 的正面回应。
 - [Antigravity CLI](https://antigravity.google/blog/introducing-google-antigravity-2-0) - 🆕 **2026 年 5 月 19 日（Google I/O 2026）**。Antigravity 2.0 的轻量 CLI 伴侣——直接从终端创建并使用 Google 的 Agent harness。支持 macOS / Linux / Windows。**2026 年 6 月 18 日起接替 Gemini CLI**（Free / Pro / Ultra 用户）。
-- [Kimi Code CLI](https://github.com/MoonshotAI/kimi-code) - 🆕 🇨🇳 **2026 年 6 月 6 日**。Moonshot AI 的终端编程 Agent（TypeScript，MIT）。内置 coder / explore / plan 子 Agent 在隔离上下文中运行，通过 `/mcp-config` 对话式配置 MCP。npm 安装。专为下一代 Kimi K2.6 Agent 设计。 ![GitHub stars](https://img.shields.io/github/stars/MoonshotAI/kimi-code?style=flat-square)
+- [Kimi Code CLI](https://github.com/MoonshotAI/kimi-code) - 🆕 🇨🇳 **2026 年 6 月 6 日**。Moonshot AI 的终端编程 Agent（TypeScript，MIT）。内置 coder / explore / plan 子 Agent 在隔离上下文中运行，通过 `/mcp-config` 对话式配置 MCP。npm 安装。专为下一代 Kimi K2.6 Agent 设计。 ![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FMoonshotAI%2Fkimi-code&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [MAI-Code-1-Flash in GitHub Copilot](https://microsoft.ai/news/introducingmai-code-1-flash/) - 🆕 **Build 2026（2026 年 6 月 2 日）**。微软首个 100% 自研的 5B 编程模型作为 GitHub Copilot 的模型选项落地——在四大核心编程基准上击败 Claude Haiku 4.5（SWE-Bench Pro 51.2% vs 35.2%），成本显著更低。
 - [Roo Code](https://roocode.com/) - 🆕 开源 VS Code 扩展，跨多文件读写、执行命令，model-agnostic；除自带 API 外免费。
-- [Void](https://github.com/voideditor/void) - 🆕 VS Code 的开源 fork，定位为开源版 Cursor；数据留在本地，自带模型。 ![GitHub stars](https://img.shields.io/github/stars/voideditor/void?style=flat-square)
+- [Void](https://github.com/voideditor/void) - 🆕 VS Code 的开源 fork，定位为开源版 Cursor；数据留在本地，自带模型。 ![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fvoideditor%2Fvoid&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [JetBrains Rider AI Test-Writing Skill](https://blog.jetbrains.com/dotnet/2026/05/22/claude-codex-ai-agent-skill-for-writing-tests/) - 🆕 **2026 年 5 月 22 日**。JetBrains Rider 新增的 AI Assistant skill，把 .NET 代码覆盖率数据喂给 Claude Code / Codex，让 Agent 聚焦未覆盖分支，降低测试生成的 AI 成本。
 - [Devin 2.2](https://cognition.ai/blog/introducing-devin-2-2) - 🆕 **2026 年 2 月**。沙箱化 terminal + editor + browser；商业化产品（Core 20 美元/月，Team 500 美元/月）。
 - [Google Antigravity 2.0](https://antigravity.google/blog/introducing-google-antigravity-2-0) - 🆕 **2026 年 5 月 19 日（Google I/O 2026）**。独立桌面应用（macOS / Linux / Windows），可并行编排多个 Agent。新增 cron 化的定时任务、长跑异步任务、动态子 Agent，以及与 AI Studio / Android / Firebase 的集成。配套的 **Antigravity SDK** 支持自部署 harness；企业版集成进 Gemini Enterprise Agent Platform。
@@ -676,14 +676,14 @@
 
 *Agent 在仿真世界中训练、观察、应力测试的研究环境。世界模型 / 具身研究渗透到语言 Agent 设计中后越来越重要。*
 
-- [Generative Agents](https://github.com/joonspk-research/generative_agents) - 💤 斯坦福经典 *Smallville*（Park et al., 2023）。25 个 LLM 角色 + 记忆 + 反思 + 计划。后续多 Agent 论文几乎都借鉴此实现。![GitHub stars](https://img.shields.io/github/stars/joonspk-research/generative_agents?style=flat-square)
-- [Voyager](https://github.com/MineDojo/Voyager) - 💤 Minecraft 终生学习 Agent —— GPT-4 + skill library + curriculum（Wang et al., 2023）。开放式 Agent 评测的经典。![GitHub stars](https://img.shields.io/github/stars/MineDojo/Voyager?style=flat-square)
-- [SWE-Gym](https://github.com/SWE-Gym/SWE-Gym) - 用真实 GitHub issue 训练 SWE Agent 的开放环境，SWE-bench 配套。![GitHub stars](https://img.shields.io/github/stars/SWE-Gym/SWE-Gym?style=flat-square)
+- [Generative Agents](https://github.com/joonspk-research/generative_agents) - 💤 斯坦福经典 *Smallville*（Park et al., 2023）。25 个 LLM 角色 + 记忆 + 反思 + 计划。后续多 Agent 论文几乎都借鉴此实现。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fjoonspk-research%2Fgenerative_agents&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Voyager](https://github.com/MineDojo/Voyager) - 💤 Minecraft 终生学习 Agent —— GPT-4 + skill library + curriculum（Wang et al., 2023）。开放式 Agent 评测的经典。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FMineDojo%2FVoyager&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [SWE-Gym](https://github.com/SWE-Gym/SWE-Gym) - 用真实 GitHub issue 训练 SWE Agent 的开放环境，SWE-bench 配套。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FSWE-Gym%2FSWE-Gym&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [WebArena](https://webarena.dev/) - 真实可复现的 Web 环境（Reddit / 购物 / GitLab 克隆），OSWorld 与多数浏览器 Agent 论文使用。
-- [WorkArena](https://github.com/ServiceNow/WorkArena) - ServiceNow 出品的企业工作场景 Web Agent 基准。![GitHub stars](https://img.shields.io/github/stars/ServiceNow/WorkArena?style=flat-square)
+- [WorkArena](https://github.com/ServiceNow/WorkArena) - ServiceNow 出品的企业工作场景 Web Agent 基准。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FServiceNow%2FWorkArena&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Genie 3 / Genie 4](https://deepmind.google/) - Google DeepMind 可玩 3D 世界模型，从 prompt 生成。闭源研究。
-- [NVIDIA Cosmos](https://github.com/nvidia-cosmos/cosmos-predict1) - 具身 AI / 机器人的世界模型基础，生成物理合理的视频未来。![GitHub stars](https://img.shields.io/github/stars/nvidia-cosmos/cosmos-predict1?style=flat-square)
-- [Snowflake Agent World Model (AWM)](https://github.com/Snowflake-Labs/agent-world-model) - 🆕 **2026 年 2 月 10 日开源，5 月 1 日被 ICML 2026 接收**。合成环境生成流水线，一次性产出 1,000 个可执行的、SQL 数据库驱动的工具调用环境（35K+ 工具，10K 任务），通过统一 MCP 接口暴露——支持大规模多回合 Agent RL。基础设施已合入 `meta-pytorch/OpenEnv`。 ![GitHub stars](https://img.shields.io/github/stars/Snowflake-Labs/agent-world-model?style=flat-square)
+- [NVIDIA Cosmos](https://github.com/nvidia-cosmos/cosmos-predict1) - 具身 AI / 机器人的世界模型基础，生成物理合理的视频未来。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fnvidia-cosmos%2Fcosmos-predict1&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Snowflake Agent World Model (AWM)](https://github.com/Snowflake-Labs/agent-world-model) - 🆕 **2026 年 2 月 10 日开源，5 月 1 日被 ICML 2026 接收**。合成环境生成流水线，一次性产出 1,000 个可执行的、SQL 数据库驱动的工具调用环境（35K+ 工具，10K 任务），通过统一 MCP 接口暴露——支持大规模多回合 Agent RL。基础设施已合入 `meta-pytorch/OpenEnv`。 ![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FSnowflake-Labs%2Fagent-world-model&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 
 ---
 
@@ -697,7 +697,7 @@
 - [ARC-AGI 2](https://arcprize.org/) - 抽象推理。Gemini 3.1 Pro 77.1%。
 - [OSWorld](https://os-world.github.io/) - 桌面 GUI 操作。GPT-5.4 75%（超过人类基线）。
 - [LMArena](https://lmarena.ai/)（前 Chatbot Arena） - 众包对话偏好。Opus 4.6 当前领先。
-- [MMLU-Pro](https://github.com/TIGER-AI-Lab/MMLU-Pro) - MMLU 加难版。![GitHub stars](https://img.shields.io/github/stars/TIGER-AI-Lab/MMLU-Pro?style=flat-square)
+- [MMLU-Pro](https://github.com/TIGER-AI-Lab/MMLU-Pro) - MMLU 加难版。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FTIGER-AI-Lab%2FMMLU-Pro&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [LiveCodeBench](https://livecodebench.github.io/) - 持续更新的竞赛风编程基准。
 - [AIME 2025 / Humanity's Last Exam (HLE)](https://agi.safe.ai/) - 数学 / 博士级综合推理。
 - [Terminal-Bench](https://www.tbench.ai/) - CLI Agent 评测。Codex CLI 77.3%。
@@ -705,7 +705,7 @@
 - [GDPval / GDPval-MM](https://artificialanalysis.ai/evaluations/gdpval-aa) - 🆕 **2026 年 2 月**。OpenAI 推出的经济价值 benchmark，覆盖 44 个职业 / 9 个行业，含 1,320 个专家构建任务。2026 年 5 月榜首：GPT-5.5 在 GDPval-MM 上 84.9%。
 - [Hieroglyphic Benchmark](https://juliangoldie.com/google-gemini-3-5/) - 🆕 横向 / 抽象推理 benchmark；Gemini 3.5 "Snowbunny" 80%（泄露版）。
 - [LLM-Stats Live Leaderboard](https://llm-stats.com/llm-updates) - 🆕 实时更新的跨 benchmark 模型对比看板。
-- [τ²-Bench (Tau-Bench)](https://github.com/sierra-research/tau2-bench) - 🆕 Sierra Research 出品的真实业务域（零售 / 航空）工具-Agent-用户交互基准。考察多轮工具使用、数据库操作与策略遵从。2026 年 4 月榜首：38 个评测模型中 Claude Mythos Preview 89.2%。MIT。 ![GitHub stars](https://img.shields.io/github/stars/sierra-research/tau2-bench?style=flat-square)
+- [τ²-Bench (Tau-Bench)](https://github.com/sierra-research/tau2-bench) - 🆕 Sierra Research 出品的真实业务域（零售 / 航空）工具-Agent-用户交互基准。考察多轮工具使用、数据库操作与策略遵从。2026 年 4 月榜首：38 个评测模型中 Claude Mythos Preview 89.2%。MIT。 ![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fsierra-research%2Ftau2-bench&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Gartner 2026 魔力象限：企业 AI 编程 Agent](https://cursor.com/blog/cursor-leads-gartner-mq-2026) - 🆕 **2026 年**。Gartner 首个企业级编程 Agent MQ。**Cursor** 和 **OpenAI Codex** 被评为领导者，Cline 和 Windsurf 入选挑战者。标志着编程 Agent 市场迈入企业级成熟期。
 
 ---
@@ -718,7 +718,7 @@
 - [OpenAI Operator](https://openai.com/) - 🆕 浏览器 Agent，订票、填表、网页任务。
 - [Google Project Mariner](https://deepmind.google/models/project-mariner/) - 📦 **已关闭**（2026-05-04）。浏览器 Agent 研究项目，能力已合入 Gemini Agent。
 - [Microsoft Copilot Agents](https://www.microsoft.com/en-us/microsoft-copilot/) - 🆕 Microsoft 365 上的自主后台 Agent。
-- [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter) - 让 LLM 在本地跑代码的自然语言接口。![GitHub stars](https://img.shields.io/github/stars/OpenInterpreter/open-interpreter?style=flat-square)
+- [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter) - 让 LLM 在本地跑代码的自然语言接口。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FOpenInterpreter%2Fopen-interpreter&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Manus AI](https://manus.im/) - 🇨🇳 🆕 通用自主 Agent，云本地混合，研究 / 编程 / 复杂任务。
 - [Genspark](https://www.genspark.ai/) - 🆕 mixture-of-agents 全能工作 Agent，能打电话。
 - [Perplexity Computer](https://www.perplexity.ai/) - 🆕 多模型编排 + 本地文件访问，研究向。
@@ -733,13 +733,13 @@
 
 *真实浏览器中工作的 Agent —— 导航、点击、抓取、跨页流程。*
 
-- [Browser Use](https://github.com/browser-use/browser-use) - 2026 年开源浏览器 Agent 事实标准。92K star。![GitHub stars](https://img.shields.io/github/stars/browser-use/browser-use?style=flat-square)
-- [Stagehand](https://github.com/browserbase/stagehand) - Browserbase 出品的"浏览器 Agent SDK"：类型化 `act / extract / observe`，跑在 Playwright 上。MIT。![GitHub stars](https://img.shields.io/github/stars/browserbase/stagehand?style=flat-square)
-- [Steel Browser](https://github.com/steel-dev/steel-browser) - 🆕 AI Agent 专用开源浏览器 API：自带 session 持久化 + 代理轮换。Apache 2.0。![GitHub stars](https://img.shields.io/github/stars/steel-dev/steel-browser?style=flat-square)
-- [Skyvern](https://github.com/Skyvern-AI/skyvern) - 用 LLM + 视觉自动化网页流程。AGPL-3.0。![GitHub stars](https://img.shields.io/github/stars/Skyvern-AI/skyvern?style=flat-square)
-- [AgentQL](https://github.com/tinyfish-io/agentql) - 查询语言 + Playwright 集成。动态 / 杂乱页面健壮。![GitHub stars](https://img.shields.io/github/stars/tinyfish-io/agentql?style=flat-square)
-- [Hyperbrowser MCP](https://github.com/hyperbrowserai/mcp) - 🆕 托管无头浏览器 + 标准 MCP 工具接入 Claude / GPT / LangChain。![GitHub stars](https://img.shields.io/github/stars/hyperbrowserai/mcp?style=flat-square)
-- [Playwright MCP](https://github.com/microsoft/playwright-mcp) - 🆕 微软官方 Playwright MCP server。生产级即插即用。![GitHub stars](https://img.shields.io/github/stars/microsoft/playwright-mcp?style=flat-square)
+- [Browser Use](https://github.com/browser-use/browser-use) - 2026 年开源浏览器 Agent 事实标准。92K star。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fbrowser-use%2Fbrowser-use&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Stagehand](https://github.com/browserbase/stagehand) - Browserbase 出品的"浏览器 Agent SDK"：类型化 `act / extract / observe`，跑在 Playwright 上。MIT。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fbrowserbase%2Fstagehand&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Steel Browser](https://github.com/steel-dev/steel-browser) - 🆕 AI Agent 专用开源浏览器 API：自带 session 持久化 + 代理轮换。Apache 2.0。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fsteel-dev%2Fsteel-browser&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Skyvern](https://github.com/Skyvern-AI/skyvern) - 用 LLM + 视觉自动化网页流程。AGPL-3.0。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FSkyvern-AI%2Fskyvern&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [AgentQL](https://github.com/tinyfish-io/agentql) - 查询语言 + Playwright 集成。动态 / 杂乱页面健壮。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Ftinyfish-io%2Fagentql&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Hyperbrowser MCP](https://github.com/hyperbrowserai/mcp) - 🆕 托管无头浏览器 + 标准 MCP 工具接入 Claude / GPT / LangChain。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fhyperbrowserai%2Fmcp&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Playwright MCP](https://github.com/microsoft/playwright-mcp) - 🆕 微软官方 Playwright MCP server。生产级即插即用。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fmicrosoft%2Fplaywright-mcp&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [MultiOn](https://www.multion.ai/) - 托管浏览器 Agent，原生 Reasoning + Memory。闭源。
 - [Browserbase](https://www.browserbase.com/) - AI Agent 专用浏览器云：隐身、持久化、验证码、可观测性。
 - [BrowserOS](https://www.browseros.com/) - 🆕 首个内置 AI Agent 的开源浏览器——隐私优先的 Chrome 替代。自然语言任务自动化无需写代码；本地优先设计，对标 Perplexity Comet 与 Arc 的 AI 能力。
@@ -750,42 +750,42 @@
 
 - [AgentLine](https://agentline.cloud/) - 🆕 ⚠️ **Unverified.** 面向 AI Agent 的电话基础设施 —— 申请号码、外呼/接听、实时转录为 JSON 推到 webhook。定位为 Twilio 在 Agent 语音管线场景下的更轻替代；提交者自称 30+ 付费用户，暂无第三方采用证据。
 - [ElevenLabs](https://elevenlabs.io/) - AI 语音合成 + 对话 Agent。
-- [Vapi](https://github.com/VapiAI/server-sdk-python) - 语音 AI Agent 平台。![GitHub stars](https://img.shields.io/github/stars/VapiAI/server-sdk-python?style=flat-square)
+- [Vapi](https://github.com/VapiAI/server-sdk-python) - 语音 AI Agent 平台。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FVapiAI%2Fserver-sdk-python&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Retell AI](https://www.retellai.com/) - 生产级对话语音 AI。
 - [Bland AI](https://www.bland.ai/) - 企业级 AI 电话平台。
-- [LiveKit Agents](https://github.com/livekit/agents) - 实时多模态 Agent（语音 + 视频 + 数据）。![GitHub stars](https://img.shields.io/github/stars/livekit/agents?style=flat-square)
-- [Pipecat](https://github.com/pipecat-ai/pipecat) - 开源语音多模态对话框架。![GitHub stars](https://img.shields.io/github/stars/pipecat-ai/pipecat?style=flat-square)
-- [Vocode](https://github.com/vocodedev/vocode-python) - 💤 **Stale**（2024-11 起无更新）。![GitHub stars](https://img.shields.io/github/stars/vocodedev/vocode-python?style=flat-square)
-- [Bolna](https://github.com/bolna-ai/bolna) - 端到端开源语音 AI。![GitHub stars](https://img.shields.io/github/stars/bolna-ai/bolna?style=flat-square)
+- [LiveKit Agents](https://github.com/livekit/agents) - 实时多模态 Agent（语音 + 视频 + 数据）。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Flivekit%2Fagents&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Pipecat](https://github.com/pipecat-ai/pipecat) - 开源语音多模态对话框架。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fpipecat-ai%2Fpipecat&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Vocode](https://github.com/vocodedev/vocode-python) - 💤 **Stale**（2024-11 起无更新）。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fvocodedev%2Fvocode-python&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Bolna](https://github.com/bolna-ai/bolna) - 端到端开源语音 AI。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fbolna-ai%2Fbolna&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Cartesia](https://www.cartesia.ai/) - 🆕 实时低延迟语音 AI。
 - [Meta Voice AI](https://ai.meta.com/) - 🆕 收购 PlayHT/Play.ai 后的 Meta 语音技术。原 Play.ai 平台 2025-12-31 关停。
 - [Sesame](https://www.sesame.com/) - 🆕 情绪感知 + 自然对话的语音 AI 伙伴。
-- [OpenYabby](https://github.com/OpenYabby/OpenYabby) - 🆕 开源 macOS 语音驱动多 Agent 编排器 — Realtime API + CLI 子进程 + 多通道协调。主 Agent 规划任务并委派给子 Agent 进行评审和 QA。MIT。![GitHub stars](https://img.shields.io/github/stars/OpenYabby/OpenYabby?style=flat-square)
+- [OpenYabby](https://github.com/OpenYabby/OpenYabby) - 🆕 开源 macOS 语音驱动多 Agent 编排器 — Realtime API + CLI 子进程 + 多通道协调。主 Agent 规划任务并委派给子 Agent 进行评审和 QA。MIT。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FOpenYabby%2FOpenYabby&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [ElevenAgents](https://elevenlabs.io/voice-agents) - 🆕 ElevenLabs 全栈语音 Agent 平台（2026 年 4-5 月更新）：支持 MCP、多模态消息、会话主题发现、知识库检索、工具调用前的语音控制。首个获 AIUC-1 认证的语音 Agent 平台。
 - [Cartesia Line](https://cartesia.ai/blog/introducing-line-for-voice-agents) - 🆕 **2026 年 4 月**。基于 Sonic 3 TTS + Ink STT 的代码优先语音 Agent 平台；首音延迟约 40-90ms。
 - [Deepgram Voice Agent API](https://deepgram.com/learn/best-voice-ai-agents-2026-buyers-guide) - 🆕 单一端点打包 STT（Nova-3）+ LLM 路由 + TTS（Aura-2）+ Flux 会话式 STT，支持通话中 10 种语言切换。
 - [OpenAI Realtime API (GPT-Realtime-2)](https://openai.com/) - 🆕 **2026 年 5 月 8 日**。GPT-5 级推理能力的语音版，支持并行工具调用；生产级语音 Agent 取代上一代 Realtime 模型。
-- [Dograh](https://github.com/dograh-hq/dograh) - 🆕 开源、可自托管的语音 AI 平台——Vapi / Retell 的开源替代。On-prem 部署，可在 Speech-to-Speech 或 LLM/STT/TTS 之间 BYOK；可视化工作流构建器，原生 MCP，电话支持。BSD-2-Clause，4K+ stars。![GitHub stars](https://img.shields.io/github/stars/dograh-hq/dograh?style=flat-square)
-- [Hume TADA](https://github.com/HumeAI/tada) - 🆕 **2026 年 3 月 10 日**。Hume AI 首个开源 TTS——Text-Acoustic Dual Alignment 架构；零转录错误、约 5× 速度、可在手机运行；支撑下一代 EVI 语音 Agent。MIT，基于 Llama。![GitHub stars](https://img.shields.io/github/stars/HumeAI/tada?style=flat-square)
+- [Dograh](https://github.com/dograh-hq/dograh) - 🆕 开源、可自托管的语音 AI 平台——Vapi / Retell 的开源替代。On-prem 部署，可在 Speech-to-Speech 或 LLM/STT/TTS 之间 BYOK；可视化工作流构建器，原生 MCP，电话支持。BSD-2-Clause，4K+ stars。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fdograh-hq%2Fdograh&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Hume TADA](https://github.com/HumeAI/tada) - 🆕 **2026 年 3 月 10 日**。Hume AI 首个开源 TTS——Text-Acoustic Dual Alignment 架构；零转录错误、约 5× 速度、可在手机运行；支撑下一代 EVI 语音 Agent。MIT，基于 Llama。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FHumeAI%2Ftada&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 
 ---
 
 ## 📱 个人 AI Agent
 
-- [OpenClaw](https://github.com/openclaw/openclaw) - 🆕 多渠道、本地运行的个人 AI Agent 平台。![GitHub stars](https://img.shields.io/github/stars/openclaw/openclaw?style=flat-square)
+- [OpenClaw](https://github.com/openclaw/openclaw) - 🆕 多渠道、本地运行的个人 AI Agent 平台。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fopenclaw%2Fopenclaw&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Rabbit R1](https://www.rabbit.tech/) - 大动作模型驱动的硬件 AI 助理。
 - [Limitless](https://www.limitless.ai/) - 个性化 AI（前 Rewind）。
-- [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter) - 自然语言计算机接口。![GitHub stars](https://img.shields.io/github/stars/OpenInterpreter/open-interpreter?style=flat-square)
-- [01 Light](https://github.com/OpenInterpreter/01) - 💤 **Stale**（2024-11 起无更新）。开源语音电脑接口。![GitHub stars](https://img.shields.io/github/stars/OpenInterpreter/01?style=flat-square)
-- [Leon](https://github.com/leon-ai/leon) - 自托管开源个人助理。![GitHub stars](https://img.shields.io/github/stars/leon-ai/leon?style=flat-square)
-- [Khoj](https://github.com/khoj-ai/khoj) - 你的笔记 / 文档 / 图片的"第二大脑"AI。![GitHub stars](https://img.shields.io/github/stars/khoj-ai/khoj?style=flat-square)
+- [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter) - 自然语言计算机接口。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FOpenInterpreter%2Fopen-interpreter&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [01 Light](https://github.com/OpenInterpreter/01) - 💤 **Stale**（2024-11 起无更新）。开源语音电脑接口。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FOpenInterpreter%2F01&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Leon](https://github.com/leon-ai/leon) - 自托管开源个人助理。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fleon-ai%2Fleon&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Khoj](https://github.com/khoj-ai/khoj) - 你的笔记 / 文档 / 图片的"第二大脑"AI。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fkhoj-ai%2Fkhoj&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Humane AI Pin](https://humane.com/) - ⚠️ **2025-02-28 已停产**（被 HP 收购，设备已关闭）。原为无屏幕环境计算的可穿戴 AI 设备。
 - [Arahi AI](https://arahi.ai/) - 🆕 个人生产力 + 业务自动化助理。
 - [Lindy AI](https://www.lindy.ai/) - 🆕 邮件 / 日历 / 工作流的无代码 Agent。
 - [MuleRun](https://www.mulerun.ai/) - 🆕 周期任务的常驻 Agent。
 - [Gemini Intelligence](https://blog.google/products-and-platforms/products/chrome/bringing-chrome-ai-to-android/) - 🆕 **2026 年 5 月 12 日（Android Show: I/O Edition）**。主动式 Agent AI 能力贯穿 Googlebooks 笔电、Wear OS、Android Auto、Android XR，首发于最新 Samsung Galaxy + Pixel。可基于购物清单自动生成购物车、预订单车课程，以及通过 Rambler STT 移除口头禅。
 - [Gemini Spark](https://9to5google.com/2026/05/14/gemini-spark-insight/) - 🆕 **2026 年 5 月 14 日（I/O 前的爆料 / 洞察）**。Gemini 应用内即将上线的品牌化 Agent 能力，可自主跑完多步流程；构建在 Gemini 3.1 Pro 推理栈之上。
-- [QwenPaw](https://github.com/agentscope-ai/QwenPaw) - 🆕 🇨🇳 **2026 年 5 月由 CoPaw 改名**。Qwen / AgentScope 生态下可自托管的个人助手。本地优先记忆、热加载 skills、多 Agent 协作、多通道（钉钉 / 飞书 / 微信 / Discord / Telegram），自带工具守卫和 skill 扫描器。Apache-2.0。 ![GitHub stars](https://img.shields.io/github/stars/agentscope-ai/QwenPaw?style=flat-square)
+- [QwenPaw](https://github.com/agentscope-ai/QwenPaw) - 🆕 🇨🇳 **2026 年 5 月由 CoPaw 改名**。Qwen / AgentScope 生态下可自托管的个人助手。本地优先记忆、热加载 skills、多 Agent 协作、多通道（钉钉 / 飞书 / 微信 / Discord / Telegram），自带工具守卫和 skill 扫描器。Apache-2.0。 ![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fagentscope-ai%2FQwenPaw&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Microsoft Scout](https://www.microsoft.com/en-us/microsoft-365/blog/2026/06/02/introducing-microsoft-scout-your-always-on-personal-agent/) - 🆕 **Build 2026（2026 年 6 月 2 日）**。微软基于 OpenClaw 框架打造的常驻个人 Agent —— 跨云 / 桌面 / Web 主动工作，连接 Teams / Outlook / OneDrive / SharePoint。每个 Agent 在独立 Entra 身份下运行，连续策略合规检查 + 审计链。Microsoft Frontier 计划私测；需 Intune 策略 + GitHub Copilot 许可证。
 - [Lenovo Qira / Motorola Qira](https://news.lenovo.com/pressroom/press-releases/lenovo-unveils-lenovo-and-motorola-qira/) - 🆕 **CES 2026（2026 年 1 月 6 日）**。联想与摩托罗拉联合打造的"个人环境智能系统"——上下文感知 AI 跨 PC / 手机 / 平板 / 可穿戴设备协同。Q1 2026 在部分联想设备上线，随后扩展至 Motorola 手机；OEM 主导的环境 AI 首发。
 
@@ -795,14 +795,14 @@
 
 *操控 Android / iOS 的 GUI Agent —— 桌面 Computer Use 之后的下一前沿。*
 
-- [Mobile-Agent](https://github.com/X-PLUG/MobileAgent) - 🇨🇳 阿里多模态手机控制 Agent 家族（v1 → v3 + Mobile-Agent-E / V）。Android 基准 SOTA。![GitHub stars](https://img.shields.io/github/stars/X-PLUG/MobileAgent?style=flat-square)
-- [AppAgent](https://github.com/mnotgod96/AppAgent) - 💤 腾讯多模态智能体，通过点 / 滑操作 App。早期影响力实现。![GitHub stars](https://img.shields.io/github/stars/mnotgod96/AppAgent?style=flat-square)
+- [Mobile-Agent](https://github.com/X-PLUG/MobileAgent) - 🇨🇳 阿里多模态手机控制 Agent 家族（v1 → v3 + Mobile-Agent-E / V）。Android 基准 SOTA。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FX-PLUG%2FMobileAgent&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [AppAgent](https://github.com/mnotgod96/AppAgent) - 💤 腾讯多模态智能体，通过点 / 滑操作 App。早期影响力实现。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fmnotgod96%2FAppAgent&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Apple Intelligence](https://www.apple.com/apple-intelligence/) - iOS / iPadOS / macOS 端侧 Agent 层。App Intents + 屏幕感知动作。
 - [Samsung Galaxy AI / Bixby 2.0](https://www.samsung.com/global/galaxy/galaxy-ai/) - Galaxy S26 端侧 Gauss。
 - [Google Gemini for Android](https://gemini.google/) - 全面替换 Google Assistant，包括系统意图与 Workspace。
 - [Magma](https://microsoft.github.io/Magma/) - 微软研究多模态 Agent 基座，统一 UI / 机器人 / 物理动作。
-- [mobile-use](https://github.com/minitap-ai/mobile-use) - 🆕 开源框架（Apache-2.0，2.5K+ stars），让 AI Agent 像真人一样使用真实 Android / iOS 应用 —— UI 感知导航、自然语言控制。 ![GitHub stars](https://img.shields.io/github/stars/minitap-ai/mobile-use?style=flat-square)
-- [agent-device (Callstack)](https://github.com/callstack/agent-device) - 🆕 **2026 年 2 月**。轻量、节省 token 的 CLI，用于自动化 iOS / Android 真机和模拟器。命令模型面向 AI Agent 与 CI 场景设计。MIT，2.6K+ stars。 ![GitHub stars](https://img.shields.io/github/stars/callstack/agent-device?style=flat-square)
+- [mobile-use](https://github.com/minitap-ai/mobile-use) - 🆕 开源框架（Apache-2.0，2.5K+ stars），让 AI Agent 像真人一样使用真实 Android / iOS 应用 —— UI 感知导航、自然语言控制。 ![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fminitap-ai%2Fmobile-use&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [agent-device (Callstack)](https://github.com/callstack/agent-device) - 🆕 **2026 年 2 月**。轻量、节省 token 的 CLI，用于自动化 iOS / Android 真机和模拟器。命令模型面向 AI Agent 与 CI 场景设计。MIT，2.6K+ stars。 ![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fcallstack%2Fagent-device&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 
 ---
 
@@ -835,43 +835,43 @@
 ## 📊 Agent 评估与可观测性
 
 - [LangSmith](https://www.langchain.com/langsmith) - LangChain 的官方调试 / 评测 / 监控平台。
-- [LangSmith SDK](https://github.com/langchain-ai/langsmith-sdk) - 客户端 SDK。![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langsmith-sdk?style=flat-square)
-- [Langfuse](https://github.com/langfuse/langfuse) - 开源 LLM 工程平台：可观测性 + 评测 + prompt 管理。![GitHub stars](https://img.shields.io/github/stars/langfuse/langfuse?style=flat-square)
-- [Helicone](https://github.com/Helicone/helicone) - 开源 LLM 可观测性。![GitHub stars](https://img.shields.io/github/stars/Helicone/helicone?style=flat-square)
-- [Arize Phoenix](https://github.com/Arize-ai/phoenix) - 开源 LLM 可观测性 + 评测。![GitHub stars](https://img.shields.io/github/stars/Arize-ai/phoenix?style=flat-square)
+- [LangSmith SDK](https://github.com/langchain-ai/langsmith-sdk) - 客户端 SDK。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Flangchain-ai%2Flangsmith-sdk&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Langfuse](https://github.com/langfuse/langfuse) - 开源 LLM 工程平台：可观测性 + 评测 + prompt 管理。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Flangfuse%2Flangfuse&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Helicone](https://github.com/Helicone/helicone) - 开源 LLM 可观测性。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FHelicone%2Fhelicone&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Arize Phoenix](https://github.com/Arize-ai/phoenix) - 开源 LLM 可观测性 + 评测。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FArize-ai%2Fphoenix&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Braintrust](https://www.braintrust.dev/) - LLM 评测 + 优化平台。
 - [LMArena (formerly LMSYS Chatbot Arena)](https://lmarena.ai/) - 🆕 众包 LLM 偏好投票。
 - [Patronus AI](https://www.patronus.ai/) - 🆕 自动 LLM 评测 + 红队。
-- [DeepEval](https://github.com/confident-ai/deepeval) - Pytest 风格的 LLM 评测框架，14+ 内置指标。Apache 2.0。![GitHub stars](https://img.shields.io/github/stars/confident-ai/deepeval?style=flat-square)
-- [Agenta](https://github.com/agenta-ai/agenta) - 🆕 一体化开源 LLMOps。![GitHub stars](https://img.shields.io/github/stars/agenta-ai/agenta?style=flat-square)
-- [AutoEvals](https://github.com/braintrustdata/autoevals) - 独立的最佳实践评测器库（事实性 / JSON 有效性 / 语义相似度等）。Braintrust 出品。![GitHub stars](https://img.shields.io/github/stars/braintrustdata/autoevals?style=flat-square)
-- [BenchClaw](https://github.com/Agnuxo1/benchclaw) - ⚠️ **Unverified**。自称多维度 Agent 评测。8 个 awesome 列表 7 个拒收，2 star 单维护者。**仅作可见性收录**。![GitHub stars](https://img.shields.io/github/stars/Agnuxo1/benchclaw?style=flat-square)
+- [DeepEval](https://github.com/confident-ai/deepeval) - Pytest 风格的 LLM 评测框架，14+ 内置指标。Apache 2.0。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fconfident-ai%2Fdeepeval&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Agenta](https://github.com/agenta-ai/agenta) - 🆕 一体化开源 LLMOps。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fagenta-ai%2Fagenta&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [AutoEvals](https://github.com/braintrustdata/autoevals) - 独立的最佳实践评测器库（事实性 / JSON 有效性 / 语义相似度等）。Braintrust 出品。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fbraintrustdata%2Fautoevals&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [BenchClaw](https://github.com/Agnuxo1/benchclaw) - ⚠️ **Unverified**。自称多维度 Agent 评测。8 个 awesome 列表 7 个拒收，2 star 单维护者。**仅作可见性收录**。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FAgnuxo1%2Fbenchclaw&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [PromptEden](https://www.prompteden.com) - ⚠️ **Unverified**。商业 SaaS：监控 ChatGPT / Claude / Gemini / Perplexity / Copilot / Grok 如何描述你的品牌。同款 PR 同日投了 10 个 awesome 列表。**仅作可见性收录**。
-- [AgentBench](https://github.com/THUDM/AgentBench) - 评估 LLM 作为 Agent 表现的多维 benchmark。 ![GitHub stars](https://img.shields.io/github/stars/THUDM/AgentBench?style=flat-square)
-- [Braintrust](https://github.com/braintrustdata/braintrust-sdk) - 企业级 AI 产品构建栈——评估、提示词 playground、日志一体化。 ![GitHub stars](https://img.shields.io/github/stars/braintrustdata/braintrust-sdk?style=flat-square)
-- [OpenLLMetry](https://github.com/traceloop/openllmetry) - 基于 OpenTelemetry 的开源 LLM 可观测性方案。 ![GitHub stars](https://img.shields.io/github/stars/traceloop/openllmetry?style=flat-square)
-- [Weights & Biases Weave](https://github.com/wandb/weave) - 用于开发、评估与监控 AI 应用的工具包。 ![GitHub stars](https://img.shields.io/github/stars/wandb/weave?style=flat-square)
-- [SWE-bench](https://github.com/princeton-nlp/SWE-bench) - 评估 LLM 在真实软件工程问题上能力的 benchmark。 ![GitHub stars](https://img.shields.io/github/stars/princeton-nlp/SWE-bench?style=flat-square)
-- [Terminal-Bench](https://www.tbench.ai/) - 🆕 面向终端编码 Agent 的评估 benchmark。由 Harbor Framework 维护。 ![GitHub stars](https://img.shields.io/github/stars/harbor-framework/terminal-bench?style=flat-square)
-- [Laminar](https://github.com/lmnr-ai/lmnr) - 🆕 专为长跑 AI Agent 设计的开源可观测性平台（Apache-2.0，YC S24）。OpenTelemetry 原生，transcript view、Signals、SQL 跨 traces 查询、浏览器 Agent 会话回放。![GitHub stars](https://img.shields.io/github/stars/lmnr-ai/lmnr?style=flat-square)
+- [AgentBench](https://github.com/THUDM/AgentBench) - 评估 LLM 作为 Agent 表现的多维 benchmark。 ![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FTHUDM%2FAgentBench&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Braintrust](https://github.com/braintrustdata/braintrust-sdk) - 企业级 AI 产品构建栈——评估、提示词 playground、日志一体化。 ![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fbraintrustdata%2Fbraintrust-sdk&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [OpenLLMetry](https://github.com/traceloop/openllmetry) - 基于 OpenTelemetry 的开源 LLM 可观测性方案。 ![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Ftraceloop%2Fopenllmetry&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Weights & Biases Weave](https://github.com/wandb/weave) - 用于开发、评估与监控 AI 应用的工具包。 ![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fwandb%2Fweave&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [SWE-bench](https://github.com/princeton-nlp/SWE-bench) - 评估 LLM 在真实软件工程问题上能力的 benchmark。 ![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fprinceton-nlp%2FSWE-bench&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Terminal-Bench](https://www.tbench.ai/) - 🆕 面向终端编码 Agent 的评估 benchmark。由 Harbor Framework 维护。 ![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fharbor-framework%2Fterminal-bench&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Laminar](https://github.com/lmnr-ai/lmnr) - 🆕 专为长跑 AI Agent 设计的开源可观测性平台（Apache-2.0，YC S24）。OpenTelemetry 原生，transcript view、Signals、SQL 跨 traces 查询、浏览器 Agent 会话回放。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Flmnr-ai%2Flmnr&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [LangSmith Engine](https://www.langchain.com/blog/interrupt-2026-overview) - 🆕 **2026 年 5 月（Interrupt 2026）**。LangSmith 的自主失败诊断层——将生产失败聚类为优先级问题，结合 traces 与代码定位根因，给出可供人类审阅的修复建议。与新发的 SmithDB（Rust + DataFusion 支持的 Agent 观测数据库）配套。
 
 ---
 
 ## 🔬 AI 研究工具
 
-- [Hugging Face Transformers](https://github.com/huggingface/transformers) - 模型与训练工具的事实标准库。![GitHub stars](https://img.shields.io/github/stars/huggingface/transformers?style=flat-square)
-- [vLLM](https://github.com/vllm-project/vllm) - 高吞吐 LLM 推理与服务。![GitHub stars](https://img.shields.io/github/stars/vllm-project/vllm?style=flat-square)
-- [SGLang](https://github.com/sgl-project/sglang) - 高性能 LLM 推理引擎。![GitHub stars](https://img.shields.io/github/stars/sgl-project/sglang?style=flat-square)
-- [llama.cpp](https://github.com/ggml-org/llama.cpp) - C/C++ 高性能 LLM 推理。![GitHub stars](https://img.shields.io/github/stars/ggml-org/llama.cpp?style=flat-square)
-- [Ollama](https://github.com/ollama/ollama) - 本地跑 LLM 的最简单方法。![GitHub stars](https://img.shields.io/github/stars/ollama/ollama?style=flat-square)
+- [Hugging Face Transformers](https://github.com/huggingface/transformers) - 模型与训练工具的事实标准库。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fhuggingface%2Ftransformers&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [vLLM](https://github.com/vllm-project/vllm) - 高吞吐 LLM 推理与服务。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fvllm-project%2Fvllm&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [SGLang](https://github.com/sgl-project/sglang) - 高性能 LLM 推理引擎。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fsgl-project%2Fsglang&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [llama.cpp](https://github.com/ggml-org/llama.cpp) - C/C++ 高性能 LLM 推理。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fggml-org%2Fllama.cpp&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Ollama](https://github.com/ollama/ollama) - 本地跑 LLM 的最简单方法。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Follama%2Follama&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [LM Studio](https://lmstudio.ai/) - 桌面本地 LLM GUI，多提供商。
 - [OpenRouter](https://openrouter.ai/) - 一个 API 统一访问 100+ LLM。
-- [Unsloth](https://github.com/unslothai/unsloth) - 2 倍运行、节省 70% 显存的 LLM 微调。![GitHub stars](https://img.shields.io/github/stars/unslothai/unsloth?style=flat-square)
-- [MLX](https://github.com/ml-explore/mlx) - Apple Silicon 上的机器学习框架。![GitHub stars](https://img.shields.io/github/stars/ml-explore/mlx?style=flat-square)
+- [Unsloth](https://github.com/unslothai/unsloth) - 2 倍运行、节省 70% 显存的 LLM 微调。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Funslothai%2Funsloth&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [MLX](https://github.com/ml-explore/mlx) - Apple Silicon 上的机器学习框架。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fml-explore%2Fmlx&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Weights & Biases](https://wandb.ai/) - ML 实验跟踪 + 模型管理。
-- [Label Studio](https://github.com/HumanSignal/label-studio) - 多类型数据标注平台。![GitHub stars](https://img.shields.io/github/stars/HumanSignal/label-studio?style=flat-square)
-- [DSPy](https://github.com/stanfordnlp/dspy) - 编程代替 prompt 工程。![GitHub stars](https://img.shields.io/github/stars/stanfordnlp/dspy?style=flat-square)
+- [Label Studio](https://github.com/HumanSignal/label-studio) - 多类型数据标注平台。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FHumanSignal%2Flabel-studio&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [DSPy](https://github.com/stanfordnlp/dspy) - 编程代替 prompt 工程。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fstanfordnlp%2Fdspy&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Hugging Face](https://huggingface.co/) - AI 社区平台——汇集模型、数据集与 Spaces，是 ML 研究的事实标准枢纽。
 - [SmithDB](https://www.langchain.com/blog/interrupt-2026-overview) - 🆕 **2026 年 5 月（Interrupt 2026）**。LangChain 自研的 Agent 观测数据库。Rust 写在 Apache DataFusion + Vortex 之上，带对象存储后端——为 Agent trace 的容量与访问模式量身设计。
 
@@ -893,19 +893,19 @@
 - [DeepLearning.AI Short Courses](https://www.deeplearning.ai/short-courses/) - 涵盖主要框架 / 协议的 AI 短课。
 - [LLM Agents MOOC (Berkeley)](https://llmagents-learning.org/f24) - UC Berkeley 的 LLM Agent 课程。
 - [Microsoft Agent Framework Docs](https://learn.microsoft.com/en-us/agent-framework/) - 🆕 微软统一 Agent 框架官方文档。
-- [Hugging Face Agents Course](https://github.com/huggingface/agents-course) - 5 单元免费课程（smolagents / LangGraph / Llama-Index）。![GitHub stars](https://img.shields.io/github/stars/huggingface/agents-course?style=flat-square)
-- [Anthropic Cookbook](https://github.com/anthropics/anthropic-cookbook) - 官方调工具、Computer Use、Agent 模式、Claude Code 示例本。![GitHub stars](https://img.shields.io/github/stars/anthropics/anthropic-cookbook?style=flat-square)
-- [Google Gemini Cookbook](https://github.com/google-gemini/cookbook) - Gemini API 示例：grounding / function calling / 多模态 / live audio。![GitHub stars](https://img.shields.io/github/stars/google-gemini/cookbook?style=flat-square)
-- [LLM Course (Maxime Labonne)](https://github.com/mlabonne/llm-course) - LLM 从入门到微调的完整课程 + Colab。![GitHub stars](https://img.shields.io/github/stars/mlabonne/llm-course?style=flat-square)
-- [Anthropic Courses](https://github.com/anthropics/courses) - Anthropic 官方 prompt engineering / 评测 / 工具调用课程。![GitHub stars](https://img.shields.io/github/stars/anthropics/courses?style=flat-square)
+- [Hugging Face Agents Course](https://github.com/huggingface/agents-course) - 5 单元免费课程（smolagents / LangGraph / Llama-Index）。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fhuggingface%2Fagents-course&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Anthropic Cookbook](https://github.com/anthropics/anthropic-cookbook) - 官方调工具、Computer Use、Agent 模式、Claude Code 示例本。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fanthropics%2Fanthropic-cookbook&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Google Gemini Cookbook](https://github.com/google-gemini/cookbook) - Gemini API 示例：grounding / function calling / 多模态 / live audio。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fgoogle-gemini%2Fcookbook&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [LLM Course (Maxime Labonne)](https://github.com/mlabonne/llm-course) - LLM 从入门到微调的完整课程 + Colab。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fmlabonne%2Fllm-course&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Anthropic Courses](https://github.com/anthropics/courses) - Anthropic 官方 prompt engineering / 评测 / 工具调用课程。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fanthropics%2Fcourses&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 
 ### 精选列表
 
-- [awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - 💤 **Stale**（2025-02 起无更新）。E2B 出品。![GitHub stars](https://img.shields.io/github/stars/e2b-dev/awesome-ai-agents?style=flat-square)
-- [awesome-llm-agents](https://github.com/kaushikb11/awesome-llm-agents) - LLM Agent 资源。![GitHub stars](https://img.shields.io/github/stars/kaushikb11/awesome-llm-agents?style=flat-square)
-- [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - 🆕 MCP server 实现精选。![GitHub stars](https://img.shields.io/github/stars/punkpeye/awesome-mcp-servers?style=flat-square)
-- [awesome-ai-agent-papers (VoltAgent)](https://github.com/VoltAgent/awesome-ai-agent-papers) - 🆕 2026 年 AI Agent 研究论文精选——覆盖 Agent 工程、记忆、评测、工作流、自主系统。每周从 arXiv 更新。![GitHub stars](https://img.shields.io/github/stars/VoltAgent/awesome-ai-agent-papers?style=flat-square)
-- [awesome-cli-coding-agents](https://github.com/bradAGI/awesome-cli-coding-agents) - 🆕 终端原生 AI 编程 Agent + 编排 harness 精选——开源工具（Pi / OpenCode / Aider / Goose）、平台 Agent（Claude Code / Codex / Gemini CLI）、并行运行器、自主循环。![GitHub stars](https://img.shields.io/github/stars/bradAGI/awesome-cli-coding-agents?style=flat-square)
+- [awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - 💤 **Stale**（2025-02 起无更新）。E2B 出品。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fe2b-dev%2Fawesome-ai-agents&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [awesome-llm-agents](https://github.com/kaushikb11/awesome-llm-agents) - LLM Agent 资源。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fkaushikb11%2Fawesome-llm-agents&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - 🆕 MCP server 实现精选。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fpunkpeye%2Fawesome-mcp-servers&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [awesome-ai-agent-papers (VoltAgent)](https://github.com/VoltAgent/awesome-ai-agent-papers) - 🆕 2026 年 AI Agent 研究论文精选——覆盖 Agent 工程、记忆、评测、工作流、自主系统。每周从 arXiv 更新。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FVoltAgent%2Fawesome-ai-agent-papers&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [awesome-cli-coding-agents](https://github.com/bradAGI/awesome-cli-coding-agents) - 🆕 终端原生 AI 编程 Agent + 编排 harness 精选——开源工具（Pi / OpenCode / Aider / Goose）、平台 Agent（Claude Code / Codex / Gemini CLI）、并行运行器、自主循环。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FbradAGI%2Fawesome-cli-coding-agents&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Agent Hospital](https://arxiv.org/abs/2405.02957) - 模拟可演化医疗 Agent 的医院环境。
 - [Multimodal Intelligence as the Dominant Paradigm in 2026 AI Systems](https://www.researchgate.net/publication/398878301) - 🆕 关于多模态 AI 成为 2026 默认范式的研究综述。
 - [DeepLearning.AI — AI Agents in LangGraph](https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/) - 用 LangGraph 构建 Agent 的短课程。
@@ -923,23 +923,23 @@
 
 ### Agent 平台与框架
 
-- [Dify](https://github.com/langgenius/dify) - 开源 LLM 应用开发平台 + 可视化 Agent 构建。中文技术圈主流低代码 Agent 画布。![GitHub stars](https://img.shields.io/github/stars/langgenius/dify?style=flat-square)
-- [Lobe Chat](https://github.com/lobehub/lobe-chat) - 多 Agent 聊天工作区 + 插件 / Agent 市场。最高 star 的 TypeScript AI 项目之一。Apache-2.0。![GitHub stars](https://img.shields.io/github/stars/lobehub/lobe-chat?style=flat-square)
-- [Cozeloop](https://github.com/coze-dev/cozeloop) - 🆕 字节 Coze 团队开源的 Agent 优化平台。![GitHub stars](https://img.shields.io/github/stars/coze-dev/cozeloop?style=flat-square)
-- [AgentScope](https://github.com/modelscope/agentscope) - 阿里 ModelScope 多 Agent 框架 + 可视化调试 + 分布式执行。Apache-2.0。![GitHub stars](https://img.shields.io/github/stars/modelscope/agentscope?style=flat-square)
-- [Bisheng](https://github.com/dataelement/bisheng) - 开源企业级 LLM DevOps：工作流 / RAG / Agent / 微调 / 评测。Apache-2.0。![GitHub stars](https://img.shields.io/github/stars/dataelement/bisheng?style=flat-square)
-- [MetaGPT](https://github.com/geekan/MetaGPT) - SOP 角色多 Agent（PM / 架构师 / 工程师）。DeepWisdom 出品。![GitHub stars](https://img.shields.io/github/stars/geekan/MetaGPT?style=flat-square)
+- [Dify](https://github.com/langgenius/dify) - 开源 LLM 应用开发平台 + 可视化 Agent 构建。中文技术圈主流低代码 Agent 画布。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Flanggenius%2Fdify&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Lobe Chat](https://github.com/lobehub/lobe-chat) - 多 Agent 聊天工作区 + 插件 / Agent 市场。最高 star 的 TypeScript AI 项目之一。Apache-2.0。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Flobehub%2Flobe-chat&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Cozeloop](https://github.com/coze-dev/cozeloop) - 🆕 字节 Coze 团队开源的 Agent 优化平台。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fcoze-dev%2Fcozeloop&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [AgentScope](https://github.com/modelscope/agentscope) - 阿里 ModelScope 多 Agent 框架 + 可视化调试 + 分布式执行。Apache-2.0。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fmodelscope%2Fagentscope&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Bisheng](https://github.com/dataelement/bisheng) - 开源企业级 LLM DevOps：工作流 / RAG / Agent / 微调 / 评测。Apache-2.0。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fdataelement%2Fbisheng&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [MetaGPT](https://github.com/geekan/MetaGPT) - SOP 角色多 Agent（PM / 架构师 / 工程师）。DeepWisdom 出品。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fgeekan%2FMetaGPT&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 
 ### RAG / 知识
 
-- [FastGPT](https://github.com/labring/FastGPT) - 知识库优先的 LLM 平台：数据摄入 / RAG / 可视化工作流。![GitHub stars](https://img.shields.io/github/stars/labring/FastGPT?style=flat-square)
-- [QAnything](https://github.com/netease-youdao/QAnything) - 💤 网易有道出品，针对任意本地文档的问答引擎。![GitHub stars](https://img.shields.io/github/stars/netease-youdao/QAnything?style=flat-square)
-- [RAGFlow](https://github.com/infiniflow/ragflow) - 深度文档理解的 RAG 引擎 —— 扫描 PDF 、表格、图表处理能力强。![GitHub stars](https://img.shields.io/github/stars/infiniflow/ragflow?style=flat-square)
-- [LightRAG](https://github.com/HKUDS/LightRAG) - 港大 HKUDS 轻量图式 RAG。![GitHub stars](https://img.shields.io/github/stars/HKUDS/LightRAG?style=flat-square)
+- [FastGPT](https://github.com/labring/FastGPT) - 知识库优先的 LLM 平台：数据摄入 / RAG / 可视化工作流。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Flabring%2FFastGPT&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [QAnything](https://github.com/netease-youdao/QAnything) - 💤 网易有道出品，针对任意本地文档的问答引擎。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fnetease-youdao%2FQAnything&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [RAGFlow](https://github.com/infiniflow/ragflow) - 深度文档理解的 RAG 引擎 —— 扫描 PDF 、表格、图表处理能力强。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Finfiniflow%2Fragflow&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [LightRAG](https://github.com/HKUDS/LightRAG) - 港大 HKUDS 轻量图式 RAG。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FHKUDS%2FLightRAG&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 
 ### 个人与生产力
 
-- [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - 开源 Notion 替代品 + AI 工作区。AGPL-3.0。![GitHub stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=flat-square)
+- [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - 开源 Notion 替代品 + AI 工作区。AGPL-3.0。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FAppFlowy-IO%2FAppFlowy&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Manus AI](https://manus.im/) - 通用自主 Agent（北京 Butterfly Effect）。中文技术圈 2026 最受关注的 Agent 产品之一。
 - [Coze (扣才)](https://www.coze.cn/) - 字节无代码 Agent 构建。国内面向消费者；国际版为 coze.com。
 - [通义千问 Agent](https://tongyi.aliyun.com/) - 阿里大众消费者 Agent，集成在淘宝 / 钉钉 / 夸克。
@@ -949,10 +949,10 @@
 
 - [Kilo Code](https://www.kilocode.com/) - 2026 中文社区热门的 Cursor 替代。默认 MiniMax 模型。
 - [CoderPlan](https://coderplan.ai/) - 面向中国开发者的统一 LLM API 网关（Claude / OpenAI / Gemini，一行配置支持 Claude Code），按量付费，支持支付宝 & 微信支付。
-- [Cherry Studio](https://github.com/CherryHQ/cherry-studio) - 中文开发者圈装机量最高的开源桌面 LLM 客户端，多提供商 + 知识库。![GitHub stars](https://img.shields.io/github/stars/CherryHQ/cherry-studio?style=flat-square)
+- [Cherry Studio](https://github.com/CherryHQ/cherry-studio) - 中文开发者圈装机量最高的开源桌面 LLM 客户端，多提供商 + 知识库。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FCherryHQ%2Fcherry-studio&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [ScienceOne 100 / 磐石100](https://english.cas.cn/newsroom/cas-in-media/202604/t20260429_1158251.shtml) - 🆕 中科院科研推理 Agent 系统，50+ 中科院研究所、100+ 科研场景、带 2000+ 研究工具。
-- [Kimi Code CLI](https://github.com/MoonshotAI/kimi-code) - 🆕 **2026 年 6 月 6 日**。Moonshot AI 的终端编程 Agent（MIT，TypeScript）——内置 coder / explore / plan 子 Agent 在隔离上下文里跑，`/mcp-config` 对话式 MCP 配置。![GitHub stars](https://img.shields.io/github/stars/MoonshotAI/kimi-code?style=flat-square)
-- [Coze Studio](https://github.com/coze-dev/coze-studio) - 🆕 字节 Coze.com 的开源对照版——一体化可视化 Agent 构建器，自带调试与部署工具。Apache-2.0，20K+ stars。![GitHub stars](https://img.shields.io/github/stars/coze-dev/coze-studio?style=flat-square)
+- [Kimi Code CLI](https://github.com/MoonshotAI/kimi-code) - 🆕 **2026 年 6 月 6 日**。Moonshot AI 的终端编程 Agent（MIT，TypeScript）——内置 coder / explore / plan 子 Agent 在隔离上下文里跑，`/mcp-config` 对话式 MCP 配置。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FMoonshotAI%2Fkimi-code&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Coze Studio](https://github.com/coze-dev/coze-studio) - 🆕 字节 Coze.com 的开源对照版——一体化可视化 Agent 构建器，自带调试与部署工具。Apache-2.0，20K+ stars。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fcoze-dev%2Fcoze-studio&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 
 ---
 
@@ -1498,20 +1498,20 @@
 
 *塑造 2026 年 AI Agent 格局的里程碑与事件。*
 
-- [Model Context Protocol (MCP)](https://github.com/modelcontextprotocol/servers) - 成为 Agent 工具互联互通的事实标准。已损赠给 Linux Foundation。![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=flat-square)
-- [A2A Protocol](https://github.com/google/A2A) - 🆕 Google A2A 让跨框架 Agent 协作，150+ 合作伙伴。![GitHub stars](https://img.shields.io/github/stars/google/A2A?style=flat-square)
+- [Model Context Protocol (MCP)](https://github.com/modelcontextprotocol/servers) - 成为 Agent 工具互联互通的事实标准。已损赠给 Linux Foundation。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fmodelcontextprotocol%2Fservers&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [A2A Protocol](https://github.com/google/A2A) - 🆕 Google A2A 让跨框架 Agent 协作，150+ 合作伙伴。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fgoogle%2FA2A&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Claude Code](https://docs.anthropic.com/en/docs/claude-code) - SWE-bench 80.9%，成为 2026 终端编程 Agent 首选。
 - [Kiro](https://kiro.dev/) - 🆕 AWS 发布的自主编程 Agent，可同时管理 10 个任务。
 - [Devin 3.0](https://www.cognition.ai/) - 🆕 动态重规划、自愉合代码、遗留代码迁移。
 - [Microsoft Agent Framework](https://learn.microsoft.com/en-us/agent-framework/) - 🆕 AutoGen + Semantic Kernel 合并。
-- [OpenAI Codex CLI](https://github.com/openai/codex) - OpenAI 进入开源终端 Agent 赛道。![GitHub stars](https://img.shields.io/github/stars/openai/codex?style=flat-square)
-- [Browser Use](https://github.com/browser-use/browser-use) - 让 AI Agent 自然使用网页的突破性项目。![GitHub stars](https://img.shields.io/github/stars/browser-use/browser-use?style=flat-square)
+- [OpenAI Codex CLI](https://github.com/openai/codex) - OpenAI 进入开源终端 Agent 赛道。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fopenai%2Fcodex&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Browser Use](https://github.com/browser-use/browser-use) - 让 AI Agent 自然使用网页的突破性项目。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fbrowser-use%2Fbrowser-use&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Claude Computer Use](https://www.anthropic.com/) - 🆕 Claude "Desktop Intelligence"。
 - [Manus AI](https://manus.im/) - 🇨🇳 🆕 通用自主 Agent，能处理研究 / 编程 / 复杂工作流。
-- [OpenHands](https://github.com/All-Hands-AI/OpenHands) - 开源 SWE Agent 平台大量采用。![GitHub stars](https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=flat-square)
-- [Dify](https://github.com/langgenius/dify) - 🇨🇳 低代码 LLM Agent 平台走向主流。![GitHub stars](https://img.shields.io/github/stars/langgenius/dify?style=flat-square)
-- [Cline](https://github.com/cline/cline) - VS Code 自主编程 Agent。![GitHub stars](https://img.shields.io/github/stars/cline/cline?style=flat-square)
-- [Mem0](https://github.com/mem0ai/mem0) - Agent 架构中的记忆层必备。![GitHub stars](https://img.shields.io/github/stars/mem0ai/mem0?style=flat-square)
+- [OpenHands](https://github.com/All-Hands-AI/OpenHands) - 开源 SWE Agent 平台大量采用。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FAll-Hands-AI%2FOpenHands&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Dify](https://github.com/langgenius/dify) - 🇨🇳 低代码 LLM Agent 平台走向主流。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Flanggenius%2Fdify&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Cline](https://github.com/cline/cline) - VS Code 自主编程 Agent。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fcline%2Fcline&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
+- [Mem0](https://github.com/mem0ai/mem0) - Agent 架构中的记忆层必备。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fmem0ai%2Fmem0&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [Sora 停服](https://openai.com/) - 🆕 OpenAI 2026-04 关闭 Sora，战略转向企业 + 推理。
 - [Kling VIDEO 3.0](https://kling.ai/) - 🇨🇳 🆕 快手出品，Sora 停服后的领先视频平台。
 - [Cohere + Aleph Alpha 合并](https://siliconangle.com/2026/04/24/ai-startups-cohere-aleph-alpha-merge-600m-new-funding/) - 🆕 **2026-04-24**。东西合作 “主权 AI”，多伦多 + 德国双总部，$20B 估值 + $600M 资金。
