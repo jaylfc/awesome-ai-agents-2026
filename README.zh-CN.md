@@ -92,6 +92,8 @@
 *为整个 AI 生态提供动力的大语言模型，按厂商组织。20+ 家厂商共 65+ 个模型。*
 
 ### OpenAI
+- [Sites for ChatGPT](https://openai.com/index/sites) - 🆕 **2026-06**。ChatGPT 的新功能，能将回答中的计划和分析直接转换为可交互、可分享的网页（Sites）。
+- [Codex 业务插件](https://openai.com) - 🆕 **2026-06**。面向企业的增强功能，为 Codex 平台引入销售、数据分析和创意制作的定制插件。
 
 - [GPT-5.5](https://openai.com/index/gpt-5-5-system-card/) - 🆕 **2026-04-23 发布**（代号 "Spud"）。OpenAI 面向 Agent 任务的新一代旗舰：编程、在线研究、数据分析、自主工具调用。推理稳定性与长任务执行力大幅提升。ChatGPT Plus / Pro / Business / Enterprise 可用。
 - [GPT-5.5 Pro](https://openai.com/index/gpt-5-5-system-card/) - 🆕 2026-04-23。并行测试期算力变体，更高准确率。Pro / Business / Enterprise。
@@ -140,6 +142,9 @@
 - [Bristol Myers Squibb ↔ Anthropic Claude Enterprise](https://news.bms.com/news/corporate-financial/2026/Bristol-Myers-Squibb-Announces-Strategic-Agreement-with-Anthropic-to-Position-Claude-Enterprise-as-the-Shared-Intelligence-Platform-Across-Its-Global-Operations/default.aspx) - 🆕 **2026-05-20**。BMS 将 Claude Enterprise 作为 30,000+ 员工的共享智能平台，嵌入药物发现 / 开发 / 交付的全链路。全球前 5 大药企中首个全公司级 Claude 部署。
 
 ### Google DeepMind
+- [Gemini 3.5 Pro](https://cloud.google.com/blog/products/ai-machine-learning/innovations-from-google-io-26-on-google-cloud) - 🆕 **2026-06**。Google 的旗舰模型，具备 **200万 token 上下文**和新的 "Deep Think" 推理模式。于 6 月向 Gemini Pro 和 Advanced 用户正式开放，对标 GPT-5.5 和 Claude Opus 4.8。
+- [Gemma 4 12B](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/) - 🆕 **2026-06**。新型多模态开源模型，采用**统一无编码器架构**，在单次计算中同时处理文本、图像和音频。支持在 16GB VRAM 显存下本地运行。
+- [DiffusionGemma](https://www.marktechpost.com/2026/06/10/google-ai-releases-diffusiongemma-a-26b-moe-open-model-using-text-diffusion-for-up-to-4x-faster-generation/) - 🆕 **2026-06**。采用**文本扩散 (text-diffusion)** 架构的 26B MoE 开源模型，生成速度比自回归模型快最高 **4 倍**。
 
 - [Gemini 3.5 Flash](https://blog.google/innovation-and-ai/sundar-pichai-io-2026/) - 🆕 **2026-05-19 — Google I/O 2026**。推出即成为 Gemini App + Google 搜索 AI Mode 的默认模型，官方称输出 token 速度 **约 4 倍于**同类顶级模型，在关键 benchmark 上超越 Gemini 3.1 Pro。Gemini 3.5 Pro 预计 6 月上线。
 - [Gemini Omni / Omni Flash](https://blog.google/innovation-and-ai/sundar-pichai-io-2026/) - 🆕 **2026-05-19 — Google I/O 2026**。DeepMind 面向 AGI 的新**世界模型**家族，Omni Flash 能从**任意输入输出任意模态**（首以视频起步，后续拓展到图像与文本），与 Gemini Robotics / Genie 路线一脉相承。
@@ -255,7 +260,8 @@
 - [GLM-5](https://z.ai/) - 2026-02 发布。744B 参数，Agent 能力前沿。MIT。
 - [GLM-4.7](https://z.ai/) - 2025 末发布。SWE-Bench 持平 Claude Opus 4。
 
-### MiniMax 🇨🇳
+### MiniMax
+- [MiniMax M3](https://www.minimax.ai) - 🆕 **2026-06**。最新旗舰模型，具备**前沿的编程能力**和 **100万 token 上下文**窗口。 🇨🇳
 
 - [MiniMax-M2.7 (开源权重)](https://www.minimax.io/) - 🆕 2026-04。1M+ 超长上下文。编程与 Agent 任务顶级表现。
 - [MiniMax M2.7（闭源）](https://venturebeat.com/technology/new-minimax-m2-7-proprietary-ai-model-is-self-evolving-and-can-perform-30-50) - 🆕 **2026-03**。自演化闭源 LLM，针对 Agent 框架搭建、记忆更新、工作流迭代优化；SWE-bench 类任务大幅提升。
@@ -290,6 +296,8 @@
 - [Nova Forge](https://aws.amazon.com/nova/) - 🆕 自定义 Nova 训练服务。
 
 ### NVIDIA (Nemotron)
+- [Nemotron 3.5 ASR](https://developer.nvidia.com/nemotron) - 🆕 **2026-06**。NVIDIA 先进的开源语音识别大模型。
+- [Nemotron 3 Ultra (550B)](https://developer.nvidia.com/nemotron) - 🆕 **2026-06**。高达 5500 亿参数的巨型开源模型，刷新本地运行模型的极限边界。
 
 - [Nemotron 3 Ultra](https://developer.nvidia.com/nemotron) - 🆕 2026-03（GTC）。前沿推理，Blackwell 上 5 倍吞吐。
 - [Nemotron 3 Super](https://developer.nvidia.com/nemotron) - 🆕 2026-03。120B 总 / 12B 激活。1M 上下文。
@@ -396,6 +404,7 @@
 - [mcp-gateway](https://github.com/Zijian-Ni/mcp-gateway) - MCP 网关，统一路由 / 认证 / 限流。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FZijian-Ni%2Fmcp-gateway&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 
 ### Agent-to-Agent Protocol (A2A)
+- [Microsoft Agent 365 / Scout](https://redmondmag.com/articles/2026/06/08/the-4-microsoft-build-2026-announcements-that-matter-most.aspx) - 🆕 **2026-06**。微软宣布推出基于 OpenClaw 框架原生构建的跨 Microsoft 365 自主 Agent——Scout。此外 KPMG 宣布为全球 27 万+ 员工部署 Agent 365。
 
 - [A2A Protocol](https://github.com/google/A2A) - 🆕 Google 主导的 Agent 间通信开放标准。让不同框架的 Agent 互相发现、委派、协作。Linux Foundation 治理，2026 年已有 150+ 合作组织。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fgoogle%2FA2A&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [A2A Course (DeepLearning.AI)](https://www.deeplearning.ai/short-courses/a2a-the-agent2agent-protocol/) - 🆕 免费课程：用 A2A 构建多 Agent 系统。
@@ -488,6 +497,7 @@
 ---
 
 ## 🔌 工具与 API 集成
+- [ZoomMate](https://www.marketingprofs.com/opinions/2026/54909/ai-update-june-5-2026-ai-news-and-views-from-the-past-week) - 🆕 **2026-06-01**。一种接入实时 Zoom 会议的智能体工具，能够直接在会议中将决策转化为 Salesforce、Jira 和 Slack 中的后续可执行操作。
 
 *让 Agent 接入外部服务与 API 的协议与工具。*
 
@@ -635,6 +645,7 @@
 *能感知、推理、在物理世界中行动的 AI —— 人形机器人、工厂自动化、Physical AI 基础设施。继语言 Agent 之后的下一波。*
 
 ### 基础模型与研究
+- [NVIDIA Cosmos 3](https://www.axios.com/2026/06/08/ai-news-nvidia-cosmos-3-openai-sites-solara-rtx-spark) - 🆕 **2026-06**。专为物理 AI 设计的底层基础模型。它并非仅仅基于文本，而是主要针对物理定律和空间几何进行训练，目标应用包括机器人和工厂自动化。
 
 - [Google Gemini Robotics ER-1.6](https://deepmind.google/) - 🆕 2026-04-14。机器人 AI，空间与物理推理增强。Agile Robotics 实地部署。
 - [Project Prometheus (Bezos)](https://www.reuters.com/) - 🆕 贝佐斯主导的 Physical AI 项目。$10B / $38B 估值融资。

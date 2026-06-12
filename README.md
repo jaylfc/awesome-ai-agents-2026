@@ -128,6 +128,8 @@ Entries may carry one or more status tags so readers can judge maturity at a gla
 *The latest large language models powering the AI ecosystem, organized by company. 60+ models from 20+ providers.*
 
 ### OpenAI
+- [Sites for ChatGPT](https://openai.com/index/sites) - 🆕 **June 2026**. A new ChatGPT feature that transforms plans and analyses into interactive, sharable websites.
+- [Codex Business Plugins](https://openai.com) - 🆕 **June 2026**. Enterprise enhancements bringing sales, data analytics, and creative production plugins directly to Codex.
 
 - [GPT-5.5](https://openai.com/index/gpt-5-5-system-card/) - 🆕 Released **April 23, 2026** (codename "Spud"). OpenAI's new frontier model for agentic tasks: coding, online research, data analysis, autonomous tool navigation. Significant gains in reasoning, consistency, and long-horizon task handling. Available on ChatGPT Plus / Pro / Business / Enterprise.
 - [GPT-5.5 Pro](https://openai.com/index/gpt-5-5-system-card/) - 🆕 April 23, 2026. Parallel test-time compute variant for higher-accuracy cognitive tasks. Pro / Business / Enterprise tiers.
@@ -181,6 +183,9 @@ Entries may carry one or more status tags so readers can judge maturity at a gla
 - [Bristol Myers Squibb ↔ Anthropic Claude Enterprise](https://news.bms.com/news/corporate-financial/2026/Bristol-Myers-Squibb-Announces-Strategic-Agreement-with-Anthropic-to-Position-Claude-Enterprise-as-the-Shared-Intelligence-Platform-Across-Its-Global-Operations/default.aspx) - 🆕 **May 20, 2026**. BMS adopts Claude Enterprise as its shared intelligence platform for 30,000+ employees globally, embedding agentic Claude into drug-discovery / development / delivery workflows. First top-5 pharma enterprise-wide Claude deployment.
 
 ### Google DeepMind
+- [Gemini 3.5 Pro](https://cloud.google.com/blog/products/ai-machine-learning/innovations-from-google-io-26-on-google-cloud) - 🆕 **June 2026**. Google's flagship model with a **2-million-token context window** and a new "Deep Think" reasoning mode. Released in June 2026 for Gemini Pro and Advanced tiers; competes with GPT-5.5 and Claude Opus 4.8.
+- [Gemma 4 12B](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/) - 🆕 **June 2026**. Novel multimodal open model with a **unified, encoder-free architecture** processing text, images, and audio in a single pass. Runs locally on 16 GB VRAM.
+- [DiffusionGemma](https://www.marktechpost.com/2026/06/10/google-ai-releases-diffusiongemma-a-26b-moe-open-model-using-text-diffusion-for-up-to-4x-faster-generation/) - 🆕 **June 2026**. 26B MoE open model using **text-diffusion** for up to **4× faster generation** than autoregressive models.
 
 - [Gemini 3.5 Flash](https://blog.google/innovation-and-ai/sundar-pichai-io-2026/) - 🆕 **May 19, 2026 — Google I/O 2026**. Default model powering the Gemini app and Google Search AI Mode. Marketed as **~4× faster** than other frontier models in output tokens/sec while outperforming Gemini 3.1 Pro on key benchmarks. Gemini 3.5 Pro slated for June 2026.
 - [Gemini Omni / Omni Flash](https://blog.google/innovation-and-ai/sundar-pichai-io-2026/) - 🆕 **May 19, 2026 — Google I/O 2026**. New Google DeepMind multimodal **world-model** family aimed at AGI. Omni Flash, the first shipped variant, can take any input modality and generate any output (starting with video; image and text generation following). Direct lineage to Gemini Robotics / Genie line of work.
@@ -262,7 +267,8 @@ Entries may carry one or more status tags so readers can judge maturity at a gla
 - [Qwen3 235B-A22B](https://qwen.ai/) - MoE with dual-mode reasoning. Strong math, code, and commonsense reasoning.
 - [Qwen2.5 Coder 32B](https://github.com/QwenLM/Qwen2.5-Coder) - Top open-source coding model. ![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FQwenLM%2FQwen2.5-Coder&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 
-### MiniMax (extra)
+### MiniMax
+- [MiniMax M3](https://www.minimax.ai) - 🆕 **June 2026**. New flagship model featuring **frontier coding capabilities** and a **1-million-token context window**. (extra)
 
 - [MiniMax M2.7](https://venturebeat.com/technology/new-minimax-m2-7-proprietary-ai-model-is-self-evolving-and-can-perform-30-50) - 🆇 🆕 **March 2026**. Proprietary self-evolving LLM tuned for agent harness construction, memory updates, iterative workflow improvement; major gains on SWE-bench-style tasks.
 - [MiniMax M2.5](https://www.codemotion.com/magazine/ai-ml/minimax-m2-5-low-costs-high-performance/) - 🆇 **February 2026**. 230B-parameter cost-efficient flagship for "real-world productivity".
@@ -322,6 +328,7 @@ Entries may carry one or more status tags so readers can judge maturity at a gla
 - [GLM-4.7](https://z.ai/) - Released late 2025. Matches Claude Opus 4 on SWE-Bench.
 
 ### MiniMax
+- [MiniMax M3](https://www.minimax.ai) - 🆕 **June 2026**. New flagship model featuring **frontier coding capabilities** and a **1-million-token context window**.
 
 - [MiniMax-M2.7 (Open Weights)](https://www.minimax.io/) - 🆕 April 2026. Ultra-long context (1M+ window). Top-tier performance on coding and Agent tasks.
 - [MiniMax-M1-80k](https://www.minimax.io/) - Open-weight hybrid-attention reasoning model. 456B parameters, 1M token context.
@@ -350,6 +357,8 @@ Entries may carry one or more status tags so readers can judge maturity at a gla
 - [Nova Forge](https://aws.amazon.com/nova/) - 🆕 "Open training" service for building custom Nova model variants with proprietary data.
 
 ### NVIDIA (Nemotron)
+- [Nemotron 3.5 ASR](https://developer.nvidia.com/nemotron) - 🆕 **June 2026**. NVIDIA's advanced open-weight speech recognition model.
+- [Nemotron 3 Ultra (550B)](https://developer.nvidia.com/nemotron) - 🆕 **June 2026**. Massive 550-billion-parameter open-weight model pushing the boundaries of local AI capabilities.
 
 - [Nemotron 3 Ultra](https://developer.nvidia.com/nemotron) - 🆕 Released March 2026 (GTC). Frontier-level reasoning, 5x throughput efficiency on Blackwell platform.
 - [Nemotron 3 Super](https://developer.nvidia.com/nemotron) - 🆕 Released March 2026. 120B total / 12B active. 1M context. 5x higher throughput vs predecessor.
@@ -450,6 +459,7 @@ Entries may carry one or more status tags so readers can judge maturity at a gla
 - [mcp-gateway](https://github.com/Zijian-Ni/mcp-gateway) - Gateway server for routing and managing MCP connections. ![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FZijian-Ni%2Fmcp-gateway&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 
 ### Agent-to-Agent Protocol (A2A)
+- [Microsoft Agent 365 / Scout](https://redmondmag.com/articles/2026/06/08/the-4-microsoft-build-2026-announcements-that-matter-most.aspx) - 🆕 **June 2026**. Microsoft announced Scout, an autonomous agent working across Microsoft 365, built natively on the OpenClaw framework. KPMG announced a massive global deployment of Agent 365 for 276,000+ professionals.
 
 - [A2A Protocol](https://github.com/google/A2A) - 🆕 Google's open standard for agent-to-agent communication. Enables agents to discover, delegate, and collaborate regardless of framework. Now governed by Linux Foundation with 150+ partner organizations. ![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fgoogle%2FA2A&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [A2A Course (DeepLearning.AI)](https://www.deeplearning.ai/short-courses/a2a-the-agent2agent-protocol/) - 🆕 Free course on building multi-agent systems with A2A.
@@ -465,6 +475,8 @@ Entries may carry one or more status tags so readers can judge maturity at a gla
 ---
 
 ## 🏗️ Agent Frameworks
+- [Nokia NSP Agentic AI](https://www.globenewswire.com/news-release/2026/06/11/3310210/0/en/nokia-introduces-agentic-ai-framework-in-network-services-platform-to-enable-trust-based-ai-operations-for-ip-networks.html) - 🆕 **June 2026**. Enterprise agentic framework for telecom Network Services Platforms (NSP), deploying agents to reason and execute routing/maintenance on complex IP networks.
+- [Alteryx Agent Studio](https://www.marketingprofs.com/opinions/2026/54909/ai-update-june-5-2026-ai-news-and-views-from-the-past-week) - 🆕 **June 2026**. No-code platform converting enterprise data workflows into autonomous agents, shipped with a native MCP Server.
 
 *Frameworks and libraries for building autonomous AI agents.*
 
@@ -541,6 +553,7 @@ Entries may carry one or more status tags so readers can judge maturity at a gla
 - [taOSmd](https://github.com/jaylfc/taosmd) - 🆕 ⚠️ **Unverified.** Local-first, append-only-transcript agent memory: typed temporal knowledge graph where corrected facts supersede old ones, plus hybrid vector + BM25 retrieval. Tuned for small local models, fully offline (runs on an 8 GB SBC). Author-reported 97% end-to-end Judge on LongMemEval-S; single-maintainer, 44 stars at audit time — benchmarks are reproducible per `docs/benchmarks.md`. MIT. ![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fjaylfc%2Ftaosmd&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 
 ## 🔌 Tool & API Integration
+- [ZoomMate](https://www.marketingprofs.com/opinions/2026/54909/ai-update-june-5-2026-ai-news-and-views-from-the-past-week) - 🆕 **June 1, 2026**. Agentic tool integrating into live Zoom meetings to connect decisions with actionable next steps across Salesforce, Jira, and Slack.
 
 *Protocols and tools for connecting agents to external services and APIs.*
 
@@ -607,6 +620,7 @@ Entries may carry one or more status tags so readers can judge maturity at a gla
 - [ActPlane](https://github.com/eunomia-bpf/ActPlane) - OS-level agent harness that compiles a policy DSL to an eBPF engine for labeled information-flow control at the syscall boundary. Enforces constraints below the tool layer so policies hold across any tool, subprocess, or direct syscall, with corrective feedback to the agent on violation. MIT. ![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Feunomia-bpf%2FActPlane&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 
 ## 🔍 RAG & Knowledge
+- [Oracle OCI Enterprise AI updates](https://blogs.oracle.com/ai-and-datascience/whats-new-in-ai-june-2026) - 🆕 **June 2026**. Enterprise deployment of Cohere Rerank 4 to enhance RAG and agentic enterprise search, plus expanded support for new Alibaba/Google models.
 
 *Retrieval-augmented generation and knowledge management systems for agents.*
 
@@ -681,10 +695,12 @@ Entries may carry one or more status tags so readers can judge maturity at a gla
 ---
 
 ## 🤖 Physical AI & Embodied Agents
+### Foundational Models & Research
 
 *AI systems that perceive, reason about, and act in the physical world — humanoid robots, factory automation, Physical AI infrastructure. The next wave after language agents.*
 
 ### Foundational Models & Research
+- [NVIDIA Cosmos 3](https://www.axios.com/2026/06/08/ai-news-nvidia-cosmos-3-openai-sites-solara-rtx-spark) - 🆕 **June 2026**. A foundation model explicitly trained on physics and spatial geometry rather than just text, targeting robotics, physical AI, and factory automation.
 
 - [Google Gemini Robotics ER-1.6](https://deepmind.google/) - 🆕 April 14, 2026. Robotics AI model with enhanced spatial and physical reasoning. Integrated into real robots via Agile Robotics partnership.
 - [Project Prometheus (Bezos)](https://www.reuters.com/) - 🆕 Jeff Bezos-led Physical AI venture. Raising $10B at $38B valuation to embed AI into physical systems and robotics.
@@ -1027,7 +1043,9 @@ Entries may carry one or more status tags so readers can judge maturity at a gla
 
 *Quick decision matrices for the most common "which one do I pick?" questions in 2026.*
 
-### 🏗️ Agent Frameworks (open-source)
+### 🏗️ Agent Frameworks
+- [Nokia NSP Agentic AI](https://www.globenewswire.com/news-release/2026/06/11/3310210/0/en/nokia-introduces-agentic-ai-framework-in-network-services-platform-to-enable-trust-based-ai-operations-for-ip-networks.html) - 🆕 **June 2026**. Enterprise agentic framework for telecom Network Services Platforms (NSP), deploying agents to reason and execute routing/maintenance on complex IP networks.
+- [Alteryx Agent Studio](https://www.marketingprofs.com/opinions/2026/54909/ai-update-june-5-2026-ai-news-and-views-from-the-past-week) - 🆕 **June 2026**. No-code platform converting enterprise data workflows into autonomous agents, shipped with a native MCP Server. (open-source)
 
 | Framework | Language | Multi-Agent | State / Graph | Streaming | License | Best For |
 |-----------|----------|------------|---------------|-----------|---------|----------|

@@ -6,6 +6,11 @@ Format: `YYYY-MM-DD  +Added  -Removed  ~Changed`.
 ## 2026-06-12 — Re-rank by strength / recency / popularity + readability polish (en/zh/ja sync)
 
 ### + Added (same day, third pass)
+### + Added (June 2026 massive expansion)
+- **Foundation Models**: Gemini 3.5 Pro, Gemma 4 12B, DiffusionGemma (Google); Nemotron 3.5 ASR, Nemotron 3 Ultra 550B (NVIDIA); MiniMax M3; OpenAI Sites, Codex Business Plugins.
+- **Frameworks & A2A**: Nokia NSP Agentic AI, Alteryx Agent Studio, Microsoft Agent 365 / Scout.
+- **Physical AI**: NVIDIA Cosmos 3.
+- **Tools & RAG**: ZoomMate, Oracle OCI Enterprise Cohere Rerank 4.
 
 - **Anthropic** — [Claude Fable 5](https://www.anthropic.com/news/claude-fable-5-mythos-5) + [Claude Mythos 5](https://www.anthropic.com/news/claude-fable-5-mythos-5) (June 9, 2026): Anthropic's first publicly available Mythos-class model and its restricted-access Project Glasswing sibling, added to the top of the Anthropic section in all three languages (en/zh/ja).
 

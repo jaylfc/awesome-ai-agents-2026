@@ -92,6 +92,8 @@
 *AI エコシステムを動かす最新の大規模言語モデル群、ベンダー別。20+ ベンダーから 65+ モデル。*
 
 ### OpenAI
+- [Sites for ChatGPT](https://openai.com/index/sites) - 🆕 **2026-06**。ChatGPT 内での計画や分析結果を、インタラクティブで共有可能な Web サイト（Sites）に変換する新機能。
+- [Codex ビジネスプラグイン](https://openai.com) - 🆕 **2026-06**。セールス、データ分析、クリエイティブ制作などの業務特化プラグインを Codex に直接導入するエンタープライズ機能強化。
 
 - [GPT-5.5](https://openai.com/index/gpt-5-5-system-card/) - 🆕 **2026-04-23 公開**（コードネーム "Spud"）。エージェントタスク向けの新フロンティア: コーディング、オンライン調査、データ分析、自律的なツール操作。推論の安定性と長時間タスク処理能力が大幅向上。ChatGPT Plus / Pro / Business / Enterprise で利用可能。
 - [GPT-5.5 Pro](https://openai.com/index/gpt-5-5-system-card/) - 🆕 2026-04-23。並列テストタイム計算による高精度バリアント。Pro / Business / Enterprise。
@@ -140,6 +142,9 @@
 - [Bristol Myers Squibb ↔ Anthropic Claude Enterprise](https://news.bms.com/news/corporate-financial/2026/Bristol-Myers-Squibb-Announces-Strategic-Agreement-with-Anthropic-to-Position-Claude-Enterprise-as-the-Shared-Intelligence-Platform-Across-Its-Global-Operations/default.aspx) - 🆕 **2026-05-20**。BMS が Claude Enterprise を 30,000+ 名の社員の共通インテリジェンス基盤として採用し、創薬・開発・デリバリーの全工程にエージェント化 Claude を組み込む。世界トップ 5 製薬企業で初めての公社規模での Claude 全社展開。
 
 ### Google DeepMind
+- [Gemini 3.5 Pro](https://cloud.google.com/blog/products/ai-machine-learning/innovations-from-google-io-26-on-google-cloud) - 🆕 **2026-06**。**200 万トークンのコンテキストウィンドウ**と新しい「Deep Think」推論モードを備える Google のフラッグシップモデル。6 月に Gemini Pro / Advanced 層向けに提供開始（GPT-5.5、Claude Opus 4.8 に対抗）。
+- [Gemma 4 12B](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/) - 🆕 **2026-06**。テキスト・画像・音声をシングルパスで処理する**統合エンコーダレスアーキテクチャ**を採用した新型マルチモーダルオープンモデル。16GB VRAM でのローカル動作を想定。
+- [DiffusionGemma](https://www.marktechpost.com/2026/06/10/google-ai-releases-diffusiongemma-a-26b-moe-open-model-using-text-diffusion-for-up-to-4x-faster-generation/) - 🆕 **2026-06**。**テキストディフュージョン（拡散）アーキテクチャ**により、自己回帰型モデルと比べて生成速度が最大 **4 倍**速い 26B の MoE オープンモデル。
 
 - [Gemini 3.5 Flash](https://blog.google/innovation-and-ai/sundar-pichai-io-2026/) - 🆕 **2026-05-19 — Google I/O 2026**。Gemini App と Google 検索 AI Mode の新しいデフォルトモデル。公式によると出力トークン速度は同類のフロンティアモデルより **約 4 倍高速**、主要ベンチマークで Gemini 3.1 Pro を上回る。Gemini 3.5 Pro は 6 月以降に公開予定。
 - [Gemini Omni / Omni Flash](https://blog.google/innovation-and-ai/sundar-pichai-io-2026/) - 🆕 **2026-05-19 — Google I/O 2026**。Google DeepMind の AGI を見揮えた新しい**ワールドモデル**ファミリー。Omni Flash は**任意の入力から任意のモダリティを生成**（まずビデオから、画像とテキストは順次拡張）でき、Gemini Robotics / Genie の路線を受け継ぐ。
@@ -255,7 +260,8 @@
 - [GLM-5](https://z.ai/) - 2026-02 公開。744B パラメータ、先進的なエージェント知性。MIT。
 - [GLM-4.7](https://z.ai/) - 2025 年末公開。SWE-Bench で Claude Opus 4 と互角。
 
-### MiniMax 🇨🇳
+### MiniMax
+- [MiniMax M3](https://www.minimax.ai) - 🆕 **2026-06**。**フロンティア級のコーディング能力**と **100万トークンのコンテキスト**を備えた新しいフラッグシップモデル。 🇨🇳
 
 - [MiniMax-M2.7 (オープンウェイト)](https://www.minimax.io/) - 🆕 2026-04。1M+ の超長文脈ウィンドウ。コーディング・エージェントタスクでトップクラス。
 - [MiniMax M2.7（クローズド）](https://venturebeat.com/technology/new-minimax-m2-7-proprietary-ai-model-is-self-evolving-and-can-perform-30-50) - 🆕 **2026-03**。自己進化型のクローズド LLM。エージェントハーネスの構築、メモリ更新、ワークフローの反復改善に最適化され、SWE-bench 系タスクで大幅な性能向上。
@@ -290,6 +296,8 @@
 - [Nova Forge](https://aws.amazon.com/nova/) - 🆕 カスタム Nova モデル訓練サービス。
 
 ### NVIDIA (Nemotron)
+- [Nemotron 3.5 ASR](https://developer.nvidia.com/nemotron) - 🆕 **2026-06**。NVIDIA の高性能なオープンウェイト音声認識モデル。
+- [Nemotron 3 Ultra (550B)](https://developer.nvidia.com/nemotron) - 🆕 **2026-06**。5,500 億パラメータという巨大なスケールでローカル AI の限界を押し広げるオープンウェイトモデル。
 
 - [Nemotron 3 Ultra](https://developer.nvidia.com/nemotron) - 🆕 2026-03（GTC）。フロンティア級推論、Blackwell で 5 倍スループット。
 - [Nemotron 3 Super](https://developer.nvidia.com/nemotron) - 🆕 2026-03。120B 総 / 12B アクティブ、1M コンテキスト。
@@ -396,6 +404,7 @@
 - [mcp-gateway](https://github.com/Zijian-Ni/mcp-gateway) - MCP 接続のルーティングと管理を行うゲートウェイ。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FZijian-Ni%2Fmcp-gateway&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 
 ### Agent-to-Agent Protocol (A2A)
+- [Microsoft Agent 365 / Scout](https://redmondmag.com/articles/2026/06/08/the-4-microsoft-build-2026-announcements-that-matter-most.aspx) - 🆕 **2026-06**。Microsoft は、OpenClaw フレームワーク上にネイティブ構築され、Microsoft 365 を横断して自律的に機能するエージェント「Scout」を発表。KPMG は 27.6 万人以上の専門家向けに Agent 365 をグローバル展開すると発表。
 
 - [A2A Protocol](https://github.com/google/A2A) - 🆕 Google が主導するエージェント間通信のオープン標準。フレームワーク不問でエージェントの発見・委譲・協調を可能にする。Linux Foundation 統治、150+ パートナー。![GitHub stars](https://img.shields.io/badge/dynamic/json?label=Stars&query=%24.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fgoogle%2FA2A&color=yellow&logo=github&logoColor=white&style=flat&cacheSeconds=300)
 - [A2A Course (DeepLearning.AI)](https://www.deeplearning.ai/short-courses/a2a-the-agent2agent-protocol/) - 🆕 A2A でマルチエージェントシステムを構築する無料コース。
@@ -410,6 +419,8 @@
 ---
 
 ## 🏗️ エージェントフレームワーク
+- [Nokia NSP Agentic AI](https://www.globenewswire.com/news-release/2026/06/11/3310210/0/en/nokia-introduces-agentic-ai-framework-in-network-services-platform-to-enable-trust-based-ai-operations-for-ip-networks.html) - 🆕 **2026-06**。通信の Network Services Platform (NSP) 向けエンタープライズエージェントフレームワーク。複雑な IP ネットワーク上で推論とルーティング/保守実行を行うエージェントを展開する。
+- [Alteryx Agent Studio](https://www.marketingprofs.com/opinions/2026/54909/ai-update-june-5-2026-ai-news-and-views-from-the-past-week) - 🆕 **2026-06**。企業データワークフローを自律的エージェントに変換するノーコードプラットフォーム。ネイティブの MCP Server を搭載。
 
 *自律 AI エージェントを構築するためのフレームワークとライブラリ。*
 
@@ -488,6 +499,7 @@
 ---
 
 ## 🔌 ツールと API 連携
+- [ZoomMate](https://www.marketingprofs.com/opinions/2026/54909/ai-update-june-5-2026-ai-news-and-views-from-the-past-week) - 🆕 **2026-06-01**。ライブの Zoom 会議に統合され、決定事項を Salesforce、Jira、Slack 上の実行可能なネクストアクションに直接結びつけるエージェント型ツール。
 
 *エージェントを外部サービス・API に接続するプロトコルとツール。*
 
@@ -556,6 +568,7 @@
 ---
 
 ## 🔍 RAG とナレッジ
+- [Oracle OCI Enterprise AI updates](https://blogs.oracle.com/ai-and-datascience/whats-new-in-ai-june-2026) - 🆕 **2026-06**。RAG およびエンタープライズのエージェント型検索を強化する Cohere Rerank 4 の展開に加え、Alibaba や Google の新モデルへのサポートを拡大。
 
 *エージェント用の検索拡張生成と知識管理システム。*
 
@@ -635,6 +648,7 @@
 *物理世界を知覚し推論し行動する AI —— ヒューマノイドロボット、工場自動化、Physical AI インフラ。言語エージェントの次の波。*
 
 ### 基盤モデルと研究
+- [NVIDIA Cosmos 3](https://www.axios.com/2026/06/08/ai-news-nvidia-cosmos-3-openai-sites-solara-rtx-spark) - 🆕 **2026-06**。単なるテキストではなく、物理法則と空間幾何学に基づいて学習された物理 AI 向け基盤モデル。ロボット工学や工場自動化をターゲットとする。
 
 - [Google Gemini Robotics ER-1.6](https://deepmind.google/) - 🆕 2026-04-14。空間・物理推論が強化されたロボティクス AI モデル。Agile Robotics と提携して実機で展開。
 - [Project Prometheus (Bezos)](https://www.reuters.com/) - 🆕 ジェフ・ベゾス主導の Physical AI ベンチャー。評価額 $38B、$10B を調達。
@@ -968,7 +982,9 @@
 
 *2026 年に最もよく出てくる「どれを選ぶ？」の判断マトリクス。*
 
-### 🏗️ エージェントフレームワーク（オープンソース向け）
+### 🏗️ エージェントフレームワーク
+- [Nokia NSP Agentic AI](https://www.globenewswire.com/news-release/2026/06/11/3310210/0/en/nokia-introduces-agentic-ai-framework-in-network-services-platform-to-enable-trust-based-ai-operations-for-ip-networks.html) - 🆕 **2026-06**。通信の Network Services Platform (NSP) 向けエンタープライズエージェントフレームワーク。複雑な IP ネットワーク上で推論とルーティング/保守実行を行うエージェントを展開する。
+- [Alteryx Agent Studio](https://www.marketingprofs.com/opinions/2026/54909/ai-update-june-5-2026-ai-news-and-views-from-the-past-week) - 🆕 **2026-06**。企業データワークフローを自律的エージェントに変換するノーコードプラットフォーム。ネイティブの MCP Server を搭載。（オープンソース向け）
 
 | フレームワーク | 言語 | マルチエージェント | 状態 / グラフ | ストリーミング | License | 適している用途 |
 |------------|------|------------|----------------|----------------|---------|----------|
