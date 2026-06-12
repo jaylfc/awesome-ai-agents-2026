@@ -117,6 +117,8 @@
 
 ### Anthropic
 
+- [Claude Fable 5](https://www.anthropic.com/news/claude-fable-5-mythos-5) - 🆕 **2026-06-09**。Anthropic 初の一般提供 **Mythos クラス**モデル — Opus の上位に位置する能力ティア。ソフトウェアエンジニアリング、ナレッジワーク、ビジョン、科学研究の各ベンチマークで Opus 4.8 を上回る。セーフガード内蔵（サイバー/バイオ系の機微なクエリは Opus 4.8 へ再ルーティングされる場合あり）。入力 $10 / 出力 $50（100 万 token あたり）。Anthropic API、Amazon Bedrock、Google Cloud Vertex AI で利用可。
+- [Claude Mythos 5](https://www.anthropic.com/news/claude-fable-5-mythos-5) - 🆕 **2026-06-09**。Fable 5 と同一基盤の Mythos クラスモデルを制限を緩めて提供。米国政府と連携した **Project Glasswing** を通じ、審査済みパートナー（サイバーセキュリティ企業、インフラ事業者）限定で展開。4 月の Claude Mythos Preview の正式後継。
 - [Claude Opus 4.8](https://www.anthropic.com/claude/opus) - 🆕 **2026-05-28**。Opus シリーズの大規模アップデート：コードベース規模のマイグレーション、エージェント判断の鮮明化、「ダイナミックワークフロー」リサーチプレビューで 1 セッション中に数百のサブエージェントを並列実行可能、手動「エフォートコントロール」パネル、**Fast モード 3 倍安い**（入力 $5 / 出力 $25 / 100 万 token は同価）。Anthropic ネイティブ、Amazon Bedrock、AWS Claude Platform、Google Cloud、Microsoft Foundry で利用可。限定企業向けに **Mythos クラス** モデルを予告。
 - [Claude Opus 4.6](https://www.anthropic.com/) - 2026-02 公開。1M トークン、14.5 時間のタスク完了。Arena 会話リーダーボード首位。
 - [Claude Sonnet 4.6](https://www.anthropic.com/news/claude-sonnet-4-6) - 2026-02 公開。フロンティア級コーディングとエージェント性能、1M トークンコンテキスト。

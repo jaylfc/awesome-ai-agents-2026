@@ -5,6 +5,10 @@ Format: `YYYY-MM-DD  +Added  -Removed  ~Changed`.
 
 ## 2026-06-12 — Re-rank by strength / recency / popularity + readability polish (en/zh/ja sync)
 
+### + Added (same day, third pass)
+
+- **Anthropic** — [Claude Fable 5](https://www.anthropic.com/news/claude-fable-5-mythos-5) + [Claude Mythos 5](https://www.anthropic.com/news/claude-fable-5-mythos-5) (June 9, 2026): Anthropic's first publicly available Mythos-class model and its restricted-access Project Glasswing sibling, added to the top of the Anthropic section in all three languages (en/zh/ja).
+
 ### ~ Changed (no entries removed; ordering, placement, and sync fixes only)
 
 **Category re-ranking — newest/strongest first** (verified against June 2026 coverage: the frontier race is GPT-5.5 vs Claude Opus 4.8 vs Gemini 3.5):

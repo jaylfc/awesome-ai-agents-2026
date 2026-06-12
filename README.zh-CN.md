@@ -117,6 +117,8 @@
 
 ### Anthropic
 
+- [Claude Fable 5](https://www.anthropic.com/news/claude-fable-5-mythos-5) - 🆕 **2026-06-09**。Anthropic 首个公开可用的 **Mythos 级别**模型——能力层级高于 Opus。在软件工程、知识工作、视觉、科研等基准全面超越 Opus 4.8。内置安全护栏（涉网络安全/生物的敏感请求可能被路由到 Opus 4.8）。$10 / $50 每百万输入/输出 token。Anthropic API、Amazon Bedrock、Google Cloud Vertex AI 可用。
+- [Claude Mythos 5](https://www.anthropic.com/news/claude-fable-5-mythos-5) - 🆕 **2026-06-09**。与 Fable 5 同底座的 Mythos 级模型，限制更少，仅通过 **Project Glasswing**（与美国政府合作）向受信伙伴（网络安全公司、基础设施供应商）开放。4 月 Claude Mythos Preview 的正式后继。
 - [Claude Opus 4.8](https://www.anthropic.com/claude/opus) - 🆕 **2026-05-28**。Opus 重大迭代：代码库级别的迁移能力、更准的 Agent 判断，推出研究预览的「动态工作流」能在单 session 里并发几百个子 Agent，加入手动调节推理投入的「努力控制」面板；**Fast 模式价格降 3 倍**，输入 / 输出仍为 $5 / $25 每百万 token。Anthropic 原生、Amazon Bedrock、AWS Claude Platform、Google Cloud、Microsoft Foundry 上线。同时预告面向小范围企业的 **Mythos 级别**新一代模型。
 - [Claude Opus 4.6](https://www.anthropic.com/) - 2026-02 发布。1M token 上下文，14.5 小时任务执行。LMArena 对话榜首。
 - [Claude Sonnet 4.6](https://www.anthropic.com/news/claude-sonnet-4-6) - 2026-02 发布。前沿编程与 Agent 表现，1M token 上下文。
