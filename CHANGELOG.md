@@ -3,6 +3,24 @@
 All notable changes to **Awesome AI Agents 2026** are recorded here.
 Format: `YYYY-MM-DD  +Added  -Removed  ~Changed`.
 
+## 2026-06-19 — June 2026 trend backfill into README.md (en) + en/zh/ja re-sync & broken-link fixes
+
+### Context
+- The 4 recently merged community items (**Prismix**, **Agentage Memory**, **NotFair**, **WalletPrint**) were already present and localized in **all three** READMEs — verified in place (MCP / Tool & API Integration / Agent Security / Agent Evaluation), no action needed.
+- A prior run had added six June 2026 trends to **zh-CN + ja only** — they were **missing entirely from README.md (English)** and several were mis-categorized. This run brings English to parity and re-syncs categories across all three.
+
+### + Added to README.md (English) — web-verified, mirrored to existing zh/ja entries
+- **Agent Frameworks**: **[Vercel Eve](https://github.com/vercel/eve)** (June 17, 2026, Vercel Ship 2026 — filesystem-first open-source TS agent framework, Apache-2.0) and **[Databricks Omnigent](https://github.com/omnigent-ai/omnigent)** (June 13, 2026 — open-source meta-harness over Claude Code / Codex / Pi, Apache-2.0).
+- **Enterprise Agent Platforms**: **[Databricks Genie One](https://www.databricks.com/blog/introducing-genie-one-genie-ontology-and-genie-agents)** (June 16, 2026, Data + AI Summit), **[ZenseAI.AgentMesh (Zensar)](https://www.prnewswire.com/news-releases/zensar-technologies-launches-zenseaiagentmesh-to-accelerate-enterprise-ai-adoption-at-scale-302805437.html)** (June 19, 2026), **[Meta Business Agent](https://about.fb.com/news/2026/06/meta-business-agent/)** (June 3, 2026 global rollout).
+- **Agent Security**: **[Alchemy & Visa AgentCard](https://www.coindesk.com/business/2026/06/18/alchemy-s-ai-driven-identity-and-payment-service-gains-access-to-visa-network)** (June 18, 2026 — agent payments + identity on Visa Intelligent Commerce).
+
+### ~ Changed / de-drift (zh-CN + ja)
+- Relocated mis-categorized entries to match the corrected English placement: **Vercel Eve** moved out of *Agent-to-Agent Protocol* into *Agent Frameworks*; **Genie One / ZenseAI.AgentMesh / Meta Business Agent / Omnigent** moved out of the tail of *Agent Evaluation & Observability* into *Agent Frameworks* (Omnigent) and *Enterprise Agent Platforms* (the rest). Eval sections now correctly end at **Prismix**.
+- **Fixed 4 broken links** introduced by the prior run (all returned HTTP 404): `vercel.com/blog/eve` → `github.com/vercel/eve`; `databricks.com/blog/introducing-genie-one` → the full `…-genie-ontology-and-genie-agents` URL; `pymnts.com/…alchemy-teams-with-visa…` → CoinDesk; `about.fb.com/…/meta-business-agent-whatsapp-instagram-messenger/` → the official `about.fb.com/news/2026/06/meta-business-agent/`.
+
+### ✓ Verified
+- All 6 new/updated URLs return **HTTP 200** (curl GET, browser UA). Each trend appears exactly once per category and is consistent across en / zh-CN / ja.
+
 ## 2026-06-16 — Weekly maintenance: PR triage + June 12–13 updates + Foundation Models de-drift (en/zh/ja sync)
 
 ### PR triage
